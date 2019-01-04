@@ -33,9 +33,9 @@
      name: '望哥的博客',
      repo: '',
      themeColor: '#19BE6B',
-     loadSidebar: true,
+     loadSidebar: false,
      subMaxLevel: 4,
-     loadNavbar: false,
+     loadNavbar: true,
      notFoundPage: true,
      search: 'auto',
      plugins: [
