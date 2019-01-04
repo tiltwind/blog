@@ -1,5 +1,7 @@
 
-find . -type d -name "20*" |sort -r|awk -F '/' '{if($2!="") {print "- ["$2"](/"$2")"}}' > _navbar.md
+find . -type d -name "20*" |sort -r|awk -F '/' '{if($2!="") {print "* ["$2"](/"$2"/)"}}' > _navbar.md
+cp _navbar.md _sidebar.md
+cp _navbar.md README.md
 
 years=$(find . -type d -name "20*" | sort -r | paste -sd " " -)
 echo "years:$years"
@@ -17,9 +19,10 @@ do
 	for file in $files
 	do
 		title=$(grep "title:" $file | awk -F ':' '{print $2}'|xargs)
-		path=${file:1:1000}
-		echo "- [$title]($path)" >> $navbar
-		echo "- [$title]($path)" >> $readme
+		filename="${file##*/}"
+		filename="${filename%.*}"
+		echo "* [$title](/$y/$filename)" >> $navbar
+		echo "* [$title](/$y/$filename" >> $readme
 	done
 done
 

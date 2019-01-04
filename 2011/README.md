@@ -1,31 +1,31 @@
 # 2011
-- [财富能量学PBM个人盈利系统随堂笔记](/2011/2011-12-19-PBM.markdown)
-- [Linux批量修改符合某一条件文件权限](/2011/2011-12-13-batch_mod_permission_by_pattern_in_linux.markdown)
-- [Default Encoding of AIX System ](/2011/2011-12-01-default-encoding-of-aix-system.markdown)
-- [MSSQL Export/Import Table Data with image type field](/2011/2011-11-30-mssql-exportimport-table-data-with-image-type-field.markdown)
-- [isBlank&isEmpty of Apache StringUtils](/2011/2011-11-11-isblankisempty-of-apache-stringutils.markdown)
-- [面试技巧——如何更精确的评估技术能力](/2011/2011-11-05-how_to_evaluate_skill_in_interview.markdown)
-- [360buy Shielding EtaoSpider](/2011/2011-11-01-360buy-shielding-etaospider.markdown)
-- [听完美的完美人生课](/2011/2011-09-12-wanmei-lecture.markdown)
-- [Replace special BIG5 character](/2011/2011-09-01-replace-char-with-ufffd-when-decode-failed.markdown)
-- [人的性格](/2011/2011-09-01-human_nature.markdown)
-- [静待亚洲股市快速恢复](/2011/2011-08-09-wish_asia_stock_get_well.markdown)
-- [关于小公司成立要注意一些事情](/2011/2011-07-12-tips_should_noticed_when_building_little_company.markdown)
-- [commons-httpclient 和 httpclient的不同之处](/2011/2011-07-03-commons-httpclient-and-httpclient.markdown)
-- [Java code analysis tools](/2011/2011-07-02-java-code-analysis-tools.markdown)
-- [iCalendar乱码问题](/2011/2011-07-01-icalendar_mass_code.markdown)
-- [Email subject format](/2011/2011-06-17-email-subject-format.markdown)
-- [Autostart Program under Linux](/2011/2011-06-08-autostart-program-under-linux.markdown)
-- [棍子上的蚂蚁](/2011/2011-05-31-ant_on_the_stick.markdown)
-- [说说微博](/2011/2011-05-05-about_weibo.markdown)
-- [swift 电文格式校验框架](/2011/2011-04-16-swift_format_check_framework.markdown)
-- [网页质量评估办法](/2011/2011-03-29-how_to_judge_a_good_web_page.markdown)
-- [战胜势均力敌的对手](/2011/2011-03-29-how_to_beat_powerful_enemy.markdown)
-- [Web代理](/2011/2011-03-17-web_proxy.markdown)
-- [周末的一些事儿](/2011/2011-03-12-something.markdown)
-- [奥斯卡的价值观](/2011/2011-02-28-oscar_value.markdown)
-- [产品过期日期应该打印在内包装盒上](/2011/2011-02-22-product_usage_deadline_should_printed_on_packages.markdown)
-- [C调用Java的例子](/2011/2011-02-16-c_invoke_java.markdown)
-- [WSDL转HTML工具](/2011/2011-01-12-wsdl2htmltool.markdown)
-- [Baidu也添加即时搜索了](/2011/2011-01-11-baidu-instant-search.markdown)
-- [20个优秀Web应用](/2011/2011-01-07-20_good_web_app.markdown)
+* [财富能量学PBM个人盈利系统随堂笔记](/2011/2011-12-19-PBM
+* [Linux批量修改符合某一条件文件权限](/2011/2011-12-13-batch_mod_permission_by_pattern_in_linux
+* [Default Encoding of AIX System ](/2011/2011-12-01-default-encoding-of-aix-system
+* [MSSQL Export/Import Table Data with image type field](/2011/2011-11-30-mssql-exportimport-table-data-with-image-type-field
+* [isBlank&isEmpty of Apache StringUtils](/2011/2011-11-11-isblankisempty-of-apache-stringutils
+* [面试技巧——如何更精确的评估技术能力](/2011/2011-11-05-how_to_evaluate_skill_in_interview
+* [360buy Shielding EtaoSpider](/2011/2011-11-01-360buy-shielding-etaospider
+* [听完美的完美人生课](/2011/2011-09-12-wanmei-lecture
+* [Replace special BIG5 character](/2011/2011-09-01-replace-char-with-ufffd-when-decode-failed
+* [人的性格](/2011/2011-09-01-human_nature
+* [静待亚洲股市快速恢复](/2011/2011-08-09-wish_asia_stock_get_well
+* [关于小公司成立要注意一些事情](/2011/2011-07-12-tips_should_noticed_when_building_little_company
+* [commons-httpclient 和 httpclient的不同之处](/2011/2011-07-03-commons-httpclient-and-httpclient
+* [Java code analysis tools](/2011/2011-07-02-java-code-analysis-tools
+* [iCalendar乱码问题](/2011/2011-07-01-icalendar_mass_code
+* [Email subject format](/2011/2011-06-17-email-subject-format
+* [Autostart Program under Linux](/2011/2011-06-08-autostart-program-under-linux
+* [棍子上的蚂蚁](/2011/2011-05-31-ant_on_the_stick
+* [说说微博](/2011/2011-05-05-about_weibo
+* [swift 电文格式校验框架](/2011/2011-04-16-swift_format_check_framework
+* [网页质量评估办法](/2011/2011-03-29-how_to_judge_a_good_web_page
+* [战胜势均力敌的对手](/2011/2011-03-29-how_to_beat_powerful_enemy
+* [Web代理](/2011/2011-03-17-web_proxy
+* [周末的一些事儿](/2011/2011-03-12-something
+* [奥斯卡的价值观](/2011/2011-02-28-oscar_value
+* [产品过期日期应该打印在内包装盒上](/2011/2011-02-22-product_usage_deadline_should_printed_on_packages
+* [C调用Java的例子](/2011/2011-02-16-c_invoke_java
+* [WSDL转HTML工具](/2011/2011-01-12-wsdl2htmltool
+* [Baidu也添加即时搜索了](/2011/2011-01-11-baidu-instant-search
+* [20个优秀Web应用](/2011/2011-01-07-20_good_web_app
