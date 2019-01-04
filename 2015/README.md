@@ -9,7 +9,6 @@
  [2012](/2012/)
  [2011](/2011/)
  [2010](/2010/)
----------
 ## 2015
 * [Build Website with Github Pages](/2015/2015-11-15-build-website-with-github-pages)
 * [普通员工和管理者之间的差别](/2015/2015-08-16-diff-between-employee-and-manager)

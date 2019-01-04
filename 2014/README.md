@@ -9,7 +9,6 @@
  [2012](/2012/)
  [2011](/2011/)
  [2010](/2010/)
----------
 ## 2014
 * [Javadoc翻译——Spring @Configuration注解](/2014/2014-12-12-javadoc-spring-configuration)
 * [Javadoc翻译——Spring注解@Bean](/2014/2014-12-12-javadoc-spring-bean)

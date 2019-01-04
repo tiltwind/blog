@@ -16,7 +16,6 @@ do
 	y=${year:2:100}
 	
 	cat README.md > $readme
-	echo "---------" >> $readme
 	echo "## $y" >> $readme
 
 	files=$(find $year -type f|grep -v navbar|grep -v README |sort -r)
