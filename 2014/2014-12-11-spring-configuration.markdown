@@ -19,7 +19,7 @@ tags:
 
 
 
-## **1. 获得项目配置信息资源：**
+##**1. 获得项目配置信息资源：**
 
 
 	项目中常常会有多个配置文件，如jdbc.properties, site.properites, version.perperties等，每个配置文件配置的内容并不一样，一般不会出现重复的情况，故可将所有这些配置文件内容合并的一个properties对象中统一作一个属性资源。
@@ -41,7 +41,7 @@ tags:
 
 
 
-## **2. 添加项目配置资源到Environment资源链表中：**
+##**2. 添加项目配置资源到Environment资源链表中：**
 
 
 	按照Spring Javadoc，有两种方式将资源加入到Environment：
@@ -69,7 +69,7 @@ tags:
 	
 
 
-## **3. 使用Environment：**
+##**3. 使用Environment：**
 
 
 	以下示例从Environment中读取DB连接配置并实例化数据源:

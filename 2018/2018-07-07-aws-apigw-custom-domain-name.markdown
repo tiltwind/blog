@@ -78,7 +78,7 @@ info 	    info 	    live
 但这样配置后访问 `https://api.company.com/record/list` 提示404找不到资源地址。
 查看lambda日志，lambda 接收到的资源请求地址是 `/record/list`,
 
-大胆假设: **custom domain name访问时资源的转发地址会把域名后面的全部地址(包括 base path)作为资源地址**。
+大胆假设:**custom domain name访问时资源的转发地址会把域名后面的全部地址(包括 base path)作为资源地址**。
 
 于是修改lambda record 服务资源地址为:
 * /record/a/insert
@@ -121,7 +121,7 @@ info 	    info 	    live
 这样配置所有直接通过api gateway的请求实际上都是通过 `//{proxy+}/ANY` 方法映射的，也就没有进行验证。
 而通过custom domain name访问 `https://api.company.com/record/a/insert` 则是有进行验证的。
 
-得出结论: **通过custom domain name访问的请求会将base path后面部分交由api gateway去路由，但却会以包括base path的完整资源地址请求后端lambda服务。**
+得出结论:**通过custom domain name访问的请求会将base path后面部分交由api gateway去路由，但却会以包括base path的完整资源地址请求后端lambda服务。**
 
 团队原本想做整合测试的时候直接通过api gateway的地址访问，
 如果要实现这样的功能，api gateway资源映射还需要考虑两者请求，分别进行配置，如下：

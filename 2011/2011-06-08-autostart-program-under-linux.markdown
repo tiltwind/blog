@@ -52,7 +52,7 @@ ANSWER:
 hello, I'm hoping (with your help ) I can get a program to run from boot time in debian. Basically I  want  the system to boot and launch straight into the program without  going  into x or asking for a passwords etc.  Can anyone advise how I do  this?  Thanks
 
 REPLY:
-This sounds like two distinct requests.** ****If you don't want to start X  when the system boots, go into your /etc/inittab and change the default  runlevel to 3**.
+This sounds like two distinct requests.******If you don't want to start X  when the system boots, go into your /etc/inittab and change the default  runlevel to 3**.
 To start a program automatically,
 **1. go into /etc/init.d and create a  script that starts the program,
 **create a script like _/etc/init.d/Smyserver_：
@@ -65,7 +65,7 @@ To start a program automatically,
     _chmod 755 /etc/init.d/Smyserver_
 
 **
-2. then make a link in /etc/rc3.d that  points to that script. **
+2. then make a link in /etc/rc3.d that  points to that script.**
 
     ln -s /etc/init.d/__Smyserver Smyserver_
 

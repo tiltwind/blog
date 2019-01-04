@@ -10,7 +10,7 @@ categories:
 - Knowledge
 ---
 
-**存款准备金(Deposit Reserve) **
+**存款准备金(Deposit Reserve)**
 中央银行（中国人民银行）根据法律的规定，要求各商业银行按一定的比例将吸收的存款存入在人民银行开设的准备金账户，对商业银行利用存款发放贷款的行为进行控制。
 
 **存款准备金率（Deposit Reserve Ratio）**

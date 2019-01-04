@@ -26,7 +26,7 @@ categories:
 
 因此: `P(AB) = P(B)P(A|B)` ，同理: `P(AB) = P(A)P(B|A)`
 
-这就是 **乘法公式** :
+这就是**乘法公式** :
 
 ![](/media/files/bayes/bayes_multiplication.png)
 
@@ -92,9 +92,9 @@ categories:
 ![](/media/files/bayes/bayes_inference_formula.png)
 
 - `A` 被视为导致事件B发生的"原因";
-- `P(A)` 称为 **先验概率（Prior probability）**，即在B事件发生之前，我们对A事件概率的一个判断;
-- `P(A|B)` 称为 **后验概率（Posterior probability）**，即在B事件发生之后，我们对A事件概率的重新评估;
-- `P(B|A)/P(B)` 称为 **可能性函数（Likelyhood），这是一个调整因子**，使得预估概率更接近真实概率。
+- `P(A)` 称为**先验概率（Prior probability）**，即在B事件发生之前，我们对A事件概率的一个判断;
+- `P(A|B)` 称为**后验概率（Posterior probability）**，即在B事件发生之后，我们对A事件概率的重新评估;
+- `P(B|A)/P(B)` 称为**可能性函数（Likelyhood），这是一个调整因子**，使得预估概率更接近真实概率。
 
 所以，条件概率可以理解成下面的式子：`后验概率 ＝ 先验概率 ｘ 调整因子`
 

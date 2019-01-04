@@ -45,7 +45,7 @@ select * from user_role_privs;
 	2	SWPRO	CONNECT	NO	YES	NO
 	3	SWPRO	RESOURCE	NO	YES	NO
 
-但安装的时候报执行初始化SQL语法错误，经查是对其中一个package body **SSOLITE_MSG**进行编译的时候报错，这个package body有引用DBMS_AQ,但报错DBMS_AQ没有定义，原因是没有DBMS_AQ执行权限，按照如下赋予权限重新安装即可：
+但安装的时候报执行初始化SQL语法错误，经查是对其中一个package body**SSOLITE_MSG**进行编译的时候报错，这个package body有引用DBMS_AQ,但报错DBMS_AQ没有定义，原因是没有DBMS_AQ执行权限，按照如下赋予权限重新安装即可：
 
 	GRANT EXECUTE ON DBMS_AQ TO swpro;
 	GRANT EXECUTE ON DBMS_AQ TO swuser;

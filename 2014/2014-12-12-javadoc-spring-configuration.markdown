@@ -39,12 +39,12 @@ org.springframework.context.annotation.Configuration
 
 
 
-## **1. Bootstrapping @Configuration classes (引导加载@Configuration类)**
+##**1. Bootstrapping @Configuration classes (引导加载@Configuration类)**
 
 
 
 
-### **1.1 使用AnnotationConfigApplicationContext的方式：**
+###**1.1 使用AnnotationConfigApplicationContext的方式：**
 
 
 	@Configuration类一般通过AnnotationConfigApplicationContext或子类AnnotationConfigWebApplicationContext引导加载，例如：
@@ -60,7 +60,7 @@ org.springframework.context.annotation.Configuration
 
 
 
-### **1.2 通过Spring XML 配置：**
+###**1.2 通过Spring XML 配置：**
 
 
 	不同于直接在AnnotationConfigApplicationContext中注册，另一种选择是通过在xml中定义bean，如下：
@@ -74,7 +74,7 @@ org.springframework.context.annotation.Configuration
 
 
 
-### **1.3 通过component scanning组件扫描的方式:**
+###**1.3 通过component scanning组件扫描的方式:**
 
 
 @Configuration注解本身是被@Component注解的，因此@Configuration类是可以被组件扫描到的（一般使用<context:component-scan/> xml配置），同时也可以在方法和变量上使用@Autowired/@Inject。
@@ -91,13 +91,13 @@ org.springframework.context.annotation.Configuration
 
 
 
-## **2. Working with externalized values(使用外部值)**
+##**2. Working with externalized values(使用外部值)**
 
 
 	
 
 
-### **2.1 Using the Environment API(使用 Environment API)**
+###**2.1 Using the Environment API(使用 Environment API)**
 
 
 	可以使用@Autowired或@Inject注解将Environment注入到@Configuration类中以便获得外部配置值：
@@ -133,7 +133,7 @@ org.springframework.context.annotation.Configuration
  
 
 
-### **2.2 Using the @Value annotation(使用@Value注解)**
+###**2.2 Using the @Value annotation(使用@Value注解)**
 
 
 	通过@Value注解将外部值注入到@Configuration类中。
@@ -155,12 +155,12 @@ org.springframework.context.annotation.Configuration
 
 
 
-## **3. Composing @Configuration classes(构建@Configuration类)**
+##**3. Composing @Configuration classes(构建@Configuration类)**
 
 
 
 
-### **3.1 With the @Import annotation（使用@Import注解）**
+###**3.1 With the @Import annotation（使用@Import注解）**
 
 
 	可以用@Import注解构建@Configuration类，但不像xml中的。因为@Configuration对象本身是作为bean实例被容器控管，引用的配置可以用@Autowired或@Inject注解注入。
@@ -191,7 +191,7 @@ org.springframework.context.annotation.Configuration
 
 
 
-### **3.2 With the @Profile annotation(使用@Profile注解)**
+###**3.2 With the @Profile annotation(使用@Profile注解)**
 
 
 	使用@Profile注解标记@Configuration类，则只有对应的情景模式是激活状态时才会被加载处理。
@@ -220,7 +220,7 @@ org.springframework.context.annotation.Configuration
 	
 
 
-### **3.3 With Spring XML using the @ImportResource annotation(使用@ImportResource加载xml配置)**
+###**3.3 With Spring XML using the @ImportResource annotation(使用@ImportResource加载xml配置)**
 
 
 
@@ -243,7 +243,7 @@ org.springframework.context.annotation.Configuration
 	
 
 
-### **3.4 With nested @Configuration classes(使用内嵌的@Configuration类)**
+###**3.4 With nested @Configuration classes(使用内嵌的@Configuration类)**
 
 
 	@Configuration类可以按照如下方式内嵌到其他配置类中：	
@@ -273,7 +273,7 @@ org.springframework.context.annotation.Configuration
 
 
 
-## **4. Configuring lazy initialization(配置懒加载)**
+##**4. Configuring lazy initialization(配置懒加载)**
 
 
 默认@Bean方法会在容器加载的时候立即初始化，可以使用@Lazy注解类表明此类的所有@Bean方法都默认懒加载。当然，@Lazy也可以单独用在@Bean方法上。
@@ -281,7 +281,7 @@ org.springframework.context.annotation.Configuration
 
 
 
-## **5. Testing support for @Configuration classes(测试支持)**
+##**5. Testing support for @Configuration classes(测试支持)**
 
 
 spring测试模块提供@ContextConfiguration注解引入TestContext框架，注解接收一个@Configuration类数组对象：
@@ -305,7 +305,7 @@ spring测试模块提供@ContextConfiguration注解引入TestContext框架，注
 
 
 
-## **6. Enabling built-in Spring features using @Enable annotations(使用@Enable注解启用spring内部特性)**
+##**6. Enabling built-in Spring features using @Enable annotations(使用@Enable注解启用spring内部特性)**
 
 
 
@@ -314,7 +314,7 @@ Spring特性包括异步方法执行、排程任务执行、注解驱动事务�
 
 
 
-## **7. Constraints when authoring @Configuration classes(约束条件)**
+##**7. Constraints when authoring @Configuration classes(约束条件)**
 
 
 

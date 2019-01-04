@@ -14,7 +14,7 @@ tags:
 - rowid
 ---
 
-### **1. ROWID Inroduction**
+###**1. ROWID Inroduction**
 
 
 ROWID pseudocolumn is a base 64 string representing the unique address of a row in its table.  Oracle Database rowid values contain information necessary to locate a row:：
@@ -177,7 +177,7 @@ CcQ = 10000
 **Get object details:** select owner, object_name from dba_objects where data_object_id = 74654;
 
 
-### **2. Rowid values have several important uses:**
+###**2. Rowid values have several important uses:**
 
 
 
@@ -199,14 +199,14 @@ CcQ = 10000
 You should not use ROWID as the primary key of a table. If you delete and reinsert a row with the Import and Export utilities, for example, then its rowid may change. If you delete a row, then Oracle may reassign its rowid to a new row inserted later.
 
 
-### **3. Used in where clause:**
+###**3. Used in where clause:**
 
 
 Although you can use the ROWID pseudocolumn in the SELECT and WHERE clause of a query, these pseudocolumn values are not actually stored in the database. You cannot insert, update, or delete a value of the ROWID pseudocolumn.
 eg: select *  from TABLE_NAME where ROWID<=chartorowid('AAASOeAAEAAFCL/CcQ');
 
 
-### **4.  Use Oracle HINT to read records order by ROWID:**
+###**4.  Use Oracle HINT to read records order by ROWID:**
 
 
 A query like "select * from table" will default query by ROWID if there isn't index column. Otherwise, it will query throgh the indexs and return records order by the indexs.

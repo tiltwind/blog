@@ -22,19 +22,19 @@ tags:
 <tbody >
 <tr >
 
-<td width="25%" >**Canonical Name for java.nio API **
+<td width="25%" >**Canonical Name for java.nio API**
 </td>
 
 <td width="25%" >
 
 
-**Canonical Name for java.io and java.lang API **
+**Canonical Name for java.io and java.lang API**
 
 
 
 </td>
 
-<td width="50%" >**Description **
+<td width="50%" >**Description**
 </td>
 </tr>
 <tr >

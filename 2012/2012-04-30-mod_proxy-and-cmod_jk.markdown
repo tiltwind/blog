@@ -25,7 +25,7 @@ Published at 2007-7-16 3:22:57
 See source link [here](https://community.jboss.org/people/mladen.turk/blog/2007/07/16/comparing-modproxy-and-modjk)
 
 
-# **介绍**
+#**介绍**
 
 
 Apache2.2 本身拥有如mod_proxy这样一系列优秀的模块，它们拥有一部分和mod_jk一样的功能（AJP Protocol），也能整合实现负载均衡。

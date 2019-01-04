@@ -72,7 +72,7 @@ Merge configuration是通过web.xml处理的，broadleaf的merge功能智能的�
 
 
 
-### **参考**
+###**参考**
 
 
 1.[Broadleaf's Unique Application Context Merge Process Explained](http://www.broadleafcommerce.com/blog/broadleaf-spring-context-merge-process)

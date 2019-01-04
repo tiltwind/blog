@@ -2,6 +2,8 @@
 layout: post
 date: 2015-11-15
 title: Build Website with Github Pages
+categories:
+- 经验
 tags:
 - github
 - blog

@@ -20,7 +20,7 @@ tags:
 
 
 
-### **1.工作流概览**
+###**1.工作流概览**
 
 
 
@@ -55,7 +55,7 @@ defaultErrorHandler属性设置异常处理器，它是一个ErrorHandler的实�
 
 
 
-### **2.Activity Ordering（活动顺序）**
+###**2.Activity Ordering（活动顺序）**
 
 
 上例中的活动配置：
@@ -98,7 +98,7 @@ blPaymentActivity 有一个p:order属性，这是设置此活动的顺序，框�
 
 
 
-### **3.Rollback Handlers(回滚处理器)**
+###**3.Rollback Handlers(回滚处理器)**
 
 
 回滚处理器为活动提供了注册状态的途径，可以在之后的某一个时间执行一个回滚动作。此例，结算流程第一步可以是一个信用卡借贷。信用卡支付后，第二步是改变购物车状态。假如此时因某些原因导致购物车状态更新失败，应有一个标准的方式将之前信用卡支付进行退还或者作废。这就是回滚处理器的作用。
@@ -186,7 +186,7 @@ ActivityStateManager接口提供多个方法注册RollbackHandler（回滚处理
 
 
 
-### **4.ProcessContext(执行容器)**
+###**4.ProcessContext(执行容器)**
 
 
 ProcessContext是一个容器对象，作为activity的传入传出参数。它一般包含workflow工作流相关信息。支付workflow工作流用SimplePaymentContext，它包含PaymentSeed。而PaymentSeed中包含多个PaymentInfo、Order和PaymentResponse这些处理订单请求的对象。另外 ProcessContext提供stopProcess和isStopped方法设置和检查工作流状态。调用stopProcess可不用抛出异常停止工作流继续执行。
@@ -223,7 +223,7 @@ Activity接口根据ProcessContext中的信息决定是否要跳过执行当前�
 
 
 
-### **5.Activities(活动)**
+###**5.Activities(活动)**
 
 
 一个活动是Activity接口的实例，提供执行活动和获取error handler的方法。大多活动对象继承BaseActivity虚类。如PaymentActivity，可获得PaymentContext对象，也可加入到PaymentService中完成支付交易。
@@ -262,7 +262,7 @@ Activity接口根据ProcessContext中的信息决定是否要跳过执行当前�
 
 
 
-### **6.Error Handlers(错误处理器)**
+###**6.Error Handlers(错误处理器)**
 
 
 Error handlers错误处理器都实现ErrorHandler接口。但发送异常时，可以通过Error handlers做一些必要的事情。如记录异常日志，或释放资源等。之前提过，所有工作流默认使用DefaultErrorHandler，它只是将异常信息输出到System.out后再抛出异常。
@@ -275,7 +275,7 @@ Error handlers错误处理器都实现ErrorHandler接口。但发送异常时，
 
 
 
-### **7.Removing a Broadleaf Workflow(删除工作流)**
+###**7.Removing a Broadleaf Workflow(删除工作流)**
 
 
 如果因为需要扩展功能而需要删除框架默认定义的工作流，可通过定义一个EmptySequenceProcess实例的工作流覆盖默认配置（但我们不建议这样做）。如因你已继承了OrderService覆盖了performCheckout()方法，你想去掉blCheckoutWorkflow工作流，可以通过如下定义去掉：
@@ -285,7 +285,7 @@ Error handlers错误处理器都实现ErrorHandler接口。但发送异常时，
 
 
 
-### **8.Provided Workflows(已提供的工作流)**
+###**8.Provided Workflows(已提供的工作流)**
 
 
 以下是一些框架提供的工作流：
@@ -302,7 +302,7 @@ blPaymentWorkflow blCheckoutWorkflow 中的 CompositeActivity ，其运行多种
 
 
 
-### **9.参考**
+###**9.参考**
 
 
 1. [Workflows and Activities](http://docs.broadleafcommerce.org/core/current/broadleaf-concepts/workflows-and-activities)

@@ -33,7 +33,7 @@ tags:
 
 
 
-## **1. 概览**
+##**1. 概览**
 
 
 此注解的相关属性同xml <bean/>配置类似,例如：
@@ -46,7 +46,7 @@ tags:
 
 
 
-## **2. 指定bean名称**
+##**2. 指定bean名称**
 
 
 当注解指定了name属性则会使用其指定的名称。这样很方便和直观！如果要求明确的指定bean，name属性是很有用的。
@@ -61,7 +61,7 @@ tags:
 	 
 
 
-## **3. scope, depends-on, primary, or lazy**
+##**3. scope, depends-on, primary, or lazy**
 
 
 注意,@Bean注解没有提供scope, depends-on, primary, or lazy属性。如果要使用这些属性有单独的注解@Scope, @DependsOn, @Primary, and @Lazy。例如：
@@ -76,7 +76,7 @@ tags:
 
 
 
-## **4. Inter-bean引用**
+##**4. Inter-bean引用**
 
 
 一般情况,@Bean注解在定义了@Configuration的类中使用。这种情况下，bean方法可以直接引用其他在同一个class中@Bean注解的方法。这种bean之间的引用是明确清晰、可追溯的，称之为“Inter-bean引用”，保证了符合Scope和AOP特性，就像getBean()方法查找一样。还有从基础‘Spring JavaConfig’项目特性要求在运行时将这些配置CGLIB子类化。因此，@Configuration类和其中的工厂类方法不能标记为final或者private。例如：
@@ -97,7 +97,7 @@ tags:
  
 
 
-## **5. @Bean Lite模式**
+##**5. @Bean Lite模式**
 
 
 没有被@Configuration注解的类也可以用@Bean注解其中的方法。例如用@Componet注解或POJO类。这种情况下，会通过一种叫做lite的模式处理@Bean注解的方法。
@@ -119,14 +119,14 @@ lite模式的bean方法只会被容器当作原始工厂方法（像xml中配置
 
 
 
-## **6. Bootstrapping(引导启动)**
+##**6. Bootstrapping(引导启动)**
 
 
 查看@Configuration Javadoc了解容器使用AnnotationConfigApplicationContext和其他相关类实现引导启动。
 
 
 
-## **7. 返回BeanFactoryPostProcessor类型的@Bean方法**
+##**7. 返回BeanFactoryPostProcessor类型的@Bean方法**
 
 
 特别要注意，返回BeanFactoryPostProcessor (BFPP)类型的@Bean方法。因为在container的lifecycle中BFPP对象需要提前初始化，它们会干扰@Configuration类中的@Autowired, @Value, and @PostConstruct这些注解的处理。为了解决这个lifecycle的问题，需将返回BFPP的@Bean方法标记为static的。例如：

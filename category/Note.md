@@ -10,5 +10,4 @@
  [2011](/2011/)
  [2010](/2010/)
 
-## 2019
-* [2018年终小结](/2019/2019-01-03-retrospect2018),2019-01-03
+* [Spring Cloud Stream Messaging Annotations](/2017/2017-02-21-spring-cloud-stream-messaging-annotations),2017-02-21
