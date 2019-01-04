@@ -1,4 +1,16 @@
-# 2012
+# 望哥的博客
+ [2019](/2019/)
+ [2018](/2018/)
+ [2017](/2017/)
+ [2016](/2016/)
+ [2015](/2015/)
+ [2014](/2014/)
+ [2013](/2013/)
+ [2012](/2012/)
+ [2011](/2011/)
+ [2010](/2010/)
+---------
+## 2012
 * [Oracle数据库JDBC难字编码问题](/2012/2012-12-05-oracle-jdbc-special-char-encode)
 * [Enable Application Logging in Jboss EAP 6](/2012/2012-12-04-enable-application-logging-in-jboss-eap-6)
 * [Javascript](/2012/2012-11-16-javascriptget-string-byte-length)

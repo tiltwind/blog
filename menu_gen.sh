@@ -1,8 +1,10 @@
 
-find . -type d -name "20*" |sort -r|awk -F '/' '{if($2!="") {print "* ["$2"](/"$2"/)"}}' > _navbar.md
-cp _navbar.md README.md
+find . -maxdepth 1 -type d -name "20*" |sort -r|awk -F '/' '{if($2!="") {print " ["$2"](/"$2"/)"}}' > _navbar.md
 
-years=$(find . -type d -name "20*" | sort -r | paste -sd " " -)
+echo "# 望哥的博客" > README.md
+cat _navbar.md >> README.md
+
+years=$(find . -maxdepth 1 -type d -name "20*" | sort -r | paste -sd " " -)
 echo "years:$years"
 
 for year in  $years
@@ -12,8 +14,10 @@ do
 
 	readme=$year/README.md
 	y=${year:2:100}
-
-	echo "# $y" > $readme
+	
+	cat README.md > $readme
+	echo "---------" >> $readme
+	echo "## $y" >> $readme
 
 	files=$(find $year -type f|grep -v navbar|grep -v README |sort -r)
 	for file in $files
