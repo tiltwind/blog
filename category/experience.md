@@ -10,6 +10,8 @@
  [2011](/2011/)
  [2010](/2010/)
 
+
+# experience
 * [程序会做正确的事——spring scheduled job未执行的事实](/2017/2017-09-02-the-truth-why-spring-scheduled-job-not-running),2017-09-02
 * [how to use xcode to develop c project](/2017/2017-04-27-how-to-use-xcode-to-develop-c-project),2017-04-27
 * [用第一性原理思考问题而不是类比](/2017/2017-04-02-first-principle),2017-04-02

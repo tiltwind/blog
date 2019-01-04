@@ -14,6 +14,7 @@ find . -maxdepth 1 -type d -name "20*" |sort -r|awk -F '/' '{if($2!="") {print "
 echo "# 望哥的博客" > README.md
 cat _navbar.md >> README.md
 echo "" >> README.md
+echo "" >> README.md
 
 years=$(find . -maxdepth 1 -type d -name "20*" | sort -r | paste -sd " " -)
 echo "years:$years"
@@ -43,7 +44,8 @@ do
 		if [ ! -f category/$cate.md ]
 		then
 			cat README.md > category/$cate.md
-			echo "* [$cate](/category/$cate)" >> categories.md
+			echo "# $cate" >> category/$cate.md
+			echo " [$cate](/category/$cate)" >> categories.md
 		fi
 
 		echo "* [$title](/$y/$filename),$date" >> category/$cate.md

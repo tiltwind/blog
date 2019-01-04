@@ -10,6 +10,7 @@
  [2011](/2011/)
  [2010](/2010/)
 
+
 ## 2012
 * [Oracle数据库JDBC难字编码问题](/2012/2012-12-05-oracle-jdbc-special-char-encode),2012-12-05 10
 * [Enable Application Logging in Jboss EAP 6](/2012/2012-12-04-enable-application-logging-in-jboss-eap-6),2012-12-04 04
