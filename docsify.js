@@ -38,6 +38,7 @@
      loadNavbar: true,
      notFoundPage: true,
      search: 'auto',
+     basePath: "https://raw.githubusercontent.com/wongoo/blog/master/",
      plugins: [
          function(hook, vm) {
              hook.doneEach(function() {
