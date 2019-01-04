@@ -82,7 +82,7 @@ DDD聚合根是非常结构化的东西，这个结构化的东西带来的一�
 
 
 ## 8. AxonFramework CQRS 架构
-![](/media/files/cqrs/axon-cqrs-arch.png)
+![](http://blog.sisopipo.com/media/files/cqrs/axon-cqrs-arch.png)
 
 项目地址:https://github.com/AxonFramework/AxonFramework
 

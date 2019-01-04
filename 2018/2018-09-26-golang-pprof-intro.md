@@ -40,7 +40,7 @@ http://localhost:<PORT>/debug/pprof/<PROFILE_NAME>
 ```
 
 以上url地址中`<PROFILE_NAME>`参考下表：
-![](/media/files/golang/pprof/pprof-profiles.jpg)
+![](http://blog.sisopipo.com/media/files/golang/pprof/pprof-profiles.jpg)
 
 **debug参数**:
 - debug=0时(默认)，返回 pprof 工具所需数据格式文件。

@@ -10,4 +10,4 @@ categories:
 - Experience
 ---
 
-[![](/media/files/2010/11/mobile-developer-journey.jpg)](http://sisopipo.com/blog/2010/11/30/mobile_developer_journey/mobile-developer-journey/)
+[![](http://blog.sisopipo.com/media/files/2010/11/mobile-developer-journey.jpg)](http://sisopipo.com/blog/2010/11/30/mobile_developer_journey/mobile-developer-journey/)

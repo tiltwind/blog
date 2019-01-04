@@ -18,11 +18,11 @@ tags:
 spring-boot的oauth2认证本身基于spring security，每一个请求都会经过spring security的 FilterChain中的所有filter执行一遍，如果去掉token都未认证，难道是FilterChain中有少oauth2的filter？
 带着这个怀疑进行debug调试，将断点设置到:
 
-![](/media/files/spring/spring-security-config-analysis/debug-point.png)
+![](http://blog.sisopipo.com/media/files/spring/spring-security-config-analysis/debug-point.png)
 
 升级前的filter列表：
 
-![](/media/files/spring/spring-security-config-analysis/filters-before-upgrade.png)
+![](http://blog.sisopipo.com/media/files/spring/spring-security-config-analysis/filters-before-upgrade.png)
 
 debug升级后的代码，filters列表关键少了 OAuth2AuthenticationProcessingFilter 这个oauth2处理的filter。
 
@@ -35,16 +35,16 @@ debug升级后的代码，filters列表关键少了 OAuth2AuthenticationProcessi
 下图是升级前可以看到有多个FilterChain，其中有三个的匹配实例都是AnyRequestMatcher，这样如果前面几个url不匹配，都会匹配到下标为5的FilterChain，
 而6、7、8几个FilterChain是不会请求到的。升级前第5个FilterChain有包含OAuth2AuthenticationProcessingFilter这个filter。
 
-![](/media/files/spring/spring-security-config-analysis/chains-before.png)
-![](/media/files/spring/spring-security-config-analysis/filters-before.png)
+![](http://blog.sisopipo.com/media/files/spring/spring-security-config-analysis/chains-before.png)
+![](http://blog.sisopipo.com/media/files/spring/spring-security-config-analysis/filters-before.png)
 
 升级后的filterChains变成这样，下标为4的FilterChain没有OAuth2AuthenticationProcessingFilter
 
-![](/media/files/spring/spring-security-config-analysis/chains-after.png)
-![](/media/files/spring/spring-security-config-analysis/filters-after-1.png)
+![](http://blog.sisopipo.com/media/files/spring/spring-security-config-analysis/chains-after.png)
+![](http://blog.sisopipo.com/media/files/spring/spring-security-config-analysis/filters-after-1.png)
 
 而下标8的filterChain才有OAuth2AuthenticationProcessingFilter：
-![](/media/files/spring/spring-security-config-analysis/filters-after-2.png)
+![](http://blog.sisopipo.com/media/files/spring/spring-security-config-analysis/filters-after-2.png)
 
 从上可以看出FilterChain有顺序问题，而且有很多FilterChain是多余的。要解释这两个问题首先得了解到FilterChain是如何创建的。
 FilterChainProxy通过WebSecurity创建，并通过 WebSecurity 的  ignoredRequests和securityFilterChainBuilders两个列表的创建对应的filterChain。
@@ -113,7 +113,7 @@ public class WebSecurityConfiguration implements ImportAware, BeanClassLoaderAwa
 ## 4.1. 是否可以减少filterChains列表?
 
 从下图可以看到前几个configurer都是spring-boot内部提供的配置项，没办法去掉。
-![](/media/files/spring/spring-security-config-analysis/adapter-list.png)
+![](http://blog.sisopipo.com/media/files/spring/spring-security-config-analysis/adapter-list.png)
 
 一个经验是：配置spring security最好是基于spring security adpater
 扩展去做，比如ResourceServerConfigurerAdapter，他们已经控制好了相关Order顺序问题。

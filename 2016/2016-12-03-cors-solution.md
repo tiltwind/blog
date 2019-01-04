@@ -104,7 +104,7 @@ server {
 
 注意：此处配置为“*”，允许所有其他应用访问，也可以配置为 "http://127.0.0.1:8080" 只允许这个应用地址的请求。
 
-![CORS Request](/media/files/2016/cors_request.png "CORS Request")
+![CORS Request](http://blog.sisopipo.com/media/files/2016/cors_request.png "CORS Request")
 
 
 ## 3. 通过反向代理转发请求实现跨域
@@ -146,7 +146,7 @@ http {
 现在通过 http://127.0.0.1:8082/app_a/index.html 访问应用A，这个时候对客户端而言相当于请求同一个应用，也就无跨域的问题了。
 
 
-![CORS Proxy Solution](/media/files/2016/cors_proxy_solution.png "CORS Proxy Solution")
+![CORS Proxy Solution](http://blog.sisopipo.com/media/files/2016/cors_proxy_solution.png "CORS Proxy Solution")
 
 
 ## 参考

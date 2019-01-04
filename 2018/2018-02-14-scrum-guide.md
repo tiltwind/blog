@@ -41,7 +41,7 @@ tags:
 
 后来有没有人再被吃？ 肯定有，但这并不重要，重要的是人类躲避老虎的能力在不断进步，被老虎吃掉的几率会越来越小。
 
-![](/media/files/scrum/human-experience-grow-circle.png)
+![](http://blog.sisopipo.com/media/files/scrum/human-experience-grow-circle.png)
 
 人类的进步的原因就在于上图：
 - 在实践过程中遇到问题后，人类会想出各种解决方案去解决问题；
@@ -63,7 +63,7 @@ tags:
 方法，Method, 定义的是How，指具体的操作方式和过程，以及使用到的工具和技巧。How是What的解决方案，How的适用性可以用Why来鉴定。
 一个问题范围对应有一个方法论，一个方法论可能对应多种方法。每种方法都符合方法论的旨意，都能够解决一定范围的问题。
 
-![](/media/files/scrum/problem-to-method.png)
+![](http://blog.sisopipo.com/media/files/scrum/problem-to-method.png)
 
 ## 3.1 问题范围（What）
 将各种各样相似的问题放在一起，把他们放在一起作为一类问题，用相同的方法都可以解决。这一类问题经过归纳，可以定义出一个问题范围。
@@ -94,7 +94,7 @@ tags:
 ## 4.1 方法不断改进
 一种方法往往不是万能的，同一个方法论下的各种方法各有优点，它们会相互借鉴，不断改进，使得自身在解决范围问题的时候更加有效。
 
-![](/media/files/scrum/method-improvment.png)
+![](http://blog.sisopipo.com/media/files/scrum/method-improvment.png)
 
 以市场推广为例，方法论是符合产品定位，推广成本效益比例适当。具体的推广方法有传统的户外媒体推广、报纸推广、电视推广等。在互联网还不流行的年代，电视推广可能是最好的推广方式，但用户都进入互联网后，新的换联网推广方式会有更好的推广效果。另外各种社交软件的发展，产生了社交口碑推广、网红直播推广、答题直播推广等各种各样的方法，这些新的方法都有较好的成本效益比，投入一定成本，就能够达到很好的市场推广目的。
 
@@ -103,14 +103,14 @@ tags:
 通过总结分析新的问题的内在逻辑，结合旧的方法论体系，演化出新的方法论。
 在新的方法论的指导实践中，基于旧的方法做改进，进而产生出符合新的方法论的方法框架。
 
-![](/media/files/scrum/methodology-improvment.png)
+![](http://blog.sisopipo.com/media/files/scrum/methodology-improvment.png)
 
 ## 4.3 复杂的世界
 更多的时候，世界是复杂的，原来的问题变得复杂了，但我们并未能够及时意识到，还在沿用对于旧问题的方法论及方法，发现并不能解决问题，这时候会借鉴参考多种方法，想出新的解决方案。
 问题的解决促使对新的复杂问题的分析，以及对旧方法论的反思，发现旧的方法论已经不适合，需要改进出新的方法论。
 新的方法论再回过头来指导实践新的方法，促使新的方法能够得以更进一步的改善。
 
-![](/media/files/scrum/complicated-improvement.png)
+![](http://blog.sisopipo.com/media/files/scrum/complicated-improvement.png)
 
 
 ## 4.4 繁杂的世界
@@ -125,7 +125,7 @@ tags:
 
 在不同区域（即不同的情景）采用不同的方法论策略是非常重要的，如下图：
 
-![](/media/files/scrum/stacey-matrix.png)
+![](http://blog.sisopipo.com/media/files/scrum/stacey-matrix.png)
 
 ## 区域1：一致且确定
 该区一致且确定，这是一个很有秩序（Order）的状态。通过技术理性决策（Technical rational decision making），即用收集过去数据的技术来可靠地预测未来，规划行为实现结果，并用计划来监控实际行为或结果，重点在于可重复地工作以提高效率和效能。
@@ -151,7 +151,7 @@ tags:
 
 2001年2月，Martin Fowler，Jim Highsmith等17位著名的软件开发（包括 Scrum、极限编程 (XP)、动态系统开发方法 (DSDM) 和 Crystal 的创始人、以及功能驱动开发的代表人物和软件行业的其他几位思想领袖）专家齐聚在美国犹他州雪鸟滑雪圣地，举行了一次敏捷方法发起者和实践者的聚会。在这次会议上面，他们正式提出了Agile(敏捷开发)这个概念，并共同签署了《敏捷宣言》。雪鸟会议是对之前几十年中软件开发实践探索的总结，是水到渠成的一个结果。每种敏捷方法实现敏捷方法论核心价值的途径略有不同，就如许多计算机语言以不同的方式展现面向对象编程的核心功能一样。
 
-![](/media/files/scrum/scrum-methodologies.jpeg)
+![](http://blog.sisopipo.com/media/files/scrum/scrum-methodologies.jpeg)
 
 敏捷本身并不是一种方法，它是一个多种敏捷方法涵盖性术语，是一个经典的先由方法改进再通过反思总结出的方法论，它包含敏捷宣言和敏捷原则。
 
@@ -237,7 +237,7 @@ Scrum还提供各种培训课程，以便团队成员能够更快的掌握Scrum�
 # 8. 总结
 通过以上介绍，相信大家对敏捷方法论、Scrum敏捷方法都有一定的了解，用一张图来概括：
 
-![](/media/files/scrum/problem-methodology-scrum.png)
+![](http://blog.sisopipo.com/media/files/scrum/problem-methodology-scrum.png)
 
 虽然Scrum核心内容不多，但要实践好还是不容易，要掌握很多技巧和实践经验才能深刻理会。很多团队急急忙忙推行Scrum，通过大量的培训让团队成员学习Scrum的做法，团队成员把Scrum看成了一套流程和管理工具，但Scrum往往没有给出具体的做法，经常就会问我该怎么做？应不应该这样做？这样做是对还是错？ 这些问题都是对以上这幅图的关系没有深刻理解导致的，只要明白了这些关系，很多问题都可以迎刃而解。
 

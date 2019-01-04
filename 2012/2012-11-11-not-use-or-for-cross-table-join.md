@@ -79,7 +79,7 @@ tags:
 
 首先查看#2的Explain Plan（如下图），计划COST显示超过一分钟，性能主要消耗在三次全表扫描和两次OUTER Hash Join上，完全没用使用到索引。仔细分析一下这个查询语句，因为where条件中包含的跨表字段的OR条件，不能根据一个表的字段值决定一条记录是否满足条件，必须分别查询出各自符合的记录，在使用outer join的方式结合起来才能得到满足条件的结果。
 
-[![](/media/files/2012/11/1.jpg)](http://sisopipo.com/blog/archives/343/attachment/1)
+[![](http://blog.sisopipo.com/media/files/2012/11/1.jpg)](http://sisopipo.com/blog/archives/343/attachment/1)
 
 如果没有跨表的Or条件，会不会有提高呢？去掉tchild中的两个条件，再查看Explain plan，性能大大提升，在300毫秒左右。没有全表扫描和hash关联。使用两层嵌套循环，第一层循环先通过IDX_TPARENT_NAME索引找到指定记录，在通过索引找到TCHILD(SEQNO=2)关联；第二次嵌套循环再通过索引关联查询TCHILD(SEQNO=1)。
 分别单独使用某一个table的字段作为查询条件，Explain plan显示查询的时候都使用到索引，性能也自然变好。
@@ -92,7 +92,7 @@ tags:
     where (p.uname='sky' )
 
 
-[![](/media/files/2012/11/2.jpg)](http://sisopipo.com/blog/archives/343/attachment/2)
+[![](http://blog.sisopipo.com/media/files/2012/11/2.jpg)](http://sisopipo.com/blog/archives/343/attachment/2)
 
 现在看来，分三次去查询应该比一次查询的性能要好很多。语句修改如下，分三次查询，将结果union起来。查考其Explain结果，3此查询分别300毫秒左右，union结果也在1秒以内，相比最初语句的查询性能提升了60倍。
 
@@ -114,7 +114,7 @@ tags:
     	where ( c2.uname='sky')
 
 
-[![](/media/files/2012/11/3.jpg)](http://sisopipo.com/blog/archives/343/attachment/3)
+[![](http://blog.sisopipo.com/media/files/2012/11/3.jpg)](http://sisopipo.com/blog/archives/343/attachment/3)
 
 **总结：**
 1. 多表join的时候, 勿使用跨表OR条件。遇到这样的情况，建立的索引无法起作用。应尽量改善语句使用到索引以提高查询性能。

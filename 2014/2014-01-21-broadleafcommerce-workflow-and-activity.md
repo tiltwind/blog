@@ -298,7 +298,7 @@ blCheckoutWorkflow 订单中被blCheckoutService 调用以完成订单结算（�
 blPaymentWorkflow blCheckoutWorkflow 中的 CompositeActivity ，其运行多种支付方式
 
 订单支付有多种发生情况也有多种支付方式。blPaymentWorkflow 是一个活动组件，可将默认的支付配置流程进行包装（即blAuthorizeAndDebitWorkflow）。一般情况，如果在订单送货之前无需支付，可将blPaymentWorkflow 的workflow属性改为blAuthorizeWorkflow ，它只会简单的通过支付提供者对客户的支付信息进行认证。当到快递包装的时候再执行blDebitWorkflow完成支付。支付相关流程列举如下：
-[![broadleaf_framework_workflow](/media/files/2014/01/broadleaf_framework_workflow.jpg)](/media/files/2014/01/broadleaf_framework_workflow.jpg)
+[![broadleaf_framework_workflow](http://blog.sisopipo.com/media/files/2014/01/broadleaf_framework_workflow.jpg)](http://blog.sisopipo.com/media/files/2014/01/broadleaf_framework_workflow.jpg)
 
 
 

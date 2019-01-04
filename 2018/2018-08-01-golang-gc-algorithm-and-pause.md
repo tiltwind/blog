@@ -25,8 +25,8 @@ Go采用三色标记和写屏障：
 - 从队列提取灰色对象，将其引用对象标记为灰色放入队列,自身标记为黑色;
 - 写屏障监视对象的内存修改，重新标色或放回队列；
 
-![](/media/files/gc/golang_gc_phases.png)
-![](/media/files/gc/Animation_of_tri-color_garbage_collection.gif)
+![](http://blog.sisopipo.com/media/files/gc/golang_gc_phases.png)
+![](http://blog.sisopipo.com/media/files/gc/Animation_of_tri-color_garbage_collection.gif)
 
 关于上图有几点需要说明的是。
 
