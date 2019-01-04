@@ -1,0 +1,11 @@
+
+- [他们不是傻子](/2010/2010-12-30-they_are_not_stupid.markdown)
+- [更改Oracle数据库编码](/2010/2010-12-29-change_oracle_character.markdown)
+- [IBM预测未来5年5项科技](/2010/2010-12-28-ibm_future_tech_of_next_5_years.markdown)
+- [骗子的根本技巧](/2010/2010-12-18-the_basic_skill_of_cheater.markdown)
+- [Axis error - Could not generate WSDL! There is no SOAP service at this location](/2010/2010-12-15-axis-wsdl-error.markdown)
+- [Release 20101130](/2010/2010-11-30-release-20101130.markdown)
+- [移动开发者之路](/2010/2010-11-30-mobile_developer_journey.markdown)
+- [PHP数据库操作工具](/2010/2010-11-24-php_db_access_tool.markdown)
+- [存款准备金](/2010/2010-11-19-deposit-reserve.markdown)
+- [SisoPipo Update](/2010/2010-11-15-sisopipoupdate.markdown)
