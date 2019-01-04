@@ -36,6 +36,7 @@ do
 		title=$(grep "title:" $file | awk -F ':' '{print $2}'|xargs)
 		date=$(grep "date:" $file | awk -F ':' '{print $2}'|xargs)
 		filename="${file##*/}"
+		extension="${filename##*.}"
 		filename="${filename%.*}"
 		echo "* [$title](/$y/$filename),$date" >> $readme
 
@@ -49,6 +50,12 @@ do
 		fi
 
 		echo "* [$title](/$y/$filename),$date" >> category/$cate.md
+
+		# change file extension markdown->md
+		if [ "$extension" == "markdown" ]
+		then
+			mv $file $y/$filename.md
+		fi
 	done
 done
 
