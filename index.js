@@ -69,8 +69,8 @@
 
  function NewGitalk() {
      return new Gitalk({
-         clientID: '665245fccc227d6fbd16',
-         clientSecret: 'f0ea094650da8d1bea0e2d4e6281aecc39365a62',
+         clientID: '2d9d63331c0adf11342f',
+         clientSecret: '1aef93fd1152f53fd4fe261a133c3c779043c99d',
          repo: 'wongoo.github.io',
          owner: 'wongoo',
          admin: ['wongoo'],
