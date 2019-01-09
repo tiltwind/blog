@@ -7,7 +7,6 @@ title: CQRS Guide
 categories: architecture
 tags: cqrs,ddd
 ---
----
 
 
 ## 1. 什么是CQS?
