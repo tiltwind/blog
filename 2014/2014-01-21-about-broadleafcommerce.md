@@ -9,14 +9,14 @@ markmeta_categories: Knowledge
 markmeta_tags: broadleaf,ecommerce,introduction
 -->
 
-###**1. What's BroadleafCommerce**
+### 1. What's BroadleafCommerce
 
 
 	BroadleafCommerce是一个Java开源电子商务网站框架。其目标是开发企业级商务网站，它提供健壮的数据和服务模型、富客户端管理平台、已经一些核心电子商务有关的工具。
 
 
 
-###**2.Features**
+### 2.Features
 
 
 
@@ -42,7 +42,7 @@ markmeta_tags: broadleaf,ecommerce,introduction
 
 
 
-###**3.Architecture**
+### 3.Architecture
 
 
 
@@ -102,7 +102,7 @@ PCI DSS 中的要求是针对在日常运营期间需要处理持卡人数据的
 
 
 
-###**4.Reference**
+### 4.Reference
 
 
 4.1.[get start](http://docs.broadleafcommerce.org/core/current/getting-started) 

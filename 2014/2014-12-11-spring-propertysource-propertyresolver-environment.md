@@ -9,12 +9,12 @@ markmeta_categories: Knowledge
 markmeta_tags: Environment,PropertyResolver,PropertySources,spring
 -->
 
-#**1. 属性资源(PropertySource)**
+# 1. 属性资源(PropertySource)
 
 
 
 
-###**1) public abstract class PropertySource**
+### 1) public abstract class PropertySource
 
 
 属性资源，主要包括以下两个方法：
@@ -24,7 +24,7 @@ markmeta_tags: Environment,PropertyResolver,PropertySources,spring
 
 
 
-###**2) public abstract class EnumerablePropertySource extends PropertySource**
+### 2) public abstract class EnumerablePropertySource extends PropertySource
 
 
 可枚举属性资源，增加可返回属性名称数组的方法：
@@ -33,13 +33,13 @@ markmeta_tags: Environment,PropertyResolver,PropertySources,spring
 
 
 
-###**3) public class MapPropertySource extends EnumerablePropertySource<Map<String, Object>>**
+### 3) public class MapPropertySource extends EnumerablePropertySource<Map<String, Object>>
 
 
 属性资源实现类，资源类型是一个Map对象。
 
 
-###**4) public class SystemEnvironmentPropertySource extends MapPropertySource**
+### 4) public class SystemEnvironmentPropertySource extends MapPropertySource
 
 
 MapPropertySource的子类，用于获取系统环境变量。弥补了在Bash或其他shells中变量不允许包含period character(.)的不足。允许一般shell中变量是大写的情况。
@@ -63,7 +63,7 @@ FOO_BAR - with underscores and upper case (下划线、大写)
 此属性资源默认包含在StandardEnvironment和其子类中。
 
 
-###**5) 其他属性资源其对应的资源类型：**
+### 5) 其他属性资源其对应的资源类型：
 
 
 
@@ -77,14 +77,14 @@ FOO_BAR - with underscores and upper case (下划线、大写)
 
 
 
-###**6) public class MutablePropertySources implements PropertySources**
+### 6) public class MutablePropertySources implements PropertySources
 
 
 其实际上是一个属性资源链表，用于包含其他实际的属性资源，并实现了资源的顺序访问。
 
 
 
-#**2. 属性解析器(PropertyResolver)**
+# 2. 属性解析器(PropertyResolver)
 
 
 
@@ -104,7 +104,7 @@ FOO_BAR - with underscores and upper case (下划线、大写)
 
 
 
-###**2) public interface ConfigurablePropertyResolver extends PropertyResolver**
+### 2) public interface ConfigurablePropertyResolver extends PropertyResolver
 
 
 定义了设置属性获取条件的相关方法：
@@ -121,27 +121,27 @@ FOO_BAR - with underscores and upper case (下划线、大写)
 
 
 
-###**3) public abstract class AbstractPropertyResolver implements ConfigurablePropertyResolver**
+### 3) public abstract class AbstractPropertyResolver implements ConfigurablePropertyResolver
 
 
 属性解析器虚类，实现了大多属性设置和获取的相关方法
 
 
 
-###**4) public class PropertySourcesPropertyResolver extends AbstractPropertyResolver**
+### 4) public class PropertySourcesPropertyResolver extends AbstractPropertyResolver
 
 
 属性解析器实现类，AbstractEnvironment中相关属性处理方法都是适配调用此类的方法。
 
 
 
-#**3. 环境信息(Environment )**
+# 3. 环境信息(Environment )
 
 
 
 
 
-###**1) public interface Environment extends PropertyResolver：**
+### 1) public interface Environment extends PropertyResolver：
 
 
 只定义了获取情景模式的方法，属性获取的方法已在父接口定义:
@@ -164,7 +164,7 @@ AbstractApplicationContext继承ConfigurableEnvironment接口，所有其子类�
 
 
 
-###**2) public interface ConfigurableEnvironment extends Environment, ConfigurablePropertyResolver**
+### 2) public interface ConfigurableEnvironment extends Environment, ConfigurablePropertyResolver
 
 
 定义了设置情景模式、以及获取特定系统属性资源、合并环境信息的相关方法：
@@ -208,7 +208,7 @@ Example: 测试情况下替换模拟系统属性资源
 需要注意，但ApplicationContext使用Environment时，所有属性资源应该在调用context的refresh()方法之前加载处理完成，以便确保再容器启动以及placeholder配置时候所有属性资源都是可获取的。
 
 
-###**3) public abstract class AbstractEnvironment implements ConfigurableEnvironment**
+### 3) public abstract class AbstractEnvironment implements ConfigurableEnvironment
 
 
 Environment实现虚类。支持默认保留的情景模式名称，可通过spring.profiles.default和spring.profiles.default属性指定激活和默认的情景模式。
@@ -266,7 +266,7 @@ Environment实现虚类。支持默认保留的情景模式名称，可通过spr
 定义在子类中的实例变量可能会有其初始化值，不要在customizePropertySources方法中访问这些变量。因为Java对象创建生命周期的限制，任何变量不要在AbstractEnvironment()的构造方法调用此callback方法customizePropertySources的时候设置值初始化值，不然会造成空指针异常或其他错误。如果你的确需要获取实例变量的默认值，则不用覆盖此方法，在资料的构造方法中直接设置属性资源和访问实例变量。注意给实例变量赋值是没有问题的，而是应尽量避免在此方法中访问实例变量默认值。
 
 
-###**4) public class StandardEnvironment extends AbstractEnvironment**
+### 4) public class StandardEnvironment extends AbstractEnvironment
 
 
 该类Environment的实现类，用于“标准”（非web）应用。除了ConfigurableEnvironment的常用功能，如获取属性、情景模式相关操作，该实现类配置了两个默认属性资源，他们的查找顺序如下：
@@ -287,7 +287,7 @@ system environment variables（系统环境变量）
 
 
 
-###**5) public interface ConfigurableWebEnvironment extends ConfigurableEnvironment**
+### 5) public interface ConfigurableWebEnvironment extends ConfigurableEnvironment
 
 
 定义了Web应用特有的接收属性资源ServletContext和ServletConfig对象并进行初始化的方法：
@@ -297,7 +297,7 @@ system environment variables（系统环境变量）
 
 
 
-###**6) public class StandardServletEnvironment extends StandardEnvironment implements ConfigurableWebEnvironment**
+### 6) public class StandardServletEnvironment extends StandardEnvironment implements ConfigurableWebEnvironment
 
 
 针对servlet web应用的Environment实现。所有web相关（servlet）的ApplicationContext都会初始化这样一个实例。
@@ -322,7 +322,7 @@ system environment variables（系统环境变量）
 
 
 
-###**7) public interface EnvironmentCapable:**
+### 7) public interface EnvironmentCapable:
 
 
 该接口定义了方法getEnvironment()，表明一个类包含了一个Environment引用。
@@ -332,7 +332,7 @@ system environment variables（系统环境变量）
 
 
 
-###**8) public interface EnvironmentAware extends Aware**
+### 8) public interface EnvironmentAware extends Aware
 
 
 此接口主要用于注入environment对象。

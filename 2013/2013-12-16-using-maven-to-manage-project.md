@@ -9,7 +9,7 @@ markmeta_categories: Knowledge
 markmeta_tags: apache,dependency,maven
 -->
 
-##**目录**
+##目录
 
 
 1. 关于Maven
@@ -23,7 +23,7 @@ markmeta_tags: apache,dependency,maven
 9. 系统依赖(System Dependencies)
 10. FAQs
 
-###**1.关于Maven**
+### 1.关于Maven
 
 
 Maven开发者的愿景：
@@ -45,7 +45,7 @@ Maven的目标：
 2. [Maven Documents](http://maven.apache.org/guides/index.html)
 3. [Maven Reference](http://books.sonatype.com/mvnref-book/reference/)
 
-###**2.关于POM**
+### 2.关于POM
 
 
 POM全称 Project Object Model(项目对象模型)，它是Maven工作的基础。
