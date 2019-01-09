@@ -1,12 +1,12 @@
----
-author: wongoo
-date: 2011-09-12 15:43:50+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2011-09-12 15:43:50+00:00
 slug: wanmei-lecture
-title: 听完美的完美人生课
+markmeta_title: 听完美的完美人生课
 wordpress_id: 154
-categories: Inspiration
-tags: 人生,创业,完美,洗脑,观念
----
+markmeta_categories: Inspiration
+markmeta_tags: 人生,创业,完美,洗脑,观念
+-->
 
 很久没有写文章了，这是一个不好的状态，需要调整一下。
 

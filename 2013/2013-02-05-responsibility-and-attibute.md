@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2013-02-05 15:45:46+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2013-02-05 15:45:46+00:00
 excerpt: 谈谈工作态度和责任心
 slug: responsibility-and-attibute
-title: 谈谈工作态度和责任心
+markmeta_title: 谈谈工作态度和责任心
 wordpress_id: 402
-categories: Management
-tags: 工作,Inspiration
----
+markmeta_categories: Management
+markmeta_tags: 工作,Inspiration
+-->
 
 几年工作经历，从程序员到管理层，从配合别人工作到让别人配合我工作，感触颇多，最想谈的还是工作态度和责任心。
 

@@ -1,11 +1,11 @@
----
-author: wongoo
-date: 2017-01-08
-title: Base64 encode decode shell script
-categories: 经验
-tags: base64,encode,shell
----
----
+<!---
+markmeta_author: wongoo
+markmeta_date: 2017-01-08
+markmeta_title: Base64 encode decode shell script
+markmeta_categories: 经验
+markmeta_tags: base64,encode,shell
+-->
+
 
 # Base64 encode decode shell script
 经常在shell下需要对字符进行base64编码解码，准备两个shell脚本就会方便很多。

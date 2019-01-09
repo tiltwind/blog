@@ -1,15 +1,15 @@
----
-author: wongoo
-date: 2014-09-24 15:59:28+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2014-09-24 15:59:28+00:00
 excerpt: Shell用管道符组建功能强大的指令，批量kill进程，批量打包等
 slug: using-pipe-operator-to-impl-powful-commands
-title: 使用管道符组建功能强大的指令
+markmeta_title: 使用管道符组建功能强大的指令
 wordpress_id: 715
-categories: Knowledge,Experience
+markmeta_categories: Knowledge,Experience
 post_format:
 - 日志
-tags: linux,shell,管道符
----
+markmeta_tags: linux,shell,管道符
+-->
 
 
 Shell语法中的管道符命令“|”,用于将前一个命令的输出作为紧接其后命令的输入。如果将其用好了，一行指令可以实现一些很强大的功能。

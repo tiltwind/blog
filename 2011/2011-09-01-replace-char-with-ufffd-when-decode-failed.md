@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2011-09-01 13:59:54+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2011-09-01 13:59:54+00:00
 slug: replace-char-with-ufffd-when-decode-failed
-title: Replace special BIG5 character
+markmeta_title: Replace special BIG5 character
 wordpress_id: 148
-categories: Experience
-tags: Java,JDK,BIG5,decode
+markmeta_categories: Experience
+markmeta_tags: Java,JDK,BIG5,decode
 
----
+-->
 
 In Java JDK, the BIG5$Coder class can't decode the byte array [-7][-38] , the  bytes is of the character '恒' , then replace it with the char "\uFFFD".
 

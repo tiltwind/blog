@@ -1,11 +1,11 @@
----
-author: wongoo
-date: 2017-10-24
-title: 打倒重新审视人生
-categories: inspiration
-tags: inspiration
----
----
+<!---
+markmeta_author: wongoo
+markmeta_date: 2017-10-24
+markmeta_title: 打倒重新审视人生
+markmeta_categories: inspiration
+markmeta_tags: inspiration
+-->
+
 
 网易云音乐给人营造了一个多愁善感的环境，里面的评论也比较多愁善感。听到一首悲伤至极的音乐，便勾取出一些人至极的孤独感。如下便是音乐Vakning að elska中的一个极度悲凉的评论:
 

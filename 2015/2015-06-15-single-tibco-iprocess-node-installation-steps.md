@@ -1,12 +1,12 @@
----
-author: wongoo
-date: 2015-06-15 03:11:15+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2015-06-15 03:11:15+00:00
 slug: single-tibco-iprocess-node-installation-steps
-title: Single Tibco iProcess Node Installation Steps
+markmeta_title: Single Tibco iProcess Node Installation Steps
 wordpress_id: 843
-categories: Experience
-tags: installation,iProcess,Tibco
----
+markmeta_categories: Experience
+markmeta_tags: installation,iProcess,Tibco
+-->
 
 ================
 **PREVIOUS INSTALLATION**

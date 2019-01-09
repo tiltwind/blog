@@ -1,11 +1,11 @@
----
-author: wongoo
-date: 2017-09-02
-title: 程序会做正确的事——spring scheduled job未执行的事实
-categories: experience
-tags: spring,scheduled,analysis
----
----
+<!---
+markmeta_author: wongoo
+markmeta_date: 2017-09-02
+markmeta_title: 程序会做正确的事——spring scheduled job未执行的事实
+markmeta_categories: experience
+markmeta_tags: spring,scheduled,analysis
+-->
+
 
 昨天同事问了我一个问题，线上一个微服务有一个spring scheduled job一段时间都没有运行了，
 这段时间都没有打日志，应该是排程服务死掉了。

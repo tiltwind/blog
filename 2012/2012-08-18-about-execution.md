@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2012-08-18 02:57:46+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2012-08-18 02:57:46+00:00
 excerpt: 谈谈执行力：结果很重要，按时完成任务，不要发脾气，有任何问题随时提出，完成更多任务
 slug: about-execution
-title: 谈谈执行力
+markmeta_title: 谈谈执行力
 wordpress_id: 313
-categories: Management
-tags: 执行力,结果导向
----
+markmeta_categories: Management
+markmeta_tags: 执行力,结果导向
+-->
 
 这几天女友在读一本姜汝祥写的《请给我结果》的书，该书倡导“结果导向”的执行力：“不要只完成任务，更重要的是结果。” 最近新项目开发，首先需要撰写SD，安排给手下开发人员整理，但某些开发人员撰写的文档总是有问题。经常不懂需求，不闻不问随便乱写；有时候只记住了部分我给他讲的修改要求；让他要做笔记记下来，但几乎每次都会漏东漏西。执行力比较差！有必要也给他们推荐一下这本书，同时再给他们强调以下执行力：
 

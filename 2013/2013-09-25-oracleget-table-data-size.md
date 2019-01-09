@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2013-09-25 03:41:39+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2013-09-25 03:41:39+00:00
 excerpt: Oracle:Get Table Data Size
 slug: oracleget-table-data-size
-title: Oracle:Get Table Data Size
+markmeta_title: Oracle:Get Table Data Size
 wordpress_id: 508
-categories: Experience
-tags: oracle,segment,size,sql,table
----
+markmeta_categories: Experience
+markmeta_tags: oracle,segment,size,sql,table
+-->
 
 SQL Sample:
 

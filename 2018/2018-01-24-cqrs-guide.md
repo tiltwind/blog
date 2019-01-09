@@ -1,10 +1,10 @@
----
-author: wongoo
-date: 2018-01-24
-title: CQRS Guide
-categories: architecture
-tags: cqrs,ddd
----
+<!---
+markmeta_author: wongoo
+markmeta_date: 2018-01-24
+markmeta_title: CQRS Guide
+markmeta_categories: architecture
+markmeta_tags: cqrs,ddd
+-->
 
 
 ## 1. 什么是CQS?

@@ -1,15 +1,15 @@
----
-author: wongoo
-date: 2014-09-02 09:24:52+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2014-09-02 09:24:52+00:00
 excerpt: 计算机存储计量单位KB/MB/GB/TB/PB/EB/ZB/YB/BB/NB/DB
 slug: computer-unit-kbmbgbtbpbebzbybbbnbdb
-title: 计算机存储计量单位KB/MB/GB/TB/PB/EB/ZB/YB/BB/NB/DB
+markmeta_title: 计算机存储计量单位KB/MB/GB/TB/PB/EB/ZB/YB/BB/NB/DB
 wordpress_id: 637
-categories: Knowledge
----
+markmeta_categories: Knowledge
+-->
 
 数量级：
---------------------
+-----------------
 K  = Kilo(千)
 M  = Mega(兆)
 G  = Giga(吉,千兆)

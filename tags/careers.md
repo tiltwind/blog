@@ -1,2 +1,2 @@
 # careers
-* [面试技巧——如何更精确的评估技术能力](/2011/2011-11-05-how_to_evaluate_skill_in_interview),2011-11-05 09
+* [面试技巧——如何更精确的评估技术能力](/2011/2011-11-05-how_to_evaluate_skill_in_interview),2011-11-05

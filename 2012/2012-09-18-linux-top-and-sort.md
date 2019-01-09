@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2012-09-18 05:50:54+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2012-09-18 05:50:54+00:00
 excerpt: Linux Top命令 选择显示列及列排序
 slug: linux-top-and-sort
-title: Linux Top命令 选择显示列及列排序
+markmeta_title: Linux Top命令 选择显示列及列排序
 wordpress_id: 323
-categories: Experience
-tags: linux,top
----
+markmeta_categories: Experience
+markmeta_tags: linux,top
+-->
 
 Top用于查看Linux系统下进程信息，有时候需要选择显示那些列，以及按照某一列进行排序。查询整理如下：
 

@@ -1,12 +1,12 @@
----
-author: wongoo
-date: 2010-12-15 03:57:27+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2010-12-15 03:57:27+00:00
 excerpt: Could not generate WSDL! There is no SOAP service at this location
 slug: axis-error-could-not-generate-wsdl-there-is-no-soap-service-at-this-location
-title: Axis error - Could not generate WSDL! There is no SOAP service at this location
+markmeta_title: Axis error - Could not generate WSDL! There is no SOAP service at this location
 wordpress_id: 38
-categories: Experience
----
+markmeta_categories: Experience
+-->
 
 AXIS error
 

@@ -1,12 +1,12 @@
----
-author: wongoo
-date: 2011-11-01 04:33:27+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2011-11-01 04:33:27+00:00
 slug: 360buy-shielding-etaospider
-title: 360buy Shielding EtaoSpider
+markmeta_title: 360buy Shielding EtaoSpider
 wordpress_id: 159
-categories: Inspiration
-tags: 360buy,etao,robot,taobao
----
+markmeta_categories: Inspiration
+markmeta_tags: 360buy,etao,robot,taobao
+-->
 
 看到一段[新闻](http://tech.sina.com.cn/i/2011-10-25/11546226678.shtml)：
 

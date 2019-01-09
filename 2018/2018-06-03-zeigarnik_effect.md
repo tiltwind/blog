@@ -1,11 +1,11 @@
----
-author: 望哥
-date: 2018-06-03
-title: 蔡格尼克效应
-categories: 认知
-tags: 心理学,效应
+<!---
+markmeta_author: 望哥
+markmeta_date: 2018-06-03
+markmeta_title: 蔡格尼克效应
+markmeta_categories: 认知
+markmeta_tags: 心理学,效应
 
----
+-->
 
 # 1. 什么是蔡格尼克效应
 

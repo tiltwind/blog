@@ -1,12 +1,12 @@
----
-author: wongoo
-date: 2011-07-03 02:51:06+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2011-07-03 02:51:06+00:00
 slug: commons-httpclient-and-httpclient
-title: commons-httpclient 和 httpclient的不同之处
+markmeta_title: commons-httpclient 和 httpclient的不同之处
 wordpress_id: 133
-categories: Experience
-tags: apache,commons,http,httpclient,java
----
+markmeta_categories: Experience
+markmeta_tags: apache,commons,http,httpclient,java
+-->
 
 commons-httpclient是apache的老项目，最后版本是3.1，不再建议使用。
 

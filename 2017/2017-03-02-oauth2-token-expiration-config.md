@@ -1,11 +1,11 @@
----
-author: wongoo
-date: 2017-03-02
-title: Oauth2 token expiration config
-categories: experience
-tags: oauth2,expiration
----
----
+<!---
+markmeta_author: wongoo
+markmeta_date: 2017-03-02
+markmeta_title: Oauth2 token expiration config
+markmeta_categories: experience
+markmeta_tags: oauth2,expiration
+-->
+
 
 同事有问到Oauth2 token过期时间多少，查看了一下资料和源码，整理如下。
 

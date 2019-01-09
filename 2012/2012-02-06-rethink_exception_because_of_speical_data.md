@@ -1,12 +1,12 @@
----
-author: wongoo
-date: 2012-02-06 11:13:38+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2012-02-06 11:13:38+00:00
 slug: rethink_exception_because_of_speical_data
-title: 反思异常数据导致项目运行异常问题
+markmeta_title: 反思异常数据导致项目运行异常问题
 wordpress_id: 185
-categories: Inspiration
-tags: 项目管理,异常处理
----
+markmeta_categories: Inspiration
+markmeta_tags: 项目管理,异常处理
+-->
 
 项目情况：
 客户定制项目，客户提供的各种的数据规格未知。

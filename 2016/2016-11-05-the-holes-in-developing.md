@@ -1,11 +1,11 @@
----
-author: wongoo
-date: 2016-11-05
-title: 软件开发中曾经遇到的那些坑
-categories: 经验
-tags: development
----
----
+<!---
+markmeta_author: wongoo
+markmeta_date: 2016-11-05
+markmeta_title: 软件开发中曾经遇到的那些坑
+markmeta_categories: 经验
+markmeta_tags: development
+-->
+
 
 多年开发经验的程序员比起刚入行的程序员有一个优势就是知道那些地方会容易产生坑，遇到坑的时候如何填坑。入行八年，经历了很多挖坑填坑的过程，在此梳理一下自己遇到的坑以及填坑办法(也可以说是一些开发规范和技巧)：
 

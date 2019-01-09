@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2011-11-30 08:25:39+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2011-11-30 08:25:39+00:00
 excerpt: MSSQL Export/Import Table Data with image type field
 slug: mssql-exportimport-table-data-with-image-type-field
-title: MSSQL Export/Import Table Data with image type field
+markmeta_title: MSSQL Export/Import Table Data with image type field
 wordpress_id: 172
-categories: Experience
-tags: Export,Import,MSSQL
----
+markmeta_categories: Experience
+markmeta_tags: Export,Import,MSSQL
+-->
 
 1. export table data to file:
 

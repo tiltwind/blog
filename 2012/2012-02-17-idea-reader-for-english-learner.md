@@ -1,12 +1,12 @@
----
-author: wongoo
-date: 2012-02-17 17:07:03+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2012-02-17 17:07:03+00:00
 slug: idea-reader-for-english-learner
-title: IDEA:给英文学习者的阅读器
+markmeta_title: IDEA:给英文学习者的阅读器
 wordpress_id: 198
-categories: Inspiration
-tags: idea,invocation
----
+markmeta_categories: Inspiration
+markmeta_tags: idea,invocation
+-->
 
 
 1：该软件定位于本地化软件，可运行与pc和移动设备；

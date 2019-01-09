@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2014-12-03 10:20:29+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2014-12-03 10:20:29+00:00
 excerpt: 日志归档shell脚本
 slug: shell-for-log-achive
-title: 日志归档bash脚本
+markmeta_title: 日志归档bash脚本
 wordpress_id: 764
-categories: Experience
-tags: archive,log,shell
----
+markmeta_categories: Experience
+markmeta_tags: archive,log,shell
+-->
 
 
     #!/bin/sh

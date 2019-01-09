@@ -1,12 +1,12 @@
----
-author: wongoo
-date: 2015-06-15 03:49:52+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2015-06-15 03:49:52+00:00
 slug: tibco-iprocess-activity-monitoring-and-work-queue-delta-publication
-title: Tibco iProcess Activity Monitoring and Work Queue Delta Publication
+markmeta_title: Tibco iProcess Activity Monitoring and Work Queue Delta Publication
 wordpress_id: 855
-categories: Experience
-tags: iProcess,monitor,Tibco
----
+markmeta_categories: Experience
+markmeta_tags: iProcess,monitor,Tibco
+-->
 
 The TIBCO iProcess Engine can be enabled to publish both iProcess Engine activity information and iProcess Engine Work Queue Deltas to external applications, using JMS queues.
 

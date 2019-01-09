@@ -1,12 +1,12 @@
----
-author: wongoo
-date: 2010-11-24 15:58:41+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2010-11-24 15:58:41+00:00
 excerpt: PHP数据库操作工具
 slug: php_db_access_tool
-title: PHP数据库操作工具
+markmeta_title: PHP数据库操作工具
 wordpress_id: 17
-categories: Experience
----
+markmeta_categories: Experience
+-->
 
 PHP数据库操作工具:
 

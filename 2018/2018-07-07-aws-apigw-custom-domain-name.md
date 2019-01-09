@@ -1,11 +1,11 @@
----
-author: 望哥
-date: 2018-07-07
-title: aws api gateway配置custom domain name遇到的那些坑
-categories: 经验
-tags: AWS
+<!---
+markmeta_author: 望哥
+markmeta_date: 2018-07-07
+markmeta_title: aws api gateway配置custom domain name遇到的那些坑
+markmeta_categories: 经验
+markmeta_tags: AWS
 
----
+-->
 
 先讲一下未配置custom domain name之前我们的技术架构：
 * 后端使用lambda提供多个服务（架设有record和info两个服务）

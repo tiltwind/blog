@@ -1,12 +1,12 @@
----
-author: wongoo
-date: 2014-09-23 07:44:10+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2014-09-23 07:44:10+00:00
 slug: git-remote-commands
-title: Git远程操作详解
+markmeta_title: Git远程操作详解
 wordpress_id: 706
-categories: Knowledge,Collection
-tags: clone,fetch,git,pull,push,remote,VCS
----
+markmeta_categories: Knowledge,Collection
+markmeta_tags: clone,fetch,git,pull,push,remote,VCS
+-->
 
 文章来源：http://www.ruanyifeng.com/blog/2014/06/git_remote.html
 

@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2013-09-04 06:24:27+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2013-09-04 06:24:27+00:00
 excerpt: Oracle:Rebuild all unusable indexes
 slug: oraclerebuilding-all-unusable-indexes
-title: Oracle:Rebuild all unusable indexes
+markmeta_title: Oracle:Rebuild all unusable indexes
 wordpress_id: 493
-categories: Experience
-tags: index,oracle,sql
----
+markmeta_categories: Experience
+markmeta_tags: index,oracle,sql
+-->
 
 1. unusable a index:
 

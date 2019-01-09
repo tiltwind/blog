@@ -1,14 +1,14 @@
----
-author: wongoo
-date: 2012-02-15 13:26:30+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2012-02-15 13:26:30+00:00
 excerpt: The difference between Static libraries and Shared libraries
 slug: learning-c-programming-the-difference-between-static-libraries-and-shared-libraries
-title: The difference between Static libraries and Shared
+markmeta_title: The difference between Static libraries and Shared
   libraries'
 wordpress_id: 199
-categories: Experience
-tags: C,library,Programming
----
+markmeta_categories: Experience
+markmeta_tags: C,library,Programming
+-->
 
 1. Static libraries are compiled into the program itself, shared libraries are compiled separately and referenced by the program. This enables the program to be much smaller, but requires the shared libraries be available to run.
 

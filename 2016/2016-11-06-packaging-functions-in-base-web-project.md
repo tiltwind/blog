@@ -1,11 +1,11 @@
----
-author: wongoo
-date: 2016-11-06
-title: 基础web项目封装的功能
-categories: 经验
-tags: Web,API
----
----
+<!---
+markmeta_author: wongoo
+markmeta_date: 2016-11-06
+markmeta_title: 基础web项目封装的功能
+markmeta_categories: 经验
+markmeta_tags: Web,API
+-->
+
 
 整理一下web基础项目目前封装的主要功能：
 

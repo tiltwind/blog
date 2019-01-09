@@ -1,12 +1,12 @@
----
-author: wongoo
-date: 2011-08-09 15:18:51+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2011-08-09 15:18:51+00:00
 slug: wish_asia_stock_get_well
-title: 静待亚洲股市快速恢复
+markmeta_title: 静待亚洲股市快速恢复
 wordpress_id: 144
-categories: Inspiration
-tags: Economics,亚洲市场,市场,经济恢复,股票
----
+markmeta_categories: Inspiration
+markmeta_tags: Economics,亚洲市场,市场,经济恢复,股票
+-->
 
 沃伦•巴菲特(Warren Buffett)有一次致信股东时所说：
 

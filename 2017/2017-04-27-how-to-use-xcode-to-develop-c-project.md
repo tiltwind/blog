@@ -1,11 +1,11 @@
----
-author: wongoo
-date: 2017-04-27
-title: how to use xcode to develop c project
-categories: experience
-tags: xcode,c,ide
----
----
+<!---
+markmeta_author: wongoo
+markmeta_date: 2017-04-27
+markmeta_title: how to use xcode to develop c project
+markmeta_categories: experience
+markmeta_tags: xcode,c,ide
+-->
+
 
 This is a simple guide to use xcode to develop c project.
 

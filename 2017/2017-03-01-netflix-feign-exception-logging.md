@@ -1,11 +1,11 @@
----
-author: wongoo
-date: 2017-03-01
-title: Netflix feign exception logging
-categories: experience
-tags: spring-cloud,netflix,feign,hystrix,exception
----
----
+<!---
+markmeta_author: wongoo
+markmeta_date: 2017-03-01
+markmeta_title: Netflix feign exception logging
+markmeta_categories: experience
+markmeta_tags: spring-cloud,netflix,feign,hystrix,exception
+-->
+
 
 项目中使用netflix feign访问其他微服务接口，接口访问一直正常，最近突然访问不成功，服务请求最终都会被熔断call back处理。
 分析目标服务是有接收到请求并正常处理返回，怀疑是feign处理回复结果的时候有异常，但并没有任何异常报错。

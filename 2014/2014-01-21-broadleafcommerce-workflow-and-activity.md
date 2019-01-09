@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2014-01-21 10:15:52+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2014-01-21 10:15:52+00:00
 excerpt: BroadleafCommerce工作流和活动
 slug: broadleafcommerce-workflow-and-activity
-title: BroadleafCommerce工作流和活动
+markmeta_title: BroadleafCommerce工作流和活动
 wordpress_id: 560
-categories: Knowledge
-tags: activity,broadleaf,ecommerce,workflow
----
+markmeta_categories: Knowledge
+markmeta_tags: activity,broadleaf,ecommerce,workflow
+-->
 
 框架对关键的电子商务流程提供一个可配置的工作流的功能。如结算、支付、定价、购物车等的操作。这些工作流通过spring xml配置文件进行定义。一般其概况，broadleaf提供一个默认的配置，包括结算和支付这些基本的步骤，只需使用到简单的一些模块。大多数用户需要覆盖部分或全部步骤以满足实际商业需求。先讲解默认配置，再讲解如何客制化需求。
 

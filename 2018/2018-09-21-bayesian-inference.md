@@ -1,9 +1,9 @@
----
-title: 贝叶斯推断及实例
-date: 2018-09-21 16:41:13
-tags: Bayes,bayesion
-categories: 算法与数学
----
+<!---
+markmeta_title: 贝叶斯推断及实例
+markmeta_date: 2018-09-21 16:41:13
+markmeta_tags: Bayes,bayesion
+markmeta_categories: 算法与数学
+-->
 
 # 1. 贝叶斯定理（Bayes' Theorem）
 

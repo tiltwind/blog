@@ -1,12 +1,12 @@
----
-author: wongoo
-date: 2011-07-01 07:45:45+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2011-07-01 07:45:45+00:00
 slug: icalendar_mass_code
-title: iCalendar乱码问题
+markmeta_title: iCalendar乱码问题
 wordpress_id: 126
-categories: Experience
-tags: encode,icalendar,mail,rfc5545
----
+markmeta_categories: Experience
+markmeta_tags: encode,icalendar,mail,rfc5545
+-->
 
 可能的问题：
 

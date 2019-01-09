@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2014-09-17 14:38:05+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2014-09-17 14:38:05+00:00
 excerpt: 博客文章分类调整
 slug: adjust-blog-category
-title: 博客文章分类调整
+markmeta_title: 博客文章分类调整
 wordpress_id: 699
-categories: Inspiration
-tags: 分类,博客
----
+markmeta_categories: Inspiration
+markmeta_tags: 分类,博客
+-->
 
 最近发现博客的分类太多了，以至于快和文章的标签是一样多了。比如“计算机”大分类下面分java、javascript、HTML、CSS、Spring、Hibernate、oracle、windows、architecture、management等等，写一篇博客开始不知道要放到哪一个分类之下。
 

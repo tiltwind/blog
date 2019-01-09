@@ -1,11 +1,11 @@
----
-author: wongoo
-date: 2016-10-11
-title: 什么是艺术
-categories: 感悟
-tags: Art
----
----
+<!---
+markmeta_author: wongoo
+markmeta_date: 2016-10-11
+markmeta_title: 什么是艺术
+markmeta_categories: 感悟
+markmeta_tags: Art
+-->
+
 # 
 
 一件看似低俗的事情，做得久了，也就成为了艺术！

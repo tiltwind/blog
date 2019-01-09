@@ -1,12 +1,12 @@
----
-author: wongoo
-date: 2014-09-23 04:09:07+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2014-09-23 04:09:07+00:00
 slug: git-branch-mangement
-title: Git分支管理策略
+markmeta_title: Git分支管理策略
 wordpress_id: 702
-categories: Knowledge,Collection
-tags: branch,git,merge,VCS
----
+markmeta_categories: Knowledge,Collection
+markmeta_tags: branch,git,merge,VCS
+-->
 
 文章来源：http://www.ruanyifeng.com/blog/2012/07/git.html
 

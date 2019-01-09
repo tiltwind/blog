@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2014-12-12 08:47:13+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2014-12-12 08:47:13+00:00
 excerpt: Javadoc翻译——Spring注解@Bean
 slug: javadoc-spring-bean
-title: Javadoc翻译——Spring注解@Bean
+markmeta_title: Javadoc翻译——Spring注解@Bean
 wordpress_id: 818
-categories: Knowledge
-tags: annotation,bean,spring
----
+markmeta_categories: Knowledge
+markmeta_tags: annotation,bean,spring
+-->
 
 
     package org.springframework.context.annotation;

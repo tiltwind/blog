@@ -1,11 +1,11 @@
----
-author: wongoo
-date: 2010-12-29 14:31:14+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2010-12-29 14:31:14+00:00
 slug: change_oracle_character
-title: 更改Oracle数据库编码
+markmeta_title: 更改Oracle数据库编码
 wordpress_id: 49
-categories: Experience
----
+markmeta_categories: Experience
+-->
 
 SQL*Plus: Release 10.2.0.1.0 - Production on 星期三 12月 29 22:23:55 2010
 

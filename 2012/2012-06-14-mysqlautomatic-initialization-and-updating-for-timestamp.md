@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2012-06-14 06:57:42+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2012-06-14 06:57:42+00:00
 excerpt: Automatic Initialization and Updating for TIMESTAMP in mysql
 slug: mysqlautomatic-initialization-and-updating-for-timestamp
-title: '[MySql]Automatic Initialization and Updating for TIMESTAMP'
+markmeta_title: '[MySql]Automatic Initialization and Updating for TIMESTAMP'
 wordpress_id: 290
-categories: Experience
-tags: MSSQL,mysql,timestamp
----
+markmeta_categories: Experience
+markmeta_tags: MSSQL,mysql,timestamp
+-->
 
 It's found that Mysql can automatic initialize and update a TIMESTAMP field just using creating table declaration. MsSql can also finish this job through a trigger, but it's boring.
 

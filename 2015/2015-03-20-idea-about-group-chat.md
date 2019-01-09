@@ -1,12 +1,12 @@
----
-author: wongoo
-date: 2015-03-20 15:48:51+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2015-03-20 15:48:51+00:00
 slug: idea-about-group-chat
-title: 关于聊天软件中群聊消息提醒方式的想法
+markmeta_title: 关于聊天软件中群聊消息提醒方式的想法
 wordpress_id: 837
-categories: Inspiration
-tags: chat,group-chat,thought
----
+markmeta_categories: Inspiration
+markmeta_tags: chat,group-chat,thought
+-->
 
 现在很多聊天软件中都有群聊，每条发言前会显示头像或用户名称用于区分不同的人发言，当聊天人数比较少时，发言频率不高时，所有消息内容都还能比较好的区分和识别，也都会一条条看，认真的回复。
 当聊天室人数太多，大家都积极发言，消息铺天盖地，很多发言可能和自己没多大关系，或自己并不太关注的内容，可能很多只关心某个人的发言或者有@自己的发言。

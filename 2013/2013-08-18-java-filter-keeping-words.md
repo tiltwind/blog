@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2013-08-18 09:45:02+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2013-08-18 09:45:02+00:00
 excerpt: Java过滤保留字字符串处理
 slug: java-filter-keeping-words
-title: Java过滤保留字字符串处理
+markmeta_title: Java过滤保留字字符串处理
 wordpress_id: 482
-categories: Experience
-tags: algorithm,java
----
+markmeta_categories: Experience
+markmeta_tags: algorithm,java
+-->
 
 **1. 先定义一个保留字类：**
 

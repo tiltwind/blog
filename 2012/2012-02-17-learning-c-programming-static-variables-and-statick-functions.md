@@ -1,12 +1,12 @@
----
-author: wongoo
-date: 2012-02-17 18:57:48+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2012-02-17 18:57:48+00:00
 slug: learning-c-programming-static-variables-and-statick-functions
-title: C Static Variables  and Statick Functions
+markmeta_title: C Static Variables  and Statick Functions
 wordpress_id: 212
-categories: Experience
-tags: C,Programming
----
+markmeta_categories: Experience
+markmeta_tags: C,Programming
+-->
 
 internal static variables:  provide private permanent storage , accessible in current function scope
 

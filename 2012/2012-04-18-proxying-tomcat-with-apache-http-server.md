@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2012-04-18 10:05:19+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2012-04-18 10:05:19+00:00
 excerpt: Document about proxying Tomcat with Apache HTTP Server
 slug: proxying-tomcat-with-apache-http-server
-title: Proxying Tomcat with Apache HTTP Server
+markmeta_title: Proxying Tomcat with Apache HTTP Server
 wordpress_id: 247
-categories: Experience
-tags: AJP,apache,Proxy,Tomcat
----
+markmeta_categories: Experience
+markmeta_tags: AJP,apache,Proxy,Tomcat
+-->
 
 Document about proxying Tomcat with Apache HTTP Server:
 

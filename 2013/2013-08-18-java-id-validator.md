@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2013-08-18 09:15:59+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2013-08-18 09:15:59+00:00
 excerpt: Java身份证号码验证器
 slug: java-id-validator
-title: Java身份证号码验证器
+markmeta_title: Java身份证号码验证器
 wordpress_id: 475
-categories: Experience
-tags: java,Validator
----
+markmeta_categories: Experience
+markmeta_tags: java,Validator
+-->
 
 
 

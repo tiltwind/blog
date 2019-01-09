@@ -1,11 +1,11 @@
----
-author: wongoo
-date: 2017-10-01
-title: 小孩存在的问题
-categories: education
-tags: education
----
----
+<!---
+markmeta_author: wongoo
+markmeta_date: 2017-10-01
+markmeta_title: 小孩存在的问题
+markmeta_categories: education
+markmeta_tags: education
+-->
+
 
 图图上了幼儿园，在班上的年龄居中，但是最“调皮”的一个。
 老师反映，图图在幼儿园推打小朋友，拉扯老师在墙上挂的饰物，影响他人睡觉，挑食。

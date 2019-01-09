@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2012-12-05 10:25:54+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2012-12-05 10:25:54+00:00
 excerpt: Oracle7没有NLS_NCHAR_CHARACTERSET设置，只有NLS_CHARACTERSET设置。且Oracle7 varchar2只支持byte类型存储，没有char类型。Oracle7将字符转为NLS_CHARACTERSET编码的字符再存入varchar2字段，但特殊难字转换失败时就会变为问号。由于Oracle7支持CHR方法(将字符编号转为对应的字符)，所以将可以在执行sql之前将sql语法中的难字全部替换为CHR方法转换即可.
 slug: oracle-jdbc-special-char-encode
-title: Oracle数据库JDBC难字编码问题
+markmeta_title: Oracle数据库JDBC难字编码问题
 wordpress_id: 372
-categories: Experience
-tags: characterset,encode,oracle7
----
+markmeta_categories: Experience
+markmeta_tags: characterset,encode,oracle7
+-->
 
 客户的数据库是Oracle7，Oracle7的JDBC只有基于java1.0开发的，所以改用支持java1.4的Oracle9的JDBC(ojdbc14.jar).
 遇到一个难字insert到Oracle7之后变为问号。查询相关资料了解到，varchar2会存储字符时会以NLS_CHARACTERSET设置的编码进行存储。在NLS_CHARACTERSET=ZHT16BIG5,Oracle10g针对一些特殊自造字，能够由UTF8转换为BIG5编码，但oracle7却不行，转换失败时就会变为问号，应该是版本太早转换字符的映射表范围有限。 那么有没有可能扩展其编码转换映射表呢？（欢迎讨论）

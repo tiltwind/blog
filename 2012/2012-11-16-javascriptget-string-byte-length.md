@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2012-11-16 10:13:34+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2012-11-16 10:13:34+00:00
 excerpt: Javascript:Get string byte length
 slug: javascriptget-string-byte-length
-title: Javascript:Get string byte length
+markmeta_title: Javascript:Get string byte length
 wordpress_id: 351
-categories: Experience
-tags: charCodeAt,encode,encodeURI,Javascript,unicode
----
+markmeta_categories: Experience
+markmeta_tags: charCodeAt,encode,encodeURI,Javascript,unicode
+-->
 
 
     

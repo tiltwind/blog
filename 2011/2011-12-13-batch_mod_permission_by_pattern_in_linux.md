@@ -1,12 +1,12 @@
----
-author: wongoo
-date: 2011-12-13 07:26:33+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2011-12-13 07:26:33+00:00
 slug: batch_mod_permission_by_pattern_in_linux
-title: Linux批量修改符合某一条件文件权限
+markmeta_title: Linux批量修改符合某一条件文件权限
 wordpress_id: 183
-categories: Experience
-tags: Linux,chmod
----
+markmeta_categories: Experience
+markmeta_tags: Linux,chmod
+-->
 
 Change the permission of files with 665 permission under /tmp/mydir to 664:
 

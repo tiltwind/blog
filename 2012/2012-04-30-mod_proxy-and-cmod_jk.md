@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2012-04-30 05:39:02+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2012-04-30 05:39:02+00:00
 excerpt: apache模块mod_proxy和mod_jk优劣势比较
 slug: mod_proxy-and-cmod_jk
-title: mod_proxy和mod_jk比较
+markmeta_title: mod_proxy和mod_jk比较
 wordpress_id: 258
-categories: Knowledge
-tags: AJP,apache,balance,mod_jk,mod_proxy
----
+markmeta_categories: Knowledge
+markmeta_tags: AJP,apache,balance,mod_jk,mod_proxy
+-->
 
 #### Comparing mod_proxy and mod_jk
 

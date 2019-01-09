@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2014-10-05 14:37:32+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2014-10-05 14:37:32+00:00
 excerpt: httpd2.4和2.2在访问控制配置的差异
 slug: diff-of-http24-and-22
-title: httpd2.4和2.2在访问控制配置的差异
+markmeta_title: httpd2.4和2.2在访问控制配置的差异
 wordpress_id: 728
-categories: Experience
-tags: access-control,apache,httpd
----
+markmeta_categories: Experience
+markmeta_tags: access-control,apache,httpd
+-->
 
 2.2版本访问控制是通过Order, Allow, Deny, 和Satisfy这几个指令，对客户端访问hostname、IP以及其他requests信息进行限制.
 2.4版本使用mod_authz_host模块以类似权限检查的方式进行访问控制。旧的访问控制方式应该改用新的机制。但2.4版本也提供一个新的mod_access_compat模块来适应旧的配置方式。

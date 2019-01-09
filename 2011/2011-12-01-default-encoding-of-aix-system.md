@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2011-12-01 12:40:31+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2011-12-01 12:40:31+00:00
 excerpt: 'Default Encoding of AIX System '
 slug: default-encoding-of-aix-system
-title: 'Default Encoding of AIX System '
+markmeta_title: 'Default Encoding of AIX System '
 wordpress_id: 178
-categories: Experience
-tags: AIX,Linux,Encoding
----
+markmeta_categories: Experience
+markmeta_tags: AIX,Linux,Encoding
+-->
 
 ## Extended Encoding Set (contained in lib/charsets.jar)
 

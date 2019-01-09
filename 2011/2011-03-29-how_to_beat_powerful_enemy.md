@@ -1,11 +1,11 @@
----
-author: wongoo
-date: 2011-03-29 13:54:33+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2011-03-29 13:54:33+00:00
 slug: how_to_beat_powerful_enemy
-title: 战胜势均力敌的对手
+markmeta_title: 战胜势均力敌的对手
 wordpress_id: 45
-categories: Inspiration
----
+markmeta_categories: Inspiration
+-->
 
 擂台上的两个势均力敌的拳击手各自举着双手做防守，当发现对方有防守空当的时候，随时准备挥拳过去！
 

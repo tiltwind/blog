@@ -1,11 +1,11 @@
----
-author: wongoo
-date: 2016-12-03
-title: 如何实现跨域访问
-categories: 经验
-tags: 开发,经验,CORS
----
----
+<!---
+markmeta_author: wongoo
+markmeta_date: 2016-12-03
+markmeta_title: 如何实现跨域访问
+markmeta_categories: 经验
+markmeta_tags: 开发,经验,CORS
+-->
+
 
 # 如何实现跨域访问
 

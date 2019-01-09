@@ -1,11 +1,11 @@
----
-author: wongoo
-date: 2017-04-27
-title: message push gateway based on nginx+lua+redis
-categories: architecture
-tags: nginx,lua,redis
----
----
+<!---
+markmeta_author: wongoo
+markmeta_date: 2017-04-27
+markmeta_title: message push gateway based on nginx+lua+redis
+markmeta_categories: architecture
+markmeta_tags: nginx,lua,redis
+-->
+
 
 # Abstract
 

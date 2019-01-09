@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2014-03-25 01:50:06+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2014-03-25 01:50:06+00:00
 excerpt: 'oracle create data and temporary  tablespace for new user '
 slug: oracle-create-data-and-temporary-tablespace-for-new-user
-title: 'oracle create data and temporary tablespace for new user '
+markmeta_title: 'oracle create data and temporary tablespace for new user '
 wordpress_id: 602
-categories: Experience
-tags: dataspace,grant,oracle,privileges,tablespace
----
+markmeta_categories: Experience
+markmeta_tags: dataspace,grant,oracle,privileges,tablespace
+-->
 
 创建表空间、临时表空间；创建账号并指定账号使用表空间；赋予新账号权限角色；
 

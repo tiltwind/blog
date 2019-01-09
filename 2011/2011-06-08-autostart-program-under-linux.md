@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2011-06-08 04:02:10+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2011-06-08 04:02:10+00:00
 excerpt: Autostart Program under Linux
 slug: autostart-program-under-linux
-title: Autostart Program under Linux
+markmeta_title: Autostart Program under Linux
 wordpress_id: 116
-categories: Experience
-tags: autostart,linux
----
+markmeta_categories: Experience
+markmeta_tags: autostart,linux
+-->
 
 
 

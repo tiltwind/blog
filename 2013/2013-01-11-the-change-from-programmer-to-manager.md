@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2013-01-11 03:02:38+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2013-01-11 03:02:38+00:00
 excerpt: The change from programmer to manager
 slug: the-change-from-programmer-to-manager
-title: The change from programmer to manager
+markmeta_title: The change from programmer to manager
 wordpress_id: 382
-categories: Management
-tags: management
----
+markmeta_categories: Management
+markmeta_tags: management
+-->
 
 As a programmer, I used to try to resolve problems by myself. But it's not a good habit for a manager, and will confuse the work especially at a busy time. A manager must learn how to assign work to his team. First, make clear for the work or problem; Second, make a plan and add it into your work list;Third, assign work to others and tell them the target and direction; Fourth, keep following the progress of all work on your work list.
 

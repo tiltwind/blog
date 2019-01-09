@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2014-01-21 08:20:12+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2014-01-21 08:20:12+00:00
 excerpt: BroadleafCommerce合并配置
 slug: broadleafcommerce-merge-config
-title: BroadleafCommerce合并配置
+markmeta_title: BroadleafCommerce合并配置
 wordpress_id: 558
-categories: Knowledge
-tags: broadleaf,configuration,ecommerce,merge
----
+markmeta_categories: Knowledge
+markmeta_tags: broadleaf,configuration,ecommerce,merge
+-->
 
 Merge configuration是通过web.xml处理的，broadleaf的merge功能智能的合并一个或多个spring配置文件。合并的最终版本才被传递给spring处理。为了让broadleaf知道要merge那些文件，你必须在web.xml中声明。首先，我们提供一个patchConfigLocation的参数，表示你的spring context文件列表。你可以任意添加，它们将被合并到broadleaf配置中。
 

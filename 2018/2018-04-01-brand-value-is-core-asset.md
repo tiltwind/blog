@@ -1,11 +1,11 @@
----
-author: 望哥
-date: 2018-04-01
-title: 品牌价值也是公司的核心资产
-categories: thought
-tags: management,company
+<!---
+markmeta_author: 望哥
+markmeta_date: 2018-04-01
+markmeta_title: 品牌价值也是公司的核心资产
+markmeta_categories: thought
+markmeta_tags: management,company
 
----
+-->
 
 最近facebook因为客户资料泄露事件，引起很大民愤，很多个人和公司都相继删除facebook账号，公司股票也遭遇大跌。
 先来看看事件始末:

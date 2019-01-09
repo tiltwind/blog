@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2013-08-04 06:34:40+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2013-08-04 06:34:40+00:00
 excerpt: SSH Project Performance Tuning Analysis
 slug: ssh-project-performance-tuning-analiysis
-title: SSH Project Performance Tuning Analysis
+markmeta_title: SSH Project Performance Tuning Analysis
 wordpress_id: 459
-categories: Experience
-tags: performance,struts2
----
+markmeta_categories: Experience
+markmeta_tags: performance,struts2
+-->
 
 Last month, we tested the performance for a SSH project before deploying to production. When the synchronized user thread size was less than 30, the time cost of a page with DB query was 3-4 seconds. But when the size was over 30, the time would extend to 20-30 seconds gradually. The usages of CPU of AP and DB server were mantain at 20%-30%, The usages of memoery were enough and didn't increase obviously. And the intranet network is fast and wouldn't be the performance neck. We tried to test a page without DB query and time cost was less than 1 second, which gave us a superficial result the DB was slow and it should add cache mechanism to reduce DB query. But the performance didn't improve much with cache. 
 

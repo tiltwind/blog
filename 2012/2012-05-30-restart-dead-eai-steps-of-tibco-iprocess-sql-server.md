@@ -1,12 +1,12 @@
----
-author: wongoo
-date: 2012-05-30 06:09:47+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2012-05-30 06:09:47+00:00
 slug: restart-dead-eai-steps-of-tibco-iprocess-sql-server
-title: Restart dead EAI steps of Tibco iProcess (SQL Server)
+markmeta_title: Restart dead EAI steps of Tibco iProcess (SQL Server)
 wordpress_id: 275
-categories: Experience
-tags: EAI,iProcess,Tibco
----
+markmeta_categories: Experience
+markmeta_tags: EAI,iProcess,Tibco
+-->
 
 * * *
 

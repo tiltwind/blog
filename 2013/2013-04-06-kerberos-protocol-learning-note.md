@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2013-04-06 02:53:49+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2013-04-06 02:53:49+00:00
 excerpt: Kerberos Protocol Learning Note
 slug: kerberos-protocol-learning-note
-title: Kerberos Protocol Learning Note
+markmeta_title: Kerberos Protocol Learning Note
 wordpress_id: 417
-categories: Knowledge
-tags: kerberos,protocol,security,sso
----
+markmeta_categories: Knowledge
+markmeta_tags: kerberos,protocol,security,sso
+-->
 
 **What's Kerberos Protocol?**
 

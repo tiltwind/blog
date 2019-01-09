@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2014-11-18 05:56:27+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2014-11-18 05:56:27+00:00
 excerpt: Git SSH连接端口
 slug: git-ssh-port
-title: Git SSH连接端口
+markmeta_title: Git SSH连接端口
 wordpress_id: 744
-categories: Knowledge
-tags: git,port,ssh
----
+markmeta_categories: Knowledge
+markmeta_tags: git,port,ssh
+-->
 
 如果git SSH的默认端口是22，那么可以使用以下方式clone 一个git项目：
 

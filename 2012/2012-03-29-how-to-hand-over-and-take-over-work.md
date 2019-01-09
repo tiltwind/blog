@@ -1,12 +1,12 @@
----
-author: wongoo
-date: 2012-03-29 15:11:03+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2012-03-29 15:11:03+00:00
 slug: how-to-hand-over-and-take-over-work
-title: 管理笔记－－如何更好的交接工作？
+markmeta_title: 管理笔记－－如何更好的交接工作？
 wordpress_id: 234
-categories: Management
-tags: 管理,交接工作
----
+markmeta_categories: Management
+markmeta_tags: 管理,交接工作
+-->
 
 
 我们公司很多时候一个离职员工的工作落到了其主管的身上，因为不熟悉技术细节，要解决一个问题，花费的精力太多，本职工作也没有做好，来自老板的压力也增大，没有带来更多的成就感，反而增加了其他员工的离职几率。

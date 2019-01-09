@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2014-01-21 07:58:31+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2014-01-21 07:58:31+00:00
 excerpt: 认识Java电子商务开源框架BroadleafCommerce
 slug: about-broadleafcommerce
-title: 认识Java电子商务开源框架BroadleafCommerce
+markmeta_title: 认识Java电子商务开源框架BroadleafCommerce
 wordpress_id: 553
-categories: Knowledge
-tags: broadleaf,ecommerce,introduction
----
+markmeta_categories: Knowledge
+markmeta_tags: broadleaf,ecommerce,introduction
+-->
 
 ###**1. What's BroadleafCommerce**
 

@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2013-02-05 16:40:51+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2013-02-05 16:40:51+00:00
 excerpt: 项目管理几点体会
 slug: experience-of-project-management
-title: 项目管理几点体会
+markmeta_title: 项目管理几点体会
 wordpress_id: 405
-categories: Management
-tags: 心得,Management
----
+markmeta_categories: Management
+markmeta_tags: 心得,Management
+-->
 
 今年主要逐渐完成向管理者方向的转型，管理能力也有所提高,在几个项目管理的技巧和理念上有些体会：
 

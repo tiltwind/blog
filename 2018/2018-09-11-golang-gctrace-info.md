@@ -1,13 +1,13 @@
----
-title: 解读golang gctrace 信息
-date: 2018-09-11 10:53:43
-tags: golang,gc
+<!---
+markmeta_title: 解读golang gctrace 信息
+markmeta_date: 2018-09-11 10:53:43
+markmeta_tags: golang,gc
 
-categories: language
+markmeta_categories: language
 
-author: 望哥
+markmeta_author: 望哥
 
----
+-->
 
 
 

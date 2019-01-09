@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2012-10-19 08:28:36+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2012-10-19 08:28:36+00:00
 excerpt: 解決WEB应用客户端缓存问题
 slug: web-client-cache-problem
-title: 解決WEB应用客户端缓存问题
+markmeta_title: 解決WEB应用客户端缓存问题
 wordpress_id: 330
-categories: Experience
-tags: cache
----
+markmeta_categories: Experience
+markmeta_tags: cache
+-->
 
 WEB客户端缓存对某些内容不常更新的网站来说是个好事，但对实时性要求高的WEB应用则显得不友好了，这个时候就要去掉客户端缓存。
 

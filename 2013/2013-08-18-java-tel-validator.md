@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2013-08-18 09:36:32+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2013-08-18 09:36:32+00:00
 excerpt: Java电话号码验证器
 slug: java-tel-validator
-title: Java电话号码验证器
+markmeta_title: Java电话号码验证器
 wordpress_id: 480
-categories: Experience
-tags: java,Validator
----
+markmeta_categories: Experience
+markmeta_tags: java,Validator
+-->
 
 
 

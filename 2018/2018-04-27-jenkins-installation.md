@@ -1,11 +1,11 @@
----
-author: 望哥
-date: 2018-04-27
-title: jenkins installation on centos
-categories: expirence
-tags: jenkins
+<!---
+markmeta_author: 望哥
+markmeta_date: 2018-04-27
+markmeta_title: jenkins installation on centos
+markmeta_categories: expirence
+markmeta_tags: jenkins
 
----
+-->
 
 
 # 1. Preparation

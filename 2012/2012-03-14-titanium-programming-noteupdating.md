@@ -1,12 +1,12 @@
----
-author: wongoo
-date: 2012-03-14 08:49:22+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2012-03-14 08:49:22+00:00
 slug: titanium-programming-noteupdating
-title: '[updating] Titanium Programming Note'
+markmeta_title: '[updating] Titanium Programming Note'
 wordpress_id: 235
-categories: Experience
-tags: ipad,Mobile,Titanium
----
+markmeta_categories: Experience
+markmeta_tags: ipad,Mobile,Titanium
+-->
 
 ### Page Architecture
 

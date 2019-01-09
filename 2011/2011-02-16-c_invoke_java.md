@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2011-02-16 02:36:42+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2011-02-16 02:36:42+00:00
 excerpt: c调用java的例子
 slug: c_invoke_java
-title: C调用Java的例子
+markmeta_title: C调用Java的例子
 wordpress_id: 63
-categories: Experience
-tags: C,java,jni
----
+markmeta_categories: Experience
+markmeta_tags: C,java,jni
+-->
 
 How to run this example:
 1. exec command "javac jni/CJava.java" to complie the java code.

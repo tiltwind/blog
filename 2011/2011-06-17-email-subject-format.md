@@ -1,12 +1,12 @@
----
-author: wongoo
-date: 2011-06-17 06:54:16+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2011-06-17 06:54:16+00:00
 slug: email-subject-format
-title: Email subject format
+markmeta_title: Email subject format
 wordpress_id: 120
-categories: Experience
-tags: encode,format,mail
----
+markmeta_categories: Experience
+markmeta_tags: encode,format,mail
+-->
 
 Email的标题源码格式是：
 

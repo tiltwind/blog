@@ -1,12 +1,12 @@
----
-author: wongoo
-date: 2014-11-30 06:24:12+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2014-11-30 06:24:12+00:00
 slug: annotation-auth
-title: 基于注解的权限验证方案
+markmeta_title: 基于注解的权限验证方案
 wordpress_id: 756
-categories: Experience
-tags: annotation,architecture,authentication,authorization,spring
----
+markmeta_categories: Experience
+markmeta_tags: annotation,architecture,authentication,authorization,spring
+-->
 
 基本实体设计：用户（user）、角色（Role）、功能（Function）。 一个用户可以有多个角色，一个角色可以有多个功能。
 

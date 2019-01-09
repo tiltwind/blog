@@ -1,11 +1,11 @@
----
-author: 望哥
-date: 2018-03-19
-title: Spring Security 认证配置错误分析
-categories: spring
-tags: spring-security,spring
+<!---
+markmeta_author: 望哥
+markmeta_date: 2018-03-19
+markmeta_title: Spring Security 认证配置错误分析
+markmeta_categories: spring
+markmeta_tags: spring-security,spring
 
----
+-->
 
 # 1. 问题描述：
 同事升级公司内部spring boot项目到1.5.x版本后，发现oauth2认证失效，去掉token可以跳过认证。

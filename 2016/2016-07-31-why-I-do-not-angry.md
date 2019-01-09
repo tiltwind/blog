@@ -1,11 +1,11 @@
----
-author: wongoo
-date: 2016-07-31
-title: 为什么我不会生气?
-categories: 感悟
-tags: Emotion
----
----
+<!---
+markmeta_author: wongoo
+markmeta_date: 2016-07-31
+markmeta_title: 为什么我不会生气?
+markmeta_categories: 感悟
+markmeta_tags: Emotion
+-->
+
 # 
 
 记得很久之前看过一句话： 你的愤怒都来源于你自身的无能!

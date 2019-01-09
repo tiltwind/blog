@@ -1,11 +1,11 @@
----
-author: 望哥
-date: 2018-03-27
-title: 从电子看板到实体看板
-categories: agile
-tags: kanban,management
+<!---
+markmeta_author: 望哥
+markmeta_date: 2018-03-27
+markmeta_title: 从电子看板到实体看板
+markmeta_categories: agile
+markmeta_tags: kanban,management
 
----
+-->
 
 # 1. 从电子看板到实体看板的经历
 

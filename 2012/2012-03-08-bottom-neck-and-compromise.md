@@ -1,12 +1,12 @@
----
-author: wongoo
-date: 2012-03-08 18:00:45+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2012-03-08 18:00:45+00:00
 slug: bottom-neck-and-compromise
-title: 高性能系统思考－－系统瓶颈和资源认可性
+markmeta_title: 高性能系统思考－－系统瓶颈和资源认可性
 wordpress_id: 230
-categories: Inspiration
-tags: high-performance,瓶颈,高性能
----
+markmeta_categories: Inspiration
+markmeta_tags: high-performance,瓶颈,高性能
+-->
 
 
 一个系统一般包含多个部分，各部分的性能和速度是差异的，整个系统的性能由性能最差的部分(瓶颈)决定。高性能的目的是让瓶颈的地方‘认可性’的扩大。

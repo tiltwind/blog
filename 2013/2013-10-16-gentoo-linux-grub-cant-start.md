@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2013-10-16 11:07:09+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2013-10-16 11:07:09+00:00
 excerpt: Gentoo Linux Grub 無法啓動問題
 slug: gentoo-linux-grub-cant-start
-title: Gentoo:Grub 無法啓動的問題
+markmeta_title: Gentoo:Grub 無法啓動的問題
 wordpress_id: 528
-categories: Experience
-tags: gentoo,grub,grub2,linux
----
+markmeta_categories: Experience
+markmeta_tags: gentoo,grub,grub2,linux
+-->
 
 常遇到Grub 無法啓動的問題，大多數是因爲對GRUB不了解，配置錯誤造成的，在此整理一下。Gentoo執行emerge grub默認只會安裝最新的grub2版本，不會安裝grub1的版本。往往沒有安裝grub1，系統無法正常引導。要讓gurb1和grub2版本共存，可以執行以下兩個命令完成安裝：
 

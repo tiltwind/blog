@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2013-10-15 09:34:44+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2013-10-15 09:34:44+00:00
 excerpt: 將包含Unicode(\uXXXX)編碼格式的國際化文件轉爲UTF8編碼
 slug: unicode-to-utf8
-title: 將包含Unicode(\uXXXX)編碼格式的國際化文件轉爲UTF8編碼
+markmeta_title: 將包含Unicode(\uXXXX)編碼格式的國際化文件轉爲UTF8編碼
 wordpress_id: 524
-categories: Experience
-tags: i18n,native2ascii,unicode,utf8
----
+markmeta_categories: Experience
+markmeta_tags: i18n,native2ascii,unicode,utf8
+-->
 
 Java JDK中提供了一個很實用的工具native2ascii可以實現此操作：
 

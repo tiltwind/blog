@@ -1,12 +1,12 @@
----
-author: 望哥
-date: 2018-03-07
-title: 踏上Scrum敏捷之路
-categories: agile
-tags: scrum,agile
+<!---
+markmeta_author: 望哥
+markmeta_date: 2018-03-07
+markmeta_title: 踏上Scrum敏捷之路
+markmeta_categories: agile
+markmeta_tags: scrum,agile
 
 
----
+-->
 
 > 摘要：作为向敏捷转型的技术团队，你是否在向团队介绍Scrum的时候觉得很困难？他们是不是存在抵触？他们是不是在实践过程中还是不懂如何去做？是不是还会提一些违背敏捷的低级问题？也许是团队成员还不明白什么是敏捷、什么是Scrum、它们之间什么关系以及敏捷能解决什么问题？本文从方法论的角度，详述复杂问题、敏捷、Scrum之间的关系，有助于敏捷团队举一反三，应对敏捷实践中遇到的各种问题。本文也可以作为刚开始转向敏捷的团队作为敏捷导入宣讲的内容，让团队了解转向敏捷的必要性并快速踏上敏捷实践之路。
 

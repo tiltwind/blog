@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2013-09-13 09:10:51+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2013-09-13 09:10:51+00:00
 excerpt: Oracle expdp/impdp command sample
 slug: oracle-expdpimpdp-command-sample
-title: Oracle expdp/impdp command sample
+markmeta_title: Oracle expdp/impdp command sample
 wordpress_id: 499
-categories: Experience
-tags: expdp,impdp,oracle,sql
----
+markmeta_categories: Experience
+markmeta_tags: expdp,impdp,oracle,sql
+-->
 
 **Command Sample**
 

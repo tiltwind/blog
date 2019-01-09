@@ -1,12 +1,12 @@
----
-author: wongoo
-date: 2012-03-08 17:13:02+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2012-03-08 17:13:02+00:00
 slug: what-is-high-performance
-title: 高性能系统思考－－何为高性能
+markmeta_title: 高性能系统思考－－何为高性能
 wordpress_id: 228
-categories: Inspiration
-tags: high-performance,高性能
----
+markmeta_categories: Inspiration
+markmeta_tags: high-performance,高性能
+-->
 
 
 高性能是相对低性能而提出的，低性能是指不能同时大量获取有限的资源，但高性能不是能够同时大量获得有限的资源，而是能够同时获得大量被‘认可’的资源。

@@ -1,12 +1,12 @@
----
-author: wongoo
-date: 2015-06-15 04:28:22+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2015-06-15 04:28:22+00:00
 slug: required-ports-for-tibco-iprocess-engine
-title: Required Ports for Tibco iProcess Engine
+markmeta_title: Required Ports for Tibco iProcess Engine
 wordpress_id: 859
-categories: Experience
-tags: iProcess,port,Tibco
----
+markmeta_categories: Experience
+markmeta_tags: iProcess,port,Tibco
+-->
 
 111(RPC for Worckspace)
 1145(TCP for Director Service)

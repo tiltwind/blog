@@ -1,11 +1,11 @@
----
-author: wongoo
-date: 2011-03-12 10:33:25+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2011-03-12 10:33:25+00:00
 slug: something
-title: 周末的一些事儿
+markmeta_title: 周末的一些事儿
 wordpress_id: 77
-categories: Inspiration
----
+markmeta_categories: Inspiration
+-->
 
 今天参加完党支部组织活动回来，主要是传达一下先进党支部建设和先进个人党员发展的问题。其间有聊到一些事情：
 

@@ -1,11 +1,11 @@
----
-author: wongoo
-date: 2010-12-28 06:27:38+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2010-12-28 06:27:38+00:00
 slug: ibm_future_tech_of_next_5_years
-title: IBM预测未来5年5项科技
+markmeta_title: IBM预测未来5年5项科技
 wordpress_id: 46
-categories: Collection
----
+markmeta_categories: Collection
+-->
 
 IBM发布每年一度的“未来5年5项预测”报告，对未来5年的科技发展作出5大预测，其中包括空气动力电池、3D投影手机和个性化换乘车等技术。
 

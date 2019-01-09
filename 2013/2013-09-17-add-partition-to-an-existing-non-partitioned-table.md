@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2013-09-17 15:35:47+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2013-09-17 15:35:47+00:00
 excerpt: Add partition to an existing NON-PARTITIONED table
 slug: add-partition-to-an-existing-non-partitioned-table
-title: Add partition to an existing NON-PARTITIONED table
+markmeta_title: Add partition to an existing NON-PARTITIONED table
 wordpress_id: 505
-categories: Experience
-tags: oracle,partition
----
+markmeta_categories: Experience
+markmeta_tags: oracle,partition
+-->
 
 If you have a current NON-PARTITIONED table, you need to:
 

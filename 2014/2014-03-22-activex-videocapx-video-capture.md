@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2014-03-22 15:56:46+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2014-03-22 15:56:46+00:00
 excerpt: 抓图录像ActiveX控件VideoCapx
 slug: activex-videocapx-video-capture
-title: 抓图录像ActiveX控件VideoCapx
+markmeta_title: 抓图录像ActiveX控件VideoCapx
 wordpress_id: 593
-categories: Experience
-tags: activex,capture,video,videocabx
----
+markmeta_categories: Experience
+markmeta_tags: activex,capture,video,videocabx
+-->
 
 一个可以抓图和录像的ActiveX控件，详情如下：
 

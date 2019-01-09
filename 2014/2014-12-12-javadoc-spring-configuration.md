@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2014-12-12 07:51:51+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2014-12-12 07:51:51+00:00
 excerpt: Javadoc翻译——Spring @Configuration注解
 slug: javadoc-spring-configuration
-title: Javadoc翻译——Spring @Configuration注解
+markmeta_title: Javadoc翻译——Spring @Configuration注解
 wordpress_id: 809
-categories: Knowledge
-tags: annotatioin,configuration,javadoc,spring
----
+markmeta_categories: Knowledge
+markmeta_tags: annotatioin,configuration,javadoc,spring
+-->
 
 org.springframework.context.annotation.Configuration
 

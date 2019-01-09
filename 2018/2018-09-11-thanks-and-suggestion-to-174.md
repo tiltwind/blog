@@ -1,10 +1,10 @@
----
-title: 对厦门一七四医院住院部的感谢和建议
-date: 2018-09-11 09:04:27
-author: 望哥
-categories: 札记
-tags: letter,suggestion
----
+<!---
+markmeta_title: 对厦门一七四医院住院部的感谢和建议
+markmeta_date: 2018-09-11 09:04:27
+markmeta_author: 望哥
+markmeta_categories: 札记
+markmeta_tags: letter,suggestion
+-->
 
 厦门一七四医院的医生、护士、领导:
 

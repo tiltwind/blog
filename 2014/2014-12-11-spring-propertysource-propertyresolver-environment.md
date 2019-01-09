@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2014-12-11 03:06:53+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2014-12-11 03:06:53+00:00
 excerpt: Spring框架PropertySource、PropertyResolver、Environment的设计架构
 slug: spring-propertysource-propertyresolver-environment
-title: Spring框架PropertySource、PropertyResolver、Environment的设计架构
+markmeta_title: Spring框架PropertySource、PropertyResolver、Environment的设计架构
 wordpress_id: 788
-categories: Knowledge
-tags: Environment,PropertyResolver,PropertySources,spring
----
+markmeta_categories: Knowledge
+markmeta_tags: Environment,PropertyResolver,PropertySources,spring
+-->
 
 #**1. 属性资源(PropertySource)**
 

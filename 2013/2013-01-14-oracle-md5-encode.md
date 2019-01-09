@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2013-01-14 07:25:40+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2013-01-14 07:25:40+00:00
 excerpt: Oracle MD5 Encode
 slug: oracle-md5-encode
-title: Oracle MD5 Encode
+markmeta_title: Oracle MD5 Encode
 wordpress_id: 386
-categories: Experience
-tags: encode,MD5,oracle
----
+markmeta_categories: Experience
+markmeta_tags: encode,MD5,oracle
+-->
 
 
 

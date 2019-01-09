@@ -1,15 +1,15 @@
----
-author: wongoo
-date: 2013-04-07 03:58:35+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2013-04-07 03:58:35+00:00
 excerpt: Change JDBC Positional parameter style to JPA-style positional parameters
   style for Hibernate HQL
 slug: change-jdbc-positional-parameter-style-to-jpa-style-positional-parameters-style-for-hibernate-hql
-title: Change JDBC Positional parameter style to JPA-style positional parameters style
+markmeta_title: Change JDBC Positional parameter style to JPA-style positional parameters style
   for Hibernate HQL
 wordpress_id: 424
-categories: Experience
-tags: hibernate,hql,parameter
----
+markmeta_categories: Experience
+markmeta_tags: hibernate,hql,parameter
+-->
 
 After update hibernate from version 3 to version 4, the old HQL will throw the following error.
 

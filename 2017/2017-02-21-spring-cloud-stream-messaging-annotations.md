@@ -1,11 +1,11 @@
----
-author: wongoo
-date: 2017-02-21
-title: Spring Cloud Stream Messaging Annotations
-categories: Note
-tags: spring-cloud,stream,messaging,annotation
----
----
+<!---
+markmeta_author: wongoo
+markmeta_date: 2017-02-21
+markmeta_title: Spring Cloud Stream Messaging Annotations
+markmeta_categories: Note
+markmeta_tags: spring-cloud,stream,messaging,annotation
+-->
+
 
 Spring Cloud Stream Messaging 使用了一系列注解来实现相关功能,以下列举常用的注解，理解这些注解即可熟练使用其强大的功能：
 

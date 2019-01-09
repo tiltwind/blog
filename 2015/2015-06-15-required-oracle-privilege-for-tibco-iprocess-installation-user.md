@@ -1,17 +1,17 @@
----
-author: wongoo
-date: 2015-06-15 04:11:25+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2015-06-15 04:11:25+00:00
 slug: required-oracle-privilege-for-tibco-iprocess-installation-user
-title: Required Oracle Privilege for Tibco iProcess installation user
+markmeta_title: Required Oracle Privilege for Tibco iProcess installation user
 wordpress_id: 857
-categories: Knowledge
-tags: iProcess,oracle,privelge,Tibco
----
+markmeta_categories: Knowledge
+markmeta_tags: iProcess,oracle,privelge,Tibco
+-->
 
 Tibco iProcess安装db帐号创建有两种方式，一种是给管理员帐号，安装的时候自动创建；另一种是提前创建好，安装的时候选择已经创建好的db帐号。 生产环境db帐号管控严格，需要提前创建帐号，需要知道帐号都需要什么权限。测试环境安装是通过第一种方式自动创建的，通过以下两个语法可以查看帐号都需要那些权限。
 
 select * from session_privs;
--------------------------------
+----------------------------
 	CREATE SESSION
 	UNLIMITED TABLESPACE
 	CREATE TABLE

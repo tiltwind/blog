@@ -1,11 +1,11 @@
----
-author: wongoo
-date: 2017-04-02
-title: 用第一性原理思考问题而不是类比
-categories: experience
-tags: thought,first-principle,methodology
----
----
+<!---
+markmeta_author: wongoo
+markmeta_date: 2017-04-02
+markmeta_title: 用第一性原理思考问题而不是类比
+markmeta_categories: experience
+markmeta_tags: thought,first-principle,methodology
+-->
+
 
 #用第一性原理思考问题而不是类比
 

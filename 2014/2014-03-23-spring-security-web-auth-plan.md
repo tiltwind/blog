@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2014-03-23 06:21:00+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2014-03-23 06:21:00+00:00
 excerpt: 一种Spring Security Web认证实现方案及其核心组件及认证过程说明
 slug: spring-security-web-auth-plan
-title: 一种Spring Security Web认证实现方案
+markmeta_title: 一种Spring Security Web认证实现方案
 wordpress_id: 595
-categories: Experience
-tags: architecture,authentication,security,spring
----
+markmeta_categories: Experience
+markmeta_tags: architecture,authentication,security,spring
+-->
 
 整理一种Spring Security Web认证实现方案，其核心组件及认证过程说明如下：
 

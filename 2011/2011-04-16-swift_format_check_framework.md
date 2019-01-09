@@ -1,11 +1,11 @@
----
-author: wongoo
-date: 2011-04-16 06:27:39+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2011-04-16 06:27:39+00:00
 slug: swift_format_check_framework
-title: swift 电文格式校验框架
+markmeta_title: swift 电文格式校验框架
 wordpress_id: 97
-categories: Knowledge,Experience
----
+markmeta_categories: Knowledge,Experience
+-->
 
 swift 电文格式校验框架
 

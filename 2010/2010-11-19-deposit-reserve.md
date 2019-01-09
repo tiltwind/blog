@@ -1,11 +1,11 @@
----
-author: wongoo
-date: 2010-11-19 12:15:46+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2010-11-19 12:15:46+00:00
 slug: deposit-reserve
-title: 存款准备金
+markmeta_title: 存款准备金
 wordpress_id: 12
-categories: Knowledge
----
+markmeta_categories: Knowledge
+-->
 
 **存款准备金(Deposit Reserve)**
 中央银行（中国人民银行）根据法律的规定，要求各商业银行按一定的比例将吸收的存款存入在人民银行开设的准备金账户，对商业银行利用存款发放贷款的行为进行控制。

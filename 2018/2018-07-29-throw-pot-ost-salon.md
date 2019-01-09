@@ -1,11 +1,11 @@
----
-author: 望哥
-date: 2018-07-29
-title: 飞锅侠OST敏捷线下活动回顾
-categories: 敏捷
-tags: OST
+<!---
+markmeta_author: 望哥
+markmeta_date: 2018-07-29
+markmeta_title: 飞锅侠OST敏捷线下活动回顾
+markmeta_categories: 敏捷
+markmeta_tags: OST
 
----
+-->
 
 
 2018/7/29参加飞锅侠OST线下活动，讨论敏捷相关问题，学到了很多内容，整理如下：

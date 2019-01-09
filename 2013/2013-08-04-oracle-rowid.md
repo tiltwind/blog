@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2013-08-04 08:51:06+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2013-08-04 08:51:06+00:00
 excerpt: 'Oracle ROWID '
 slug: oracle-rowid
-title: Oracle ROWID Introduction
+markmeta_title: Oracle ROWID Introduction
 wordpress_id: 463
-categories: Experience
-tags: oracle,rowid
----
+markmeta_categories: Experience
+markmeta_tags: oracle,rowid
+-->
 
 ###**1. ROWID Inroduction**
 

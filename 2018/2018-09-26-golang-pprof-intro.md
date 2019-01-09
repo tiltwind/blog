@@ -1,10 +1,10 @@
----
-title: golang性能分析工具pprof介绍
-author: 望哥
-date: 2018-09-26 21:41:42
-tags: golang,pprof,performance
-categories: 工具
----
+<!---
+markmeta_title: golang性能分析工具pprof介绍
+markmeta_author: 望哥
+markmeta_date: 2018-09-26 21:41:42
+markmeta_tags: golang,pprof,performance
+markmeta_categories: 工具
+-->
 
 
 

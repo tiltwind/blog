@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2012-05-04 10:23:37+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2012-05-04 10:23:37+00:00
 excerpt: mod_jk cluster configuration
 slug: mod_jk-cluster-configuration
-title: mod_jk cluster configuration
+markmeta_title: mod_jk cluster configuration
 wordpress_id: 263
-categories: Experience
-tags: AJP,apache,cluster,mod_jk,Tomcat
----
+markmeta_categories: Experience
+markmeta_tags: AJP,apache,cluster,mod_jk,Tomcat
+-->
 
 ## Config Steps:
 

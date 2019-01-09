@@ -1,11 +1,11 @@
----
-author: 望哥
-date: 2018-08-30
-title: Hotspot内存结构及垃圾回收
-categories: language
-tags: java,hostspot,gc
+<!---
+markmeta_author: 望哥
+markmeta_date: 2018-08-30
+markmeta_title: Hotspot内存结构及垃圾回收
+markmeta_categories: language
+markmeta_tags: java,hostspot,gc
 
----
+-->
 
 摘要：基于Java SE10 版本整理Hotspot的内存结构及垃圾回收基础知识点。
 

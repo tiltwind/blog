@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2014-01-24 01:53:29+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2014-01-24 01:53:29+00:00
 excerpt: Javascript动态加载国际化内容
 slug: javascript-dynamic-load-i18n
-title: Javascript动态加载国际化内容
+markmeta_title: Javascript动态加载国际化内容
 wordpress_id: 586
-categories: Experience
-tags: i18n,international,Javascript
----
+markmeta_categories: Experience
+markmeta_tags: i18n,international,Javascript
+-->
 
 定义一个javascirpt方法，传入需要加载国际化消息key键数组，获得这些消息加载到页面中。
 

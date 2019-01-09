@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2014-04-17 16:42:47+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2014-04-17 16:42:47+00:00
 excerpt: 用你的声誉换100万，你是否愿意？
 slug: 100million-or-reputation
-title: 用你的声誉换100万，你是否愿意？
+markmeta_title: 用你的声誉换100万，你是否愿意？
 wordpress_id: 609
-categories: Inspiration
-tags: PV,互联网,广告,新闻,营销
----
+markmeta_categories: Inspiration
+markmeta_tags: PV,互联网,广告,新闻,营销
+-->
 
 呵呵，这明显是标题党了，勿喷！
 

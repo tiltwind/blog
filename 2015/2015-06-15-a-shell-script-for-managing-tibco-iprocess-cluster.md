@@ -1,12 +1,12 @@
----
-author: wongoo
-date: 2015-06-15 06:50:05+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2015-06-15 06:50:05+00:00
 slug: a-shell-script-for-managing-tibco-iprocess-cluster
-title: A Shell Script for managing Tibco iProcess Cluster
+markmeta_title: A Shell Script for managing Tibco iProcess Cluster
 wordpress_id: 862
-categories: Experience
-tags: cluster,iProcess,shell,Tibco
----
+markmeta_categories: Experience
+markmeta_tags: cluster,iProcess,shell,Tibco
+-->
 
 
     #!/bin/sh

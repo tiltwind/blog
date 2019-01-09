@@ -1,12 +1,12 @@
----
-author: wongoo
-date: 2011-07-12 16:40:24+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2011-07-12 16:40:24+00:00
 slug: tips_should_noticed_when_building_little_company
-title: 关于小公司成立要注意一些事情
+markmeta_title: 关于小公司成立要注意一些事情
 wordpress_id: 140
-categories: Management
-tags: Company,rule
----
+markmeta_categories: Management
+markmeta_tags: Company,rule
+-->
 
 舍友是做房屋装饰装修的，精通技术，实干能力很强，有管理沟通能力。他最近着手成立一个装修公司，预计的成立方案和另外一个合伙人，也是搞技术的，两个人作为公司的两大股东，投入一定资金，占股2/3；另外想再找10个财务股投资人，没人投入1万，这10个人占股1/3;
 

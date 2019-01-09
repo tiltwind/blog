@@ -1,15 +1,15 @@
----
-author: wongoo
-date: 2012-11-11 09:28:16+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2012-11-11 09:28:16+00:00
 excerpt: '1. 多表join的时候, 勿使用多表之间OR条件。遇到这样的情况，建立的索引无法起作用。应尽量改善语句使用到索引以提高查询性能。
 
   2. 如果有跨表OR条件的查询需求，说明表设计的并不很好，在表设计上应考虑具体需求，尽量避免这样的情况发生。'
 slug: not-use-or-for-cross-table-join
-title: 提升查询性能——勿使用跨表OR条件
+markmeta_title: 提升查询性能——勿使用跨表OR条件
 wordpress_id: 343
-categories: Experience
-tags: explain-plan,oracle,performance
----
+markmeta_categories: Experience
+markmeta_tags: explain-plan,oracle,performance
+-->
 
 有两个表，tparent（父表），tchild（子女表），可以用下面的#1脚本创建，taparent的主键是。现在要查询tparent和tchild中uname=’sky’ 的信息，同时查出父表和子女表的资料，查询语句如#2. 当资料量比较小的时候查询速度很快。执行脚本#3，插入大量测试数据，tparent数据量在500万以上，tchlid数据在1000万以上。#4再执行dbms_stats.gather_table_stats收集表统计信息以改善执行计划。这时候再执行#2查询，查询所需时间大大增加。
 

@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2013-09-25 07:18:17+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2013-09-25 07:18:17+00:00
 excerpt: Oracle:大批量高效地更新大数据表索引字段
 slug: oracle-efficient-to-update-index-col-of-big-table
-title: Oracle大批量高效地更新大数据表索引字段
+markmeta_title: Oracle大批量高效地更新大数据表索引字段
 wordpress_id: 512
-categories: Experience
-tags: index,oracle,sql
----
+markmeta_categories: Experience
+markmeta_tags: index,oracle,sql
+-->
 
 更新索引字段会触发索引重建，如果是要大批量修改大数据表的索引字段，速度会很慢，时间大多花在重建索引上了。
 高效的办法是将索引先unusable，待批次更新修改后再重建（rebuild）索引。

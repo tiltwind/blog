@@ -1,11 +1,11 @@
----
-author: 望哥
-date: 2018-08-01
-title: Go各版本GC算法及STW耗时
-categories: 语言
-tags: Golang,GC
+<!---
+markmeta_author: 望哥
+markmeta_date: 2018-08-01
+markmeta_title: Go各版本GC算法及STW耗时
+markmeta_categories: 语言
+markmeta_tags: Golang,GC
 
----
+-->
 
 # Go GC 算法
 

@@ -1,12 +1,12 @@
----
-author: wongoo
-date: 2013-07-16 14:23:26+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2013-07-16 14:23:26+00:00
 excerpt: 如何解决Windows Server 2008 服务启动不能调用Office DCOM转Word的问题
 slug: windows2008-call-dcom-problem
-title: 如何解决Windows Server 2008 服务启动不能调用Office DCOM转Word的问题
+markmeta_title: 如何解决Windows Server 2008 服务启动不能调用Office DCOM转Word的问题
 wordpress_id: 456
-categories: Experience
----
+markmeta_categories: Experience
+-->
 
 项目中产生word的方案是调用Microsoft DCOM API动态产生，在Windows Server 2008下测试，用Jboss standalone console模式启动会成功产生Word，但是将jboss注册为service启动则会失败，出现接口没方法或者卡死（cpu 100%）的错误。
 

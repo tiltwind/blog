@@ -1,11 +1,11 @@
----
-author: wongoo
-date: 2010-12-30 13:06:23+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2010-12-30 13:06:23+00:00
 slug: they_are_not_stupid
-title: 他们不是傻子
+markmeta_title: 他们不是傻子
 wordpress_id: 51
-categories: Inspiration
----
+markmeta_categories: Inspiration
+-->
 
 你不要再骗他们了，不要把他们当做傻子！
 

@@ -1,12 +1,12 @@
----
-author: wongoo
-date: 2015-06-15 03:02:41+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2015-06-15 03:02:41+00:00
 slug: tips-on-tibco-iprocess
-title: Tips on TIBCO iProcess
+markmeta_title: Tips on TIBCO iProcess
 wordpress_id: 841
-categories: Experience
-tags: iProcess,Tibco,tips,webservice
----
+markmeta_categories: Experience
+markmeta_tags: iProcess,Tibco,tips,webservice
+-->
 
 From: http://it.toolbox.com/blogs/steel/tips-on-tibco-iprocess-34932
 

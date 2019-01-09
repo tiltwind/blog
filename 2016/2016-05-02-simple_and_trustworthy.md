@@ -1,10 +1,10 @@
----
-author: wongoo
-date: 2016-05-02
-title: 我曲解了百度核心价值观
-categories: 感悟
-tags: 百度,核心价值,企业
----
+<!---
+markmeta_author: wongoo
+markmeta_date: 2016-05-02
+markmeta_title: 我曲解了百度核心价值观
+markmeta_categories: 感悟
+markmeta_tags: 百度,核心价值,企业
+-->
 
 百度最近因魏则西事件再次被公众吊打，只能怪其不思悔改，遇事从来是逃避推责，没有大企业应有的担当。
 

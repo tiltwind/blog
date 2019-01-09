@@ -1,11 +1,11 @@
----
-author: wongoo
-title: Maven Surefire Plugin
-categories: Knowledge,Collection
-tags: maven,surefire,test
----
+<!---
+markmeta_author: wongoo
+markmeta_title: Maven Surefire Plugin
+markmeta_categories: Knowledge,Collection
+markmeta_tags: maven,surefire,test
+-->
 #Introduction
------------------------------
+--------------------------
 surefire
 
 	adj. 准不会有错的，一定成功的

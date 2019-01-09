@@ -1,12 +1,12 @@
----
-author: wongoo
-date: 2015-06-15 03:28:06+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2015-06-15 03:28:06+00:00
 slug: tibco-iprocess-case-data-queue-parameter-cdqp
-title: Tibco iProcess Case Data Queue Parameter (CDQP)
+markmeta_title: Tibco iProcess Case Data Queue Parameter (CDQP)
 wordpress_id: 848
-categories: Experience
-tags: CDQP,iProcess,Tibco
----
+markmeta_categories: Experience
+markmeta_tags: CDQP,iProcess,Tibco
+-->
 
 Tibco iProcess Case Data Queue Parameter (CDQP) fields provide an efficient method of filtering on the value of fields in your work items. To make use of this functionality, you must first pre-designate the fields you want to filter on as CDQP fields. Fields are designated as CDQP fields with the utility, swutil. This utility is used to create a list, on the TIBCO iProcess Engine, of the case data fields that are available to use for filtering. See the TIBCO iProcess Engine Administrator's Guide for information about using swutil.
 =======================================================================================

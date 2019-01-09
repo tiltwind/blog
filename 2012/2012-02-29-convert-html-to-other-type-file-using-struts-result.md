@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2012-02-29 02:20:55+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2012-02-29 02:20:55+00:00
 excerpt: Convert HTML to other type File using Struts Result
 slug: convert-html-to-other-type-file-using-struts-result
-title: Convert HTML to other type File using Struts Result
+markmeta_title: Convert HTML to other type File using Struts Result
 wordpress_id: 216
-categories: Experience
-tags: Conversion,java,Struts
----
+markmeta_categories: Experience
+markmeta_tags: Conversion,java,Struts
+-->
 
 At the beginning , the naturally considered solution is intercepting the response stream and converting it to the format of the target file type.
 

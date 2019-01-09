@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2013-01-20 00:59:11+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2013-01-20 00:59:11+00:00
 excerpt: VMWare安装Gentoo Linux记录
 slug: vmware-install-gentoo
-title: VMware安装Gentoo记录
+markmeta_title: VMware安装Gentoo记录
 wordpress_id: 391
-categories: Experience
-tags: gentoo,linux,vmware
----
+markmeta_categories: Experience
+markmeta_tags: gentoo,linux,vmware
+-->
 
 **根据官方安装文档(http://www.gentoo.org/doc/en/handbook/handbook-amd64.xml),整理安装过程执行的脚本命令如下。  
 

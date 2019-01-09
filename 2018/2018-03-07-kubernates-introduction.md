@@ -1,11 +1,11 @@
----
-author: 望哥
-date: 2018-03-07
-title: kubernetes概览
-categories: kubernetes
-tags: kubernetes
----
----
+<!---
+markmeta_author: 望哥
+markmeta_date: 2018-03-07
+markmeta_title: kubernetes概览
+markmeta_categories: kubernetes
+markmeta_tags: kubernetes
+-->
+
 
 本文是学习《[Kubernetes Handbook](https://jimmysong.io/kubernetes-handbook/)》的读书笔记，
 对学习kubernetes过程中认为比较重要的概念和一些关键要点进行汇总，以便后续的扩展学习和持续消化。

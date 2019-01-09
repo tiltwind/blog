@@ -1,12 +1,12 @@
----
-author: wongoo
-date: 2011-11-05 09:59:03+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2011-11-05 09:59:03+00:00
 slug: how_to_evaluate_skill_in_interview
-title: 面试技巧——如何更精确的评估技术能力
+markmeta_title: 面试技巧——如何更精确的评估技术能力
 wordpress_id: 163
-categories: Inspiration
-tags: Careers,GitHub,Stackoverflow,招聘,能力评估
----
+markmeta_categories: Inspiration
+markmeta_tags: Careers,GitHub,Stackoverflow,招聘,能力评估
+-->
 
 
 

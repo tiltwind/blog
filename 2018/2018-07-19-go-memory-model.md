@@ -1,11 +1,11 @@
----
-author: 望哥
-date: 2018-07-19
-title: Go内存模型
-categories: 翻译
-tags: Golang,goroutine
+<!---
+markmeta_author: 望哥
+markmeta_date: 2018-07-19
+markmeta_title: Go内存模型
+markmeta_categories: 翻译
+markmeta_tags: Golang,goroutine
 
----
+-->
 
 
 # Go内存模型

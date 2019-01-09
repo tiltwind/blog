@@ -1,12 +1,12 @@
----
-author: wongoo
-date: 2011-11-11 08:41:19+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2011-11-11 08:41:19+00:00
 slug: isblankisempty-of-apache-stringutils
-title: isBlank&isEmpty of Apache StringUtils
+markmeta_title: isBlank&isEmpty of Apache StringUtils
 wordpress_id: 165
-categories: Experience
-tags: apache,java,string
----
+markmeta_categories: Experience
+markmeta_tags: apache,java,string
+-->
 
 StringUtils.isBlank(null); => true
 StringUtils.isBlank("");   => true

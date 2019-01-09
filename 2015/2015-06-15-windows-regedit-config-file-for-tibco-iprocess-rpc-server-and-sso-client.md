@@ -1,12 +1,12 @@
----
-author: wongoo
-date: 2015-06-15 03:16:49+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2015-06-15 03:16:49+00:00
 slug: windows-regedit-config-file-for-tibco-iprocess-rpc-server-and-sso-client
-title: Windows regedit config file for Tibco iProcess RPC Server and SSO Client
+markmeta_title: Windows regedit config file for Tibco iProcess RPC Server and SSO Client
 wordpress_id: 846
-categories: Experience
-tags: iProcess,regedit,Tibco
----
+markmeta_categories: Experience
+markmeta_tags: iProcess,regedit,Tibco
+-->
 
 
     Windows Registry Editor Version 5.00

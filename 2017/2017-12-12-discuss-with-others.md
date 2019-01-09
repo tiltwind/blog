@@ -1,11 +1,11 @@
----
-author: wongoo
-date: 2017-12-12
-title: 何时与人讨论?
-categories: management
-tags: inspiration,management,methodology
----
----
+<!---
+markmeta_author: wongoo
+markmeta_date: 2017-12-12
+markmeta_title: 何时与人讨论?
+markmeta_categories: management
+markmeta_tags: inspiration,management,methodology
+-->
+
 
 ## 1. 分类
 

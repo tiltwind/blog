@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2014-12-04 02:21:56+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2014-12-04 02:21:56+00:00
 excerpt: Jboss应用管理命令，部署/卸载/启动/停止
 slug: jboss-commands
-title: Jboss应用管理命令
+markmeta_title: Jboss应用管理命令
 wordpress_id: 769
-categories: Experience
-tags: cli,deploy,jboss
----
+markmeta_categories: Experience
+markmeta_tags: cli,deploy,jboss
+-->
 
 **1. 获得命令帮助**
 _jboss-cli.bat help

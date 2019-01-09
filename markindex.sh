@@ -1,10 +1,10 @@
 
 function markindex_parse_categories(){
-	grep "categories: " $1 |cut -c 13- |sed 's/,/ /g'
+	grep -m1 "markmeta_categories: " $1 |cut -c 22- |sed 's/,/ /g'
 }
 
 function markindex_parse_tags(){
-	grep "tags: " $1 |cut -c 7- |sed 's/,/ /g'
+	grep -m1 "markmeta_tags: " $1 |cut -c 16- |sed 's/,/ /g'
 }
 
 mkdir -p category
@@ -39,12 +39,18 @@ do
 	files=$(find $year -type f|grep -v navbar|grep -v README |sort -r)
 	for file in $files
 	do
-		title=$(grep "title:" $file | awk -F ':' '{print $2}'|xargs)
-		date=$(grep "date:" $file | awk -F ':' '{print $2}'|xargs)
+		title=$(grep -m1 "markmeta_title:" $file | awk -F ':' '{print $2}'|xargs)
+		date=$(grep -m1 "markmeta_date:" $file | awk -F ':' '{print $2}'|xargs |awk '{print $1}')
+		author=$(grep -m1 "markmeta_author:" $file | awk -F ':' '{print $2}'|xargs)
 		filename="${file##*/}"
 		extension="${filename##*.}"
 		filename="${filename%.*}"
-		echo "* [$title](/$y/$filename),$date" >> $readme
+
+		if [ "$author" == "" ]; then
+			author="noname"
+	        fi	
+
+		echo "* [$title](/$y/$filename), $author, $date" >> $readme
 
 		
 		# ----> parse categories	
@@ -52,7 +58,7 @@ do
 		for cate in $categories
 		do
 			cate=(${cate,,})
-			if [ ! -f category/$cate.md ]
+			if [ "$cate" != "" ] && [ ! -f category/$cate.md ]
 			then
 				cat README.md > category/$cate.md
 				echo "# $cate" >> category/$cate.md
@@ -67,7 +73,7 @@ do
 		for tag in $tags
 		do
 			tag=(${tag,,}) # to lowercase
-			if [ ! -f tags/$tag.md ]
+			if [ "$tag" != "" ] && [ ! -f tags/$tag.md ]
 			then
 				echo "# $tag" >> tags/$tag.md
 				echo " [$tag](/tags/$tag)" >> tags.md

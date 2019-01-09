@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2013-11-06 06:41:37+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2013-11-06 06:41:37+00:00
 excerpt: 利用Windows任务计划和shell脚本定时重启服务
 slug: using-schedule-job-to-auto-start-service
-title: 利用Windows任务计划和shell脚本定时重启服务
+markmeta_title: 利用Windows任务计划和shell脚本定时重启服务
 wordpress_id: 535
-categories: Experience
-tags: schedule,shell,windows
----
+markmeta_categories: Experience
+markmeta_tags: schedule,shell,windows
+-->
 
 客户传真接收程式莫名原因会卡住，需重启才会好。传真接收程式很旧，也暂无时间查原因，为快速解决，使用Windows任务计划和shell脚本，每隔一个小时重启一下传真接收程式。
 

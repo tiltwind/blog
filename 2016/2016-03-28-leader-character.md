@@ -1,10 +1,10 @@
----
-author: wongoo
-date: 2016-03-28
-title: 一个优秀领导的特质
-categories: 感悟
-tags: 管理,成长
----
+<!---
+markmeta_author: wongoo
+markmeta_date: 2016-03-28
+markmeta_title: 一个优秀领导的特质
+markmeta_categories: 感悟
+markmeta_tags: 管理,成长
+-->
 今天Kiera给我上了一课：
 
 * 一个优秀的领导不是靠金钱来拉拢一个团队，而是靠人格魅力和对道德的坚守，绝不突破自身的道德底线；靠金钱拉拢的团队，在企业遇到问题时，是经受不起考验的；

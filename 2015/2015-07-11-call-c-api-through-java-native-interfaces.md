@@ -1,13 +1,13 @@
----
-author: wongoo
-date: 2015-07-11 17:03:17+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2015-07-11 17:03:17+00:00
 excerpt: Call C API through Java Native Interfaces
 slug: call-c-api-through-java-native-interfaces
-title: Call C API through Java Native Interfaces
+markmeta_title: Call C API through Java Native Interfaces
 wordpress_id: 870
-categories: Experience
-tags: C,java,jni
----
+markmeta_categories: Experience
+markmeta_tags: C,java,jni
+-->
 
 Java could call C API through Java Native Interfaces, we could implement that in following steps:
 There should be a diagram to illustrate this process:

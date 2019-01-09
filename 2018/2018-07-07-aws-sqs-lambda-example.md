@@ -1,11 +1,11 @@
----
-author: 望哥
-date: 2018-07-07
-title: aws sqs lambda 范例
-categories: 经验
-tags: AWS,SQS,Lambda
+<!---
+markmeta_author: 望哥
+markmeta_date: 2018-07-07
+markmeta_title: aws sqs lambda 范例
+markmeta_categories: 经验
+markmeta_tags: AWS,SQS,Lambda
 
----
+-->
 
 最近AWS Lambda增加了SQS事件触发器, 由于团队中大部分服务都以lambda的形式提供服务，
 没有SQS触发器之前，接收处理事件只能交给EC2独立部署服务去处理；而现在则可以直接使用lambda来处理事件了。

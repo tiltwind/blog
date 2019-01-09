@@ -1,11 +1,11 @@
----
-author: wongoo
-date: 2011-01-12 09:22:29+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2011-01-12 09:22:29+00:00
 slug: wsdl2htmltool
-title: WSDL转HTML工具
+markmeta_title: WSDL转HTML工具
 wordpress_id: 59
-categories: Experience
----
+markmeta_categories: Experience
+-->
 
 ## 1. WSDL viewer - 方便易用
 

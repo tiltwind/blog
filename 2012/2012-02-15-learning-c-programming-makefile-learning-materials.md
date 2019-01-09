@@ -1,12 +1,12 @@
----
-author: wongoo
-date: 2012-02-15 01:21:31+00:00
+<!---
+markmeta_author: wongoo
+markmeta_date: 2012-02-15 01:21:31+00:00
 slug: learning-c-programming-makefile-learning-materials
-title: Makefile Learning Materials
+markmeta_title: Makefile Learning Materials
 wordpress_id: 195
-categories: Experience
-tags: automake,C,gnu,Makefile
----
+markmeta_categories: Experience
+markmeta_tags: automake,C,gnu,Makefile
+-->
 
 1. A Simple Makefile Tutorial：[http://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/](http://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)
 2. 跟我一起写 Makefile(blog总结) ：[http://blog.csdn.net/haoel/article/details/2886](http://blog.csdn.net/haoel/article/details/2886)

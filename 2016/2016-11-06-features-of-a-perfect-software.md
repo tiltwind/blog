@@ -1,11 +1,11 @@
----
-author: wongoo
-date: 2016-11-06
-title: 一个完善的软件系统的特点
-categories: 经验
-tags: software,feature
----
----
+<!---
+markmeta_author: wongoo
+markmeta_date: 2016-11-06
+markmeta_title: 一个完善的软件系统的特点
+markmeta_categories: 经验
+markmeta_tags: software,feature
+-->
+
 
 根据经验整理，一个完善的软件系统应有的特点。
 

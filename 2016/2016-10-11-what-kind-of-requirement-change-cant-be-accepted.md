@@ -1,11 +1,11 @@
----
-author: wongoo
-date: 2016-10-11
-title: 什么需求变更不可接受
-categories: 管理
-tags: Management,Requirement
----
----
+<!---
+markmeta_author: wongoo
+markmeta_date: 2016-10-11
+markmeta_title: 什么需求变更不可接受
+markmeta_categories: 管理
+markmeta_tags: Management,Requirement
+-->
+
 
 1. 违背系统架构： 对于大多数需求变更来说，尽量不要变更系统架构(包括底层架构及页面功能架构); 如果一定要变更，应该是有共性的功能需求，特殊需要变更架构的需求应不予接受。
 
