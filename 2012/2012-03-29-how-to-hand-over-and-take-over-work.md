@@ -6,11 +6,8 @@ layout: post
 slug: how-to-hand-over-and-take-over-work
 title: 管理笔记－－如何更好的交接工作？
 wordpress_id: 234
-categories:
-- Management
-tags:
-- 管理
-- 交接工作
+categories: Management
+tags: 管理,交接工作
 ---
 
 

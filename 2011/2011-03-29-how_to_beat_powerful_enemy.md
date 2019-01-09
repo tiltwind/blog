@@ -6,8 +6,7 @@ layout: post
 slug: how_to_beat_powerful_enemy
 title: 战胜势均力敌的对手
 wordpress_id: 45
-categories:
-- Inspiration
+categories: Inspiration
 ---
 
 擂台上的两个势均力敌的拳击手各自举着双手做防守，当发现对方有防守空当的时候，随时准备挥拳过去！

@@ -7,11 +7,8 @@ layout: post
 slug: classnotfound-problem
 title: 记一次ClassNotFound的问题
 wordpress_id: 627
-categories:
-- Experience
-tags:
-- 思路
-- 问题
+categories: Experience
+tags: 思路,问题
 ---
 
 同事说，在台北部署一个项目时遇到一个ClassNotFound的问题，而开发环境就不会发生，问我可能的原因，我想可能是环境classpath没有包含jar或者有class重复之类的问题。 他检查了一下，除了开发环境是简体系统，部署环境是繁体系统之外，所有配置设定都一样。当时想java的项目，跟简体繁体应该没关系吧，应该还是其他地方的问题，但因为自己有事情忙没有帮他看这个问题。

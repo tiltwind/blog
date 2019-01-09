@@ -7,12 +7,8 @@ layout: post
 slug: springcontext-test-framework-upgrade
 title: SpringContext测试框架升级
 wordpress_id: 411
-categories:
-- Experience
-tags:
-- junit
-- spring
-- test
+categories: Experience
+tags: junit,spring,test
 ---
 
 原本我们有一个基于Spring的数据库Manager测试基础类BaseDBTestCase.java，其继承于 AbstractDependencyInjectionSpringContextTests.java（基于junit3.8），所有其他测试类继承于BaseDBTestCase.java。Spring 3.0之后弃用了AbstractDependencyInjectionSpringContextTests，提供了一个新的测试框架AbstractTransactionalJUnit4SpringContextTests(基于junit4)，支持注解功能，通过注解可以创建spring context、声明注入、声明测试方法、声明测试前/后执行方法等。为了升级使用AbstractTransactionalJUnit4SpringContextTests，做了以下改动：

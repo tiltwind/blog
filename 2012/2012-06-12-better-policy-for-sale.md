@@ -6,12 +6,8 @@ layout: post
 slug: better-policy-for-sale
 title: 什么促销政策对饮料销售更有效？
 wordpress_id: 287
-categories:
-- Inspiration
-tags:
-- 促销
-- 灵感
-- 饮料
+categories: Inspiration
+tags: 促销,灵感,饮料
 ---
 
 什么促销政策对饮料销售更有效？

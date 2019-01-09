@@ -3,11 +3,8 @@ author: 望哥
 comments: true
 date: 2018-07-19
 title: 飞锅敏捷沙龙回顾
-categories:
-- 敏捷
-tags:
-- Scrum
-- LeSS
+categories: 敏捷
+tags: Scrum,LeSS
 
 ---
 

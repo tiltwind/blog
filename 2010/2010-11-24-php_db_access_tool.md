@@ -7,8 +7,7 @@ layout: post
 slug: php_db_access_tool
 title: PHP数据库操作工具
 wordpress_id: 17
-categories:
-- Experience
+categories: Experience
 ---
 
 PHP数据库操作工具:

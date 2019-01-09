@@ -6,13 +6,8 @@ layout: post
 slug: compile-err-of-apache-module
 title: 编译apache module遇到的错误
 wordpress_id: 295
-categories:
-- Experience
-tags:
-- apache
-- C
-- GCC
-- linux
+categories: Experience
+tags: apache,C,GCC,linux
 ---
 
 编译module命令：gcc  -c -o mod.o mod_example_config.c -I/usr/apache/include -I/usr/local/apr-util/include/apr-1 -I/usr/local/apr/include/apr-1

@@ -4,12 +4,8 @@ author: gelnyang
 comments: true
 date: 2017-09-02
 title: 程序会做正确的事——spring scheduled job未执行的事实
-categories:
-- experience
-tags:
-- spring
-- scheduled
-- analysis
+categories: experience
+tags: spring,scheduled,analysis
 ---
 ---
 

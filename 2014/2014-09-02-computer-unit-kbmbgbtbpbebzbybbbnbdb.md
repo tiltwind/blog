@@ -7,8 +7,7 @@ layout: post
 slug: computer-unit-kbmbgbtbpbebzbybbbnbdb
 title: 计算机存储计量单位KB/MB/GB/TB/PB/EB/ZB/YB/BB/NB/DB
 wordpress_id: 637
-categories:
-- Knowledge
+categories: Knowledge
 ---
 
 数量级：

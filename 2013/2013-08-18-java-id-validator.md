@@ -7,11 +7,8 @@ layout: post
 slug: java-id-validator
 title: Java身份证号码验证器
 wordpress_id: 475
-categories:
-- Experience
-tags:
-- java
-- Validator
+categories: Experience
+tags: java,Validator
 ---
 
 

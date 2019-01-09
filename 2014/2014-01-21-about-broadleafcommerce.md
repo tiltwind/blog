@@ -7,12 +7,8 @@ layout: post
 slug: about-broadleafcommerce
 title: 认识Java电子商务开源框架BroadleafCommerce
 wordpress_id: 553
-categories:
-- Knowledge
-tags:
-- broadleaf
-- ecommerce
-- introduction
+categories: Knowledge
+tags: broadleaf,ecommerce,introduction
 ---
 
 ###**1. What's BroadleafCommerce**

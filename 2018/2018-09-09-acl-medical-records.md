@@ -3,11 +3,8 @@ author: 望哥
 comments: true
 date: 2018-09-09
 title: 前交叉韧带受伤医疗记录
-categories:
-- 札记
-tags:
-- acl
-- medical
+categories: 札记
+tags: acl,medical
 
 ---
 

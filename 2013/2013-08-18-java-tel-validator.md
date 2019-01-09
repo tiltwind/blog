@@ -7,11 +7,8 @@ layout: post
 slug: java-tel-validator
 title: Java电话号码验证器
 wordpress_id: 480
-categories:
-- Experience
-tags:
-- java
-- Validator
+categories: Experience
+tags: java,Validator
 ---
 
 

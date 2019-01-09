@@ -7,8 +7,7 @@ layout: post
 slug: axis-error-could-not-generate-wsdl-there-is-no-soap-service-at-this-location
 title: Axis error - Could not generate WSDL! There is no SOAP service at this location
 wordpress_id: 38
-categories:
-- Experience
+categories: Experience
 ---
 
 AXIS error

@@ -4,11 +4,8 @@ author: gelnyang
 comments: true
 date: 2018-01-24
 title: CQRS Guide
-categories:
-- architecture
-tags:
-- cqrs
-- ddd
+categories: architecture
+tags: cqrs,ddd
 ---
 ---
 

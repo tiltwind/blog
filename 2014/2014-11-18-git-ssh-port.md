@@ -7,12 +7,8 @@ layout: post
 slug: git-ssh-port
 title: Git SSH连接端口
 wordpress_id: 744
-categories:
-- Knowledge
-tags:
-- git
-- port
-- ssh
+categories: Knowledge
+tags: git,port,ssh
 ---
 
 如果git SSH的默认端口是22，那么可以使用以下方式clone 一个git项目：

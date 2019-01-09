@@ -4,12 +4,8 @@ author: gelnyang
 comments: true
 date: 2017-12-12
 title: 何时与人讨论?
-categories:
-- management
-tags:
-- inspiration
-- management
-- methodology
+categories: management
+tags: inspiration,management,methodology
 ---
 ---
 

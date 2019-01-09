@@ -9,12 +9,8 @@ slug: change-jdbc-positional-parameter-style-to-jpa-style-positional-parameters-
 title: Change JDBC Positional parameter style to JPA-style positional parameters style
   for Hibernate HQL
 wordpress_id: 424
-categories:
-- Experience
-tags:
-- hibernate
-- hql
-- parameter
+categories: Experience
+tags: hibernate,hql,parameter
 ---
 
 After update hibernate from version 3 to version 4, the old HQL will throw the following error.

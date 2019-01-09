@@ -7,11 +7,8 @@ layout: post
 slug: add-partition-to-an-existing-non-partitioned-table
 title: Add partition to an existing NON-PARTITIONED table
 wordpress_id: 505
-categories:
-- Experience
-tags:
-- oracle
-- partition
+categories: Experience
+tags: oracle,partition
 ---
 
 If you have a current NON-PARTITIONED table, you need to:

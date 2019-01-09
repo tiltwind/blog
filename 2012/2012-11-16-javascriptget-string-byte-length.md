@@ -7,14 +7,8 @@ layout: post
 slug: javascriptget-string-byte-length
 title: Javascript:Get string byte length
 wordpress_id: 351
-categories:
-- Experience
-tags:
-- charCodeAt
-- encode
-- encodeURI
-- Javascript
-- unicode
+categories: Experience
+tags: charCodeAt,encode,encodeURI,Javascript,unicode
 ---
 
 

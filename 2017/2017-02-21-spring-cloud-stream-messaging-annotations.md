@@ -4,13 +4,8 @@ author: gelnyang
 comments: true
 date: 2017-02-21
 title: Spring Cloud Stream Messaging Annotations
-categories:
-- Note
-tags:
-- spring-cloud
-- stream
-- messaging
-- annotation
+categories: Note
+tags: spring-cloud,stream,messaging,annotation
 ---
 ---
 

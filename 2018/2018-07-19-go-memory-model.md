@@ -3,11 +3,8 @@ author: 望哥
 comments: true
 date: 2018-07-19
 title: Go内存模型
-categories:
-- 翻译
-tags:
-- Golang
-- goroutine
+categories: 翻译
+tags: Golang,goroutine
 
 ---
 

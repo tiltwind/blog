@@ -1,12 +1,9 @@
 ---
 title: 解读golang gctrace 信息
 date: 2018-09-11 10:53:43
-tags:
-- golang
-- gc
+tags: golang,gc
 
-categories:
-- language
+categories: language
 
 author: 望哥
 comments: true

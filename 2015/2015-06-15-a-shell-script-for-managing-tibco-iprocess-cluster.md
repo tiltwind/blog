@@ -6,13 +6,8 @@ layout: post
 slug: a-shell-script-for-managing-tibco-iprocess-cluster
 title: A Shell Script for managing Tibco iProcess Cluster
 wordpress_id: 862
-categories:
-- Experience
-tags:
-- cluster
-- iProcess
-- shell
-- Tibco
+categories: Experience
+tags: cluster,iProcess,shell,Tibco
 ---
 
 

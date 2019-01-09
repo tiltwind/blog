@@ -7,12 +7,8 @@ layout: post
 slug: jboss-commands
 title: Jboss应用管理命令
 wordpress_id: 769
-categories:
-- Experience
-tags:
-- cli
-- deploy
-- jboss
+categories: Experience
+tags: cli,deploy,jboss
 ---
 
 **1. 获得命令帮助**

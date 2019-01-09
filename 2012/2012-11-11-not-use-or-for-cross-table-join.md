@@ -9,12 +9,8 @@ layout: post
 slug: not-use-or-for-cross-table-join
 title: 提升查询性能——勿使用跨表OR条件
 wordpress_id: 343
-categories:
-- Experience
-tags:
-- explain-plan
-- oracle
-- performance
+categories: Experience
+tags: explain-plan,oracle,performance
 ---
 
 有两个表，tparent（父表），tchild（子女表），可以用下面的#1脚本创建，taparent的主键是。现在要查询tparent和tchild中uname=’sky’ 的信息，同时查出父表和子女表的资料，查询语句如#2. 当资料量比较小的时候查询速度很快。执行脚本#3，插入大量测试数据，tparent数据量在500万以上，tchlid数据在1000万以上。#4再执行dbms_stats.gather_table_stats收集表统计信息以改善执行计划。这时候再执行#2查询，查询所需时间大大增加。

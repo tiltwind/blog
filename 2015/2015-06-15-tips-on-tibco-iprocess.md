@@ -6,13 +6,8 @@ layout: post
 slug: tips-on-tibco-iprocess
 title: Tips on TIBCO iProcess
 wordpress_id: 841
-categories:
-- Experience
-tags:
-- iProcess
-- Tibco
-- tips
-- webservice
+categories: Experience
+tags: iProcess,Tibco,tips,webservice
 ---
 
 From: http://it.toolbox.com/blogs/steel/tips-on-tibco-iprocess-34932

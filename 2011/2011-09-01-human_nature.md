@@ -6,8 +6,7 @@ layout: post
 slug: human_nature
 title: 人的性格
 wordpress_id: 151
-categories:
-- Inspiration
+categories: Inspiration
 ---
 
 性格是人在一段时间内在行为、言谈上表现出的心理状况。

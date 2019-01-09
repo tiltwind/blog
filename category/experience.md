@@ -34,6 +34,7 @@
 * [基于注解的权限验证方案](/2014/2014-11-30-annotation-auth),2014-11-30 06
 * [websphere 8.5启动wsadmin.sh失败问题解决过程](/2014/2014-10-16-websphere-8-5-wsadmin-sh-problem),2014-10-16 16
 * [httpd2.4和2.2在访问控制配置的差异](/2014/2014-10-05-diff-of-http24-and-22),2014-10-05 14
+* [使用管道符组建功能强大的指令](/2014/2014-09-24-using-pipe-operator-to-impl-powful-commands),2014-09-24 15
 * [记一次ClassNotFound的问题](/2014/2014-07-20-classnotfound-problem),2014-07-20 02
 * [spring io platform 依赖版本管理](/2014/2014-06-27-spring-io-platform-dependencies),2014-06-27 02
 * [oracle create data and temporary tablespace for new user ](/2014/2014-03-25-oracle-create-data-and-temporary-tablespace-for-new-user),2014-03-25 01
@@ -90,6 +91,7 @@
 * [iCalendar乱码问题](/2011/2011-07-01-icalendar_mass_code),2011-07-01 07
 * [Email subject format](/2011/2011-06-17-email-subject-format),2011-06-17 06
 * [Autostart Program under Linux](/2011/2011-06-08-autostart-program-under-linux),2011-06-08 04
+* [swift 电文格式校验框架](/2011/2011-04-16-swift_format_check_framework),2011-04-16 06
 * [网页质量评估办法](/2011/2011-03-29-how_to_judge_a_good_web_page),2011-03-29 14
 * [C调用Java的例子](/2011/2011-02-16-c_invoke_java),2011-02-16 02
 * [WSDL转HTML工具](/2011/2011-01-12-wsdl2htmltool),2011-01-12 09

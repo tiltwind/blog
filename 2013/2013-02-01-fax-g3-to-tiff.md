@@ -7,13 +7,8 @@ layout: post
 slug: fax-g3-to-tiff
 title: 传真G3文件转为TIFF
 wordpress_id: 399
-categories:
-- Experience
-tags:
-- fax
-- gunwin32
-- libtiff
-- tiff
+categories: Experience
+tags: fax,gunwin32,libtiff,tiff
 ---
 
 需要传真G3文件转为TIFF的功能，在网络上没有找到JAVA的解决方案，但是可以用[libtiff](http://libtiff.org/tools.html)工具替代。针对windows环境，可以使用GnuWin32的libtiff和jpeg两个项目提供的工具。

@@ -3,10 +3,8 @@ author: 望哥
 comments: true
 date: 2018-07-29
 title: 飞锅侠OST敏捷线下活动回顾
-categories:
-- 敏捷
-tags:
-- OST
+categories: 敏捷
+tags: OST
 
 ---
 

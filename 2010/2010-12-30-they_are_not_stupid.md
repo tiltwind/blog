@@ -6,8 +6,7 @@ layout: post
 slug: they_are_not_stupid
 title: 他们不是傻子
 wordpress_id: 51
-categories:
-- Inspiration
+categories: Inspiration
 ---
 
 你不要再骗他们了，不要把他们当做傻子！

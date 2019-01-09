@@ -6,12 +6,8 @@ layout: post
 slug: isblankisempty-of-apache-stringutils
 title: isBlank&isEmpty of Apache StringUtils
 wordpress_id: 165
-categories:
-- Experience
-tags:
-- apache
-- java
-- string
+categories: Experience
+tags: apache,java,string
 ---
 
 StringUtils.isBlank(null); => true

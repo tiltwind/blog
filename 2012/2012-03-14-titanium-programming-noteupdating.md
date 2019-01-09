@@ -6,12 +6,8 @@ layout: post
 slug: titanium-programming-noteupdating
 title: '[updating] Titanium Programming Note'
 wordpress_id: 235
-categories:
-- Experience
-tags:
-- ipad
-- Mobile
-- Titanium
+categories: Experience
+tags: ipad,Mobile,Titanium
 ---
 
 ### Page Architecture

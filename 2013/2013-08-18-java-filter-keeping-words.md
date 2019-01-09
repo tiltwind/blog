@@ -7,11 +7,8 @@ layout: post
 slug: java-filter-keeping-words
 title: Java过滤保留字字符串处理
 wordpress_id: 482
-categories:
-- Experience
-tags:
-- algorithm
-- java
+categories: Experience
+tags: algorithm,java
 ---
 
 **1. 先定义一个保留字类：**

@@ -7,11 +7,8 @@ layout: post
 slug: oracle-rowid
 title: Oracle ROWID Introduction
 wordpress_id: 463
-categories:
-- Experience
-tags:
-- oracle
-- rowid
+categories: Experience
+tags: oracle,rowid
 ---
 
 ###**1. ROWID Inroduction**

@@ -7,12 +7,8 @@ layout: post
 slug: spring-configuration
 title: Spring项目参数配置方案
 wordpress_id: 798
-categories:
-- Experience
-tags:
-- configuration
-- Environment
-- spring
+categories: Experience
+tags: configuration,Environment,spring
 ---
 
 了解了[spring框架PropertySource、PropertyResolver、Environment的设计架构](http://sisopipo.com/blog/archives/788),如果将Environment引入到项目参数配置方案中，将带来极大的方便。仅需通过@Inject将其注入Environment实例即可获得相关配置属性。

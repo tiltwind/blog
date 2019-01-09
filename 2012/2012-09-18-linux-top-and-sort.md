@@ -7,11 +7,8 @@ layout: post
 slug: linux-top-and-sort
 title: Linux Top命令 选择显示列及列排序
 wordpress_id: 323
-categories:
-- Experience
-tags:
-- linux
-- top
+categories: Experience
+tags: linux,top
 ---
 
 Top用于查看Linux系统下进程信息，有时候需要选择显示那些列，以及按照某一列进行排序。查询整理如下：

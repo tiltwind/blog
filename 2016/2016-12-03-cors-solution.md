@@ -4,12 +4,8 @@ author: gelnyang
 comments: true
 date: 2016-12-03
 title: 如何实现跨域访问
-categories:
-- 经验
-tags:
-- 开发
-- 经验
-- CORS
+categories: 经验
+tags: 开发,经验,CORS
 ---
 ---
 

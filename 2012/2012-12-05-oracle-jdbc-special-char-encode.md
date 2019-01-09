@@ -7,12 +7,8 @@ layout: post
 slug: oracle-jdbc-special-char-encode
 title: Oracle数据库JDBC难字编码问题
 wordpress_id: 372
-categories:
-- Experience
-tags:
-- characterset
-- encode
-- oracle7
+categories: Experience
+tags: characterset,encode,oracle7
 ---
 
 客户的数据库是Oracle7，Oracle7的JDBC只有基于java1.0开发的，所以改用支持java1.4的Oracle9的JDBC(ojdbc14.jar).

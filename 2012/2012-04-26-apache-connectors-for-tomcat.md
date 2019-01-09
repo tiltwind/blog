@@ -8,14 +8,8 @@ layout: post
 slug: apache-connectors-for-tomcat
 title: Apache Connectors for Tomcat FAQ
 wordpress_id: 253
-categories:
-- Experience
-tags:
-- AJP
-- apache
-- mod_jk
-- mod_proxy
-- Tomcat
+categories: Experience
+tags: AJP,apache,mod_jk,mod_proxy,Tomcat
 ---
 
 ## 概览

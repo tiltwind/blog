@@ -6,12 +6,8 @@ layout: post
 slug: restart-dead-eai-steps-of-tibco-iprocess-sql-server
 title: Restart dead EAI steps of Tibco iProcess (SQL Server)
 wordpress_id: 275
-categories:
-- Experience
-tags:
-- EAI
-- iProcess
-- Tibco
+categories: Experience
+tags: EAI,iProcess,Tibco
 ---
 
 * * *

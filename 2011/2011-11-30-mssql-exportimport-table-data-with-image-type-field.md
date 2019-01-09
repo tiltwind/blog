@@ -7,12 +7,8 @@ layout: post
 slug: mssql-exportimport-table-data-with-image-type-field
 title: MSSQL Export/Import Table Data with image type field
 wordpress_id: 172
-categories:
-- Experience
-tags:
-- Export
-- Import
-- MSSQL
+categories: Experience
+tags: Export,Import,MSSQL
 ---
 
 1. export table data to file:

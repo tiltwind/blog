@@ -6,11 +6,8 @@ layout: post
 slug: replace-light
 title: 换灯记
 wordpress_id: 620
-categories:
-- Inspiration
-tags:
-- 换灯
-- 生活
+categories: Inspiration
+tags: 换灯,生活
 ---
 
 租房的地方比较旧的安置房小区，房东安装的电灯都是挂丝的，之前已经换过多次节能灯，用不了多久就烧了！这次两个房间都烧了，去五金店买已经买不到挂丝的节能灯了，老板说现在都不用挂丝了，挂丝太危险，金属暴露在外，用摧丝的都包在塑料壳内，更安全！好吧！于是我买了两个节能灯和两个节能灯头！

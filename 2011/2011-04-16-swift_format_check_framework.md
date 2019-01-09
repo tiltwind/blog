@@ -6,9 +6,7 @@ layout: post
 slug: swift_format_check_framework
 title: swift 电文格式校验框架
 wordpress_id: 97
-categories:
-- Knowledge
-- Experience
+categories: Knowledge,Experience
 ---
 
 swift 电文格式校验框架

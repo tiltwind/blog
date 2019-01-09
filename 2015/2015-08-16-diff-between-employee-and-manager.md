@@ -7,8 +7,7 @@ layout: post
 slug: diff-between-employee-and-manager
 title: 普通员工和管理者之间的差别
 wordpress_id: 877
-categories:
-- Management
+categories: Management
 ---
 
 我一直在思考普通员工和管理者之间到底有啥差别，下面按照我个人的愚见整理，欢迎指点，不吝赐教！

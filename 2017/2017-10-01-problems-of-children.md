@@ -4,10 +4,8 @@ author: gelnyang
 comments: true
 date: 2017-10-01
 title: 小孩存在的问题
-categories:
-- education
-tags:
-- education
+categories: education
+tags: education
 ---
 ---
 

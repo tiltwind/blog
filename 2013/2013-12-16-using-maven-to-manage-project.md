@@ -7,12 +7,8 @@ layout: default
 slug: using-maven-to-manage-project
 title: 使用Maven管理项目开发
 wordpress_id: 542
-categories:
-- Knowledge
-tags:
-- apache
-- dependency
-- maven
+categories: Knowledge
+tags: apache,dependency,maven
 ---
 
 ##**目录**

@@ -6,12 +6,8 @@ layout: post
 slug: single-tibco-iprocess-node-installation-steps
 title: Single Tibco iProcess Node Installation Steps
 wordpress_id: 843
-categories:
-- Experience
-tags:
-- installation
-- iProcess
-- Tibco
+categories: Experience
+tags: installation,iProcess,Tibco
 ---
 
 ================

@@ -6,17 +6,8 @@ layout: post
 slug: git-remote-commands
 title: Git远程操作详解
 wordpress_id: 706
-categories:
-- Knowledge
-- Collection
-tags:
-- clone
-- fetch
-- git
-- pull
-- push
-- remote
-- VCS
+categories: Knowledge,Collection
+tags: clone,fetch,git,pull,push,remote,VCS
 ---
 
 文章来源：http://www.ruanyifeng.com/blog/2014/06/git_remote.html

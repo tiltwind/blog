@@ -3,12 +3,8 @@ author: 望哥
 comments: true
 date: 2018-07-07
 title: aws sqs lambda 范例
-categories:
-- 经验
-tags:
-- AWS
-- SQS
-- Lambda
+categories: 经验
+tags: AWS,SQS,Lambda
 
 ---
 

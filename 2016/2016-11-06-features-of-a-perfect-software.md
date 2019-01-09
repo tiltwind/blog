@@ -4,11 +4,8 @@ author: gelnyang
 comments: true
 date: 2016-11-06
 title: 一个完善的软件系统的特点
-categories:
-- 经验
-tags:
-- software
-- feature
+categories: 经验
+tags: software,feature
 ---
 ---
 

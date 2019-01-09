@@ -6,13 +6,8 @@ layout: post
 slug: learning-c-programming-makefile-learning-materials
 title: Makefile Learning Materials
 wordpress_id: 195
-categories:
-- Experience
-tags:
-- automake
-- C
-- gnu
-- Makefile
+categories: Experience
+tags: automake,C,gnu,Makefile
 ---
 
 1. A Simple Makefile Tutorial：[http://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/](http://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)

@@ -3,11 +3,8 @@ author: 望哥
 comments: true
 date: 2018-06-03
 title: 蔡格尼克效应
-categories:
-- 认知
-tags:
-- 心理学
-- 效应
+categories: 认知
+tags: 心理学,效应
 
 ---
 

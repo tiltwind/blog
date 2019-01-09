@@ -7,13 +7,8 @@ layout: post
 slug: proxying-tomcat-with-apache-http-server
 title: Proxying Tomcat with Apache HTTP Server
 wordpress_id: 247
-categories:
-- Experience
-tags:
-- AJP
-- apache
-- Proxy
-- Tomcat
+categories: Experience
+tags: AJP,apache,Proxy,Tomcat
 ---
 
 Document about proxying Tomcat with Apache HTTP Server:

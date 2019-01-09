@@ -7,15 +7,10 @@ layout: post
 slug: using-pipe-operator-to-impl-powful-commands
 title: 使用管道符组建功能强大的指令
 wordpress_id: 715
-categories:
-- Knowledge
-- Experience
+categories: Knowledge,Experience
 post_format:
 - 日志
-tags:
-- linux
-- shell
-- 管道符
+tags: linux,shell,管道符
 ---
 
 

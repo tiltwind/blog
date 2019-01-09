@@ -7,13 +7,8 @@ layout: post
 slug: unicode-to-utf8
 title: 將包含Unicode(\uXXXX)編碼格式的國際化文件轉爲UTF8編碼
 wordpress_id: 524
-categories:
-- Experience
-tags:
-- i18n
-- native2ascii
-- unicode
-- utf8
+categories: Experience
+tags: i18n,native2ascii,unicode,utf8
 ---
 
 Java JDK中提供了一個很實用的工具native2ascii可以實現此操作：

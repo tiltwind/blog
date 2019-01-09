@@ -4,14 +4,8 @@ author: gelnyang
 comments: true
 date: 2017-03-01
 title: Netflix feign exception logging
-categories:
-- experience
-tags:
-- spring-cloud
-- netflix
-- feign
-- hystrix
-- exception
+categories: experience
+tags: spring-cloud,netflix,feign,hystrix,exception
 ---
 ---
 

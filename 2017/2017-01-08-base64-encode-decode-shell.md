@@ -4,12 +4,8 @@ author: gelnyang
 comments: true
 date: 2017-01-08
 title: Base64 encode decode shell script
-categories:
-- 经验
-tags:
-- base64
-- encode
-- shell
+categories: 经验
+tags: base64,encode,shell
 ---
 ---
 

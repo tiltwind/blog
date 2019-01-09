@@ -6,13 +6,8 @@ layout: post
 slug: icalendar_mass_code
 title: iCalendar乱码问题
 wordpress_id: 126
-categories:
-- Experience
-tags:
-- encode
-- icalendar
-- mail
-- rfc5545
+categories: Experience
+tags: encode,icalendar,mail,rfc5545
 ---
 
 可能的问题：

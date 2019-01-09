@@ -7,12 +7,8 @@ layout: post
 slug: javadoc-spring-bean
 title: Javadoc翻译——Spring注解@Bean
 wordpress_id: 818
-categories:
-- Knowledge
-tags:
-- annotation
-- bean
-- spring
+categories: Knowledge
+tags: annotation,bean,spring
 ---
 
 

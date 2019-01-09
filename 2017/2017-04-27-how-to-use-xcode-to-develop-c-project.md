@@ -4,12 +4,8 @@ author: gelnyang
 comments: true
 date: 2017-04-27
 title: how to use xcode to develop c project
-categories:
-- experience
-tags:
-- xcode
-- c
-- ide
+categories: experience
+tags: xcode,c,ide
 ---
 ---
 

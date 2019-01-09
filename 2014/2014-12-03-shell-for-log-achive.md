@@ -7,12 +7,8 @@ layout: post
 slug: shell-for-log-achive
 title: 日志归档bash脚本
 wordpress_id: 764
-categories:
-- Experience
-tags:
-- archive
-- log
-- shell
+categories: Experience
+tags: archive,log,shell
 ---
 
 

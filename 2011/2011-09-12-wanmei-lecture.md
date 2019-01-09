@@ -6,14 +6,8 @@ layout: post
 slug: wanmei-lecture
 title: 听完美的完美人生课
 wordpress_id: 154
-categories:
-- Inspiration
-tags:
-- 人生
-- 创业
-- 完美
-- 洗脑
-- 观念
+categories: Inspiration
+tags: 人生,创业,完美,洗脑,观念
 ---
 
 很久没有写文章了，这是一个不好的状态，需要调整一下。

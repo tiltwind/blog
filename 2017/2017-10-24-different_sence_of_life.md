@@ -4,10 +4,8 @@ author: gelnyang
 comments: true
 date: 2017-10-24
 title: 打倒重新审视人生
-categories:
-- inspiration
-tags:
-- inspiration
+categories: inspiration
+tags: inspiration
 ---
 ---
 

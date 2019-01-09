@@ -7,14 +7,8 @@ layout: post
 slug: deprecate-web-xml
 title: 注解时代——遗弃web.xml
 wordpress_id: 749
-categories:
-- Inspiration
-tags:
-- annotation
-- java
-- servlet
-- spring
-- web.xml
+categories: Inspiration
+tags: annotation,java,servlet,spring,web.xml
 ---
 
 **注解Annotation的时代，xml终要被人遗弃。**

@@ -7,13 +7,8 @@ layout: post
 slug: javadoc-spring-configuration
 title: Javadoc翻译——Spring @Configuration注解
 wordpress_id: 809
-categories:
-- Knowledge
-tags:
-- annotatioin
-- configuration
-- javadoc
-- spring
+categories: Knowledge
+tags: annotatioin,configuration,javadoc,spring
 ---
 
 org.springframework.context.annotation.Configuration

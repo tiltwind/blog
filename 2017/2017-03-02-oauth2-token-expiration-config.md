@@ -4,11 +4,8 @@ author: gelnyang
 comments: true
 date: 2017-03-02
 title: Oauth2 token expiration config
-categories:
-- experience
-tags:
-- oauth2
-- expiration
+categories: experience
+tags: oauth2,expiration
 ---
 ---
 

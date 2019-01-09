@@ -7,12 +7,8 @@ layout: post
 slug: oracle-md5-encode
 title: Oracle MD5 Encode
 wordpress_id: 386
-categories:
-- Experience
-tags:
-- encode
-- MD5
-- oracle
+categories: Experience
+tags: encode,MD5,oracle
 ---
 
 

@@ -7,11 +7,8 @@ layout: post
 slug: marathon-regist-probleam
 title: 厦门国际马拉松网上报名遇到的问题
 wordpress_id: 337
-categories:
-- Experience
-tags:
-- Javascript
-- marathon
+categories: Experience
+tags: Javascript,marathon
 ---
 
 准备网上报名参加2013年厦门国际马拉松，但是填完表格 http://www.xmim.org/cn/register_form.asp ，准备提交的时候，却出现错误“无返回数据”。

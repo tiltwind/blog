@@ -7,12 +7,8 @@ layout: post
 slug: default-encoding-of-aix-system
 title: 'Default Encoding of AIX System '
 wordpress_id: 178
-categories:
-- Experience
-tags:
-- AIX
-- Linux
-- Encoding
+categories: Experience
+tags: AIX,Linux,Encoding
 ---
 
 ## Extended Encoding Set (contained in lib/charsets.jar)

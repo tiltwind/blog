@@ -7,12 +7,8 @@ layout: post
 slug: websphere-8-5-wsadmin-sh-problem
 title: websphere 8.5启动wsadmin.sh失败问题解决过程
 wordpress_id: 738
-categories:
-- Experience
-tags:
-- IBM
-- websphere
-- wsadmin
+categories: Experience
+tags: IBM,websphere,wsadmin
 ---
 
 第一次尝试启动 wsadmin.sh 失败，console提示错误:

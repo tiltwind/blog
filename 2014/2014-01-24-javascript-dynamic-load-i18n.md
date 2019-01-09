@@ -7,12 +7,8 @@ layout: post
 slug: javascript-dynamic-load-i18n
 title: Javascript动态加载国际化内容
 wordpress_id: 586
-categories:
-- Experience
-tags:
-- i18n
-- international
-- Javascript
+categories: Experience
+tags: i18n,international,Javascript
 ---
 
 定义一个javascirpt方法，传入需要加载国际化消息key键数组，获得这些消息加载到页面中。

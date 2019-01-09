@@ -1,10 +1,8 @@
 ---
 layout: post
 title: 什么原因导致需求频繁的变更?
-categories:
-- 管理
-tags:
-- 需求
+categories: 管理
+tags: 需求
 ---
 ---
 # 

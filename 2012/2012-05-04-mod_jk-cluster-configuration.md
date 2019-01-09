@@ -7,14 +7,8 @@ layout: post
 slug: mod_jk-cluster-configuration
 title: mod_jk cluster configuration
 wordpress_id: 263
-categories:
-- Experience
-tags:
-- AJP
-- apache
-- cluster
-- mod_jk
-- Tomcat
+categories: Experience
+tags: AJP,apache,cluster,mod_jk,Tomcat
 ---
 
 ## Config Steps:

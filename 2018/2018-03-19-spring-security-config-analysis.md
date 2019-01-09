@@ -3,11 +3,8 @@ author: 望哥
 comments: true
 date: 2018-03-19
 title: Spring Security 认证配置错误分析
-categories:
-- spring
-tags:
-- spring-security
-- spring
+categories: spring
+tags: spring-security,spring
 
 ---
 

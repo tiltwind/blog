@@ -4,10 +4,8 @@ author: gelnyang
 comments: true
 date: 2016-11-05
 title: 软件开发中曾经遇到的那些坑
-categories:
-- 经验
-tags:
-- development
+categories: 经验
+tags: development
 ---
 ---
 

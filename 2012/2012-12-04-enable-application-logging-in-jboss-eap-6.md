@@ -7,14 +7,8 @@ layout: post
 slug: enable-application-logging-in-jboss-eap-6
 title: Enable Application Logging in Jboss EAP 6
 wordpress_id: 368
-categories:
-- Experience
-tags:
-- jboss
-- JCL
-- log4j
-- logging
-- SLF4J
+categories: Experience
+tags: jboss,JCL,log4j,logging,SLF4J
 ---
 
 1. Create common-logging.properties with the following content and put it under class path:

@@ -7,9 +7,7 @@ layout: post
 slug: sisopipoupdate
 title: SisoPipo Update
 wordpress_id: 8
-categories:
-- Inspiration
-- Knowledge
+categories: Inspiration,Knowledge
 ---
 
 2010/11/15:

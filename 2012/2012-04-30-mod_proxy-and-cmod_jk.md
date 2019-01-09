@@ -7,14 +7,8 @@ layout: post
 slug: mod_proxy-and-cmod_jk
 title: mod_proxy和mod_jk比较
 wordpress_id: 258
-categories:
-- Knowledge
-tags:
-- AJP
-- apache
-- balance
-- mod_jk
-- mod_proxy
+categories: Knowledge
+tags: AJP,apache,balance,mod_jk,mod_proxy
 ---
 
 #### Comparing mod_proxy and mod_jk

@@ -7,12 +7,8 @@ layout: post
 slug: oracle-partition-common-usage
 title: Oracle Partition Common Usage
 wordpress_id: 501
-categories:
-- Experience
-tags:
-- oracle
-- partition
-- sql
+categories: Experience
+tags: oracle,partition,sql
 ---
 
 

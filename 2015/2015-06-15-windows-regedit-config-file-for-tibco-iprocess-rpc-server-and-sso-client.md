@@ -6,12 +6,8 @@ layout: post
 slug: windows-regedit-config-file-for-tibco-iprocess-rpc-server-and-sso-client
 title: Windows regedit config file for Tibco iProcess RPC Server and SSO Client
 wordpress_id: 846
-categories:
-- Experience
-tags:
-- iProcess
-- regedit
-- Tibco
+categories: Experience
+tags: iProcess,regedit,Tibco
 ---
 
 

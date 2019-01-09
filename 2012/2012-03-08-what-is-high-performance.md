@@ -6,11 +6,8 @@ layout: post
 slug: what-is-high-performance
 title: 高性能系统思考－－何为高性能
 wordpress_id: 228
-categories:
-- Inspiration
-tags:
-- high-performance
-- 高性能
+categories: Inspiration
+tags: high-performance,高性能
 ---
 
 

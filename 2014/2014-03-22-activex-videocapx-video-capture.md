@@ -7,13 +7,8 @@ layout: post
 slug: activex-videocapx-video-capture
 title: 抓图录像ActiveX控件VideoCapx
 wordpress_id: 593
-categories:
-- Experience
-tags:
-- activex
-- capture
-- video
-- videocabx
+categories: Experience
+tags: activex,capture,video,videocabx
 ---
 
 一个可以抓图和录像的ActiveX控件，详情如下：

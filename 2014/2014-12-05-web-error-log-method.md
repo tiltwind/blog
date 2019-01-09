@@ -7,12 +7,8 @@ layout: post
 slug: web-error-log-method
 title: Web应用异常日志记录优化方案
 wordpress_id: 784
-categories:
-- Experience
-tags:
-- java
-- log
-- web
+categories: Experience
+tags: java,log,web
 ---
 
 Java Web应用常用的日志管理框架如log4j,logback等,一般生产环境不会设置为DEBUG模式，这样会导致日志量大增，影响系统性能，也影响正常日志的分析。正常设置为INFO级别，警告(WARN)或异常(ERROR)的日志也会输出，发生异常时，需要查看发生异常前后上下文的相关日志进行分析，比如分析一个HTTP请求异常，需要分析请求参数、发生异常前后的逻辑处理日志，但日志中记录了所有请求的日志信息，如果同一时间有多个请求，只能根据请求线程ID在日志文件中上下查找，很是麻烦！

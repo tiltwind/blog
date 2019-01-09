@@ -7,12 +7,8 @@ layout: post
 slug: oraclerebuilding-all-unusable-indexes
 title: Oracle:Rebuild all unusable indexes
 wordpress_id: 493
-categories:
-- Experience
-tags:
-- index
-- oracle
-- sql
+categories: Experience
+tags: index,oracle,sql
 ---
 
 1. unusable a index:

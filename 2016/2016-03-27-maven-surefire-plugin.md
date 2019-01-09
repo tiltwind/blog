@@ -3,13 +3,8 @@ author: gelnyang
 comments: true
 layout: post
 title: Maven Surefire Plugin
-categories:
-- Knowledge
-- Collection
-tags:
-- maven
-- surefire
-- test
+categories: Knowledge,Collection
+tags: maven,surefire,test
 ---
 #Introduction
 -----------------------------

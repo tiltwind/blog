@@ -7,10 +7,8 @@ layout: post
 slug: web-client-cache-problem
 title: 解決WEB应用客户端缓存问题
 wordpress_id: 330
-categories:
-- Experience
-tags:
-- cache
+categories: Experience
+tags: cache
 ---
 
 WEB客户端缓存对某些内容不常更新的网站来说是个好事，但对实时性要求高的WEB应用则显得不友好了，这个时候就要去掉客户端缓存。

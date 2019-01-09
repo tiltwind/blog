@@ -6,11 +6,8 @@ layout: post
 slug: attitude-for-difficuty
 title: 面对困难的态度
 wordpress_id: 875
-categories:
-- Inspiration
-tags:
-- 困难
-- 态度
+categories: Inspiration
+tags: 困难,态度
 ---
 
 

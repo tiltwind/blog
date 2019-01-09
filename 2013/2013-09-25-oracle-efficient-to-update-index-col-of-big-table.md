@@ -7,12 +7,8 @@ layout: post
 slug: oracle-efficient-to-update-index-col-of-big-table
 title: Oracle大批量高效地更新大数据表索引字段
 wordpress_id: 512
-categories:
-- Experience
-tags:
-- index
-- oracle
-- sql
+categories: Experience
+tags: index,oracle,sql
 ---
 
 更新索引字段会触发索引重建，如果是要大批量修改大数据表的索引字段，速度会很慢，时间大多花在重建索引上了。

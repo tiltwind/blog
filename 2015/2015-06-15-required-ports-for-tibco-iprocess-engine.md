@@ -6,12 +6,8 @@ layout: post
 slug: required-ports-for-tibco-iprocess-engine
 title: Required Ports for Tibco iProcess Engine
 wordpress_id: 859
-categories:
-- Experience
-tags:
-- iProcess
-- port
-- Tibco
+categories: Experience
+tags: iProcess,port,Tibco
 ---
 
 111(RPC for Worckspace)

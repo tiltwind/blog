@@ -6,8 +6,7 @@ layout: post
 slug: how_to_judge_a_good_web_page
 title: 网页质量评估办法
 wordpress_id: 93
-categories:
-- Experience
+categories: Experience
 ---
 
 最近玩玩lucene搜索引擎，索引整改网页的内容，搜索出来的网页质量很差，想了想索引的时候只提取重要内容进行索引，搜索质量应该就会提高很多。还有一些速度比较慢的网页干脆就不索引了。于是想到了要如何评价一个网页质量。暂且想到以下内容，先记下来。

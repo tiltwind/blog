@@ -6,12 +6,8 @@ layout: post
 slug: email-subject-format
 title: Email subject format
 wordpress_id: 120
-categories:
-- Experience
-tags:
-- encode
-- format
-- mail
+categories: Experience
+tags: encode,format,mail
 ---
 
 Email的标题源码格式是：

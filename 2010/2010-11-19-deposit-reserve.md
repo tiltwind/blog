@@ -6,8 +6,7 @@ layout: post
 slug: deposit-reserve
 title: 存款准备金
 wordpress_id: 12
-categories:
-- Knowledge
+categories: Knowledge
 ---
 
 **存款准备金(Deposit Reserve)**

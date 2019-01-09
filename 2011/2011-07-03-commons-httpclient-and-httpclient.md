@@ -6,14 +6,8 @@ layout: post
 slug: commons-httpclient-and-httpclient
 title: commons-httpclient 和 httpclient的不同之处
 wordpress_id: 133
-categories:
-- Experience
-tags:
-- apache
-- commons
-- http
-- httpclient
-- java
+categories: Experience
+tags: apache,commons,http,httpclient,java
 ---
 
 commons-httpclient是apache的老项目，最后版本是3.1，不再建议使用。

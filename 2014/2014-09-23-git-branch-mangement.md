@@ -6,14 +6,8 @@ layout: post
 slug: git-branch-mangement
 title: Git分支管理策略
 wordpress_id: 702
-categories:
-- Knowledge
-- Collection
-tags:
-- branch
-- git
-- merge
-- VCS
+categories: Knowledge,Collection
+tags: branch,git,merge,VCS
 ---
 
 文章来源：http://www.ruanyifeng.com/blog/2012/07/git.html

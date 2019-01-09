@@ -6,13 +6,8 @@ layout: post
 slug: replace-char-with-ufffd-when-decode-failed
 title: Replace special BIG5 character
 wordpress_id: 148
-categories:
-- Experience
-tags:
-- Java
-- JDK
-- BIG5
-- decode
+categories: Experience
+tags: Java,JDK,BIG5,decode
 
 ---
 

@@ -7,11 +7,8 @@ layout: post
 slug: keep-a-simple-dream-and-follow-it-with-no-doubt
 title: Keep a simple dream and follow it with no doubt.
 wordpress_id: 631
-categories:
-- Inspiration
-tags:
-- 激励
-- 生活
+categories: Inspiration
+tags: 激励,生活
 ---
 
 岁月如梭，人事易变！生活总会遇到无法预知的问题，面对不同的压力！结婚生子、买房还贷、工作升职等等，每个人都会经历！再多的困难都无法阻挡，披荆斩棘，努力前行，追寻明天光明的太阳！

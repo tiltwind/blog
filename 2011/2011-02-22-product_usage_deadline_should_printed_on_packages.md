@@ -7,8 +7,7 @@ layout: post
 slug: product_usage_deadline_should_printed_on_packages
 title: 产品过期日期应该打印在内包装盒上
 wordpress_id: 72
-categories:
-- Inspiration
+categories: Inspiration
 ---
 
 把产品的生产日期和过期日期打印在产品外包装盒上的做法太不人性化了，"生产日期见外包装盒"的做法是对用户权益极大的不尊重！

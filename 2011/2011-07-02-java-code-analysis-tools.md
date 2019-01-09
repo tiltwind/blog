@@ -6,13 +6,8 @@ layout: post
 slug: java-code-analysis-tools
 title: Java code analysis tools
 wordpress_id: 130
-categories:
-- Experience
-tags:
-- analysis
-- java
-- source-code
-- tool
+categories: Experience
+tags: analysis,java,source-code,tool
 ---
 
 

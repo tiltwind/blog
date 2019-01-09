@@ -6,11 +6,8 @@ layout: post
 slug: idea-reader-for-english-learner
 title: IDEA:给英文学习者的阅读器
 wordpress_id: 198
-categories:
-- Inspiration
-tags:
-- idea
-- invocation
+categories: Inspiration
+tags: idea,invocation
 ---
 
 

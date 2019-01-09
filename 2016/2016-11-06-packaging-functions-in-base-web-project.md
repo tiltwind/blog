@@ -4,11 +4,8 @@ author: gelnyang
 comments: true
 date: 2016-11-06
 title: 基础web项目封装的功能
-categories:
-- 经验
-tags:
-- Web
-- API
+categories: 经验
+tags: Web,API
 ---
 ---
 

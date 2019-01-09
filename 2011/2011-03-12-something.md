@@ -6,8 +6,7 @@ layout: post
 slug: something
 title: 周末的一些事儿
 wordpress_id: 77
-categories:
-- Inspiration
+categories: Inspiration
 ---
 
 今天参加完党支部组织活动回来，主要是传达一下先进党支部建设和先进个人党员发展的问题。其间有聊到一些事情：

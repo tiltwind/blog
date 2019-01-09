@@ -7,13 +7,8 @@ layout: post
 slug: oracle-expdpimpdp-command-sample
 title: Oracle expdp/impdp command sample
 wordpress_id: 499
-categories:
-- Experience
-tags:
-- expdp
-- impdp
-- oracle
-- sql
+categories: Experience
+tags: expdp,impdp,oracle,sql
 ---
 
 **Command Sample**

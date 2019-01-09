@@ -3,11 +3,8 @@ author: 望哥
 comments: true
 date: 2018-04-01
 title: 品牌价值也是公司的核心资产
-categories:
-- thought
-tags:
-- management
-- company
+categories: thought
+tags: management,company
 
 ---
 

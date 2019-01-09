@@ -7,12 +7,8 @@ layout: post
 slug: c_invoke_java
 title: C调用Java的例子
 wordpress_id: 63
-categories:
-- Experience
-tags:
-- C
-- java
-- jni
+categories: Experience
+tags: C,java,jni
 ---
 
 How to run this example:

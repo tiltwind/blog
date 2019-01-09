@@ -2,12 +2,8 @@
 title: golang性能分析工具pprof介绍
 author: 望哥
 date: 2018-09-26 21:41:42
-tags:
-- golang
-- pprof
-- performance
-categories:
-- 工具
+tags: golang,pprof,performance
+categories: 工具
 ---
 
 

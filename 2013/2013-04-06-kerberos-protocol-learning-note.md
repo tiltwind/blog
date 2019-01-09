@@ -7,13 +7,8 @@ layout: post
 slug: kerberos-protocol-learning-note
 title: Kerberos Protocol Learning Note
 wordpress_id: 417
-categories:
-- Knowledge
-tags:
-- kerberos
-- protocol
-- security
-- sso
+categories: Knowledge
+tags: kerberos,protocol,security,sso
 ---
 
 **What's Kerberos Protocol?**

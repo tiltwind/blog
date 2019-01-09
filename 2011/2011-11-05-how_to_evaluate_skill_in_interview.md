@@ -6,14 +6,8 @@ layout: post
 slug: how_to_evaluate_skill_in_interview
 title: 面试技巧——如何更精确的评估技术能力
 wordpress_id: 163
-categories:
-- Inspiration
-tags:
-- Careers
-- GitHub
-- Stackoverflow
-- 招聘
-- 能力评估
+categories: Inspiration
+tags: Careers,GitHub,Stackoverflow,招聘,能力评估
 ---
 
 

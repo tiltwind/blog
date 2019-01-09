@@ -4,12 +4,8 @@ author: gelnyang
 comments: true
 date: 2017-04-27
 title: message push gateway based on nginx+lua+redis
-categories:
-- architecture
-tags:
-- nginx
-- lua
-- redis
+categories: architecture
+tags: nginx,lua,redis
 ---
 ---
 

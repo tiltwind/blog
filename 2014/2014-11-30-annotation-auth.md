@@ -6,14 +6,8 @@ layout: post
 slug: annotation-auth
 title: 基于注解的权限验证方案
 wordpress_id: 756
-categories:
-- Experience
-tags:
-- annotation
-- architecture
-- authentication
-- authorization
-- spring
+categories: Experience
+tags: annotation,architecture,authentication,authorization,spring
 ---
 
 基本实体设计：用户（user）、角色（Role）、功能（Function）。 一个用户可以有多个角色，一个角色可以有多个功能。

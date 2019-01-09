@@ -7,11 +7,8 @@ layout: post
 slug: experience-of-project-management
 title: 项目管理几点体会
 wordpress_id: 405
-categories:
-- Management
-tags:
-- 心得
-- Management
+categories: Management
+tags: 心得,Management
 ---
 
 今年主要逐渐完成向管理者方向的转型，管理能力也有所提高,在几个项目管理的技巧和理念上有些体会：

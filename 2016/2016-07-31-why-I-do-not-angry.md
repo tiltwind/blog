@@ -4,10 +4,8 @@ author: gelnyang
 comments: true
 date: 2016-07-31
 title: 为什么我不会生气?
-categories:
-- 感悟
-tags:
-- Emotion
+categories: 感悟
+tags: Emotion
 ---
 ---
 # 

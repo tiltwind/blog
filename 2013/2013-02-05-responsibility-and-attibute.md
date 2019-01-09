@@ -7,11 +7,8 @@ layout: post
 slug: responsibility-and-attibute
 title: 谈谈工作态度和责任心
 wordpress_id: 402
-categories:
-- Management
-tags:
-- 工作
-- Inspiration
+categories: Management
+tags: 工作,Inspiration
 ---
 
 几年工作经历，从程序员到管理层，从配合别人工作到让别人配合我工作，感触颇多，最想谈的还是工作态度和责任心。

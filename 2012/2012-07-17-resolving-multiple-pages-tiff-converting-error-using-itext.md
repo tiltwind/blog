@@ -7,12 +7,8 @@ layout: post
 slug: resolving-multiple-pages-tiff-converting-error-using-itext
 title: Resolving multiple-pages tiff converting error using iText
 wordpress_id: 303
-categories:
-- Experience
-tags:
-- iText
-- solution
-- tiff
+categories: Experience
+tags: iText,solution,tiff
 ---
 
 The solution in our project is using iText to convert tiff to PDF. It's running OK for single-page and multiple-pages tiff when testing. But the code doesn't work for customer's tiff files when UAT.

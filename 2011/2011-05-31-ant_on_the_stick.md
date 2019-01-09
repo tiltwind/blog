@@ -6,8 +6,7 @@ layout: post
 slug: ant_on_the_stick
 title: 棍子上的蚂蚁
 wordpress_id: 111
-categories:
-- Collection
+categories: Collection
 ---
 
 一根棍子上面有无数只蚂蚁，假设两只蚂蚁碰到之后就会180度调头反向前进，碰到，再调头，直到棍子的某一头，然后掉下来；然后再假设1只蚂蚁从棍子的这头到那头一共需要5分钟，那么问题是：需要多少时间，这根棍子上所有的蚂蚁会掉下来？

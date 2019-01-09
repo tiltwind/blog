@@ -4,10 +4,8 @@ author: gelnyang
 comments: true
 date: 2016-10-11
 title: 什么是艺术
-categories:
-- 感悟
-tags:
-- Art
+categories: 感悟
+tags: Art
 ---
 ---
 # 

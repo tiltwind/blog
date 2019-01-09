@@ -7,13 +7,8 @@ layout: post
 slug: spring-security-web-auth-plan
 title: 一种Spring Security Web认证实现方案
 wordpress_id: 595
-categories:
-- Experience
-tags:
-- architecture
-- authentication
-- security
-- spring
+categories: Experience
+tags: architecture,authentication,security,spring
 ---
 
 整理一种Spring Security Web认证实现方案，其核心组件及认证过程说明如下：

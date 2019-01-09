@@ -4,11 +4,8 @@ comments: true
 layout: post
 date: 2016-03-28
 title: 一个优秀领导的特质
-categories:
-- 感悟
-tags:
-- 管理
-- 成长
+categories: 感悟
+tags: 管理,成长
 ---
 今天Kiera给我上了一课：
 

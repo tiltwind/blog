@@ -7,11 +7,8 @@ layout: post
 slug: autostart-program-under-linux
 title: Autostart Program under Linux
 wordpress_id: 116
-categories:
-- Experience
-tags:
-- autostart
-- linux
+categories: Experience
+tags: autostart,linux
 ---
 
 

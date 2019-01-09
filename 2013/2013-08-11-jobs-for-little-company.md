@@ -7,12 +7,8 @@ layout: post
 slug: jobs-for-little-company
 title: IT小公司项目人员岗位设定参考
 wordpress_id: 469
-categories:
-- Management
-tags:
-- Company
-- IT
-- management
+categories: Management
+tags: Company,IT,management
 ---
 
 **1.Developer(开发工程师)**

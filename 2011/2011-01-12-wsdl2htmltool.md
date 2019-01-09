@@ -6,8 +6,7 @@ layout: post
 slug: wsdl2htmltool
 title: WSDL转HTML工具
 wordpress_id: 59
-categories:
-- Experience
+categories: Experience
 ---
 
 ## 1. WSDL viewer - 方便易用

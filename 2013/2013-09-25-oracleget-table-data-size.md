@@ -7,14 +7,8 @@ layout: post
 slug: oracleget-table-data-size
 title: Oracle:Get Table Data Size
 wordpress_id: 508
-categories:
-- Experience
-tags:
-- oracle
-- segment
-- size
-- sql
-- table
+categories: Experience
+tags: oracle,segment,size,sql,table
 ---
 
 SQL Sample:

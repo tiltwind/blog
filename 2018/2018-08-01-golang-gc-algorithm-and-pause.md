@@ -3,11 +3,8 @@ author: 望哥
 comments: true
 date: 2018-08-01
 title: Go各版本GC算法及STW耗时
-categories:
-- 语言
-tags:
-- Golang
-- GC
+categories: 语言
+tags: Golang,GC
 
 ---
 

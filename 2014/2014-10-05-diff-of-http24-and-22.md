@@ -7,12 +7,8 @@ layout: post
 slug: diff-of-http24-and-22
 title: httpd2.4和2.2在访问控制配置的差异
 wordpress_id: 728
-categories:
-- Experience
-tags:
-- access-control
-- apache
-- httpd
+categories: Experience
+tags: access-control,apache,httpd
 ---
 
 2.2版本访问控制是通过Order, Allow, Deny, 和Satisfy这几个指令，对客户端访问hostname、IP以及其他requests信息进行限制.

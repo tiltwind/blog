@@ -6,13 +6,8 @@ layout: post
 slug: 360buy-shielding-etaospider
 title: 360buy Shielding EtaoSpider
 wordpress_id: 159
-categories:
-- Inspiration
-tags:
-- 360buy
-- etao
-- robot
-- taobao
+categories: Inspiration
+tags: 360buy,etao,robot,taobao
 ---
 
 看到一段[新闻](http://tech.sina.com.cn/i/2011-10-25/11546226678.shtml)：

@@ -6,12 +6,8 @@ layout: post
 slug: bottom-neck-and-compromise
 title: 高性能系统思考－－系统瓶颈和资源认可性
 wordpress_id: 230
-categories:
-- Inspiration
-tags:
-- high-performance
-- 瓶颈
-- 高性能
+categories: Inspiration
+tags: high-performance,瓶颈,高性能
 ---
 
 

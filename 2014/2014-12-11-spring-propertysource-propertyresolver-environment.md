@@ -7,13 +7,8 @@ layout: post
 slug: spring-propertysource-propertyresolver-environment
 title: Spring框架PropertySource、PropertyResolver、Environment的设计架构
 wordpress_id: 788
-categories:
-- Knowledge
-tags:
-- Environment
-- PropertyResolver
-- PropertySources
-- spring
+categories: Knowledge
+tags: Environment,PropertyResolver,PropertySources,spring
 ---
 
 #**1. 属性资源(PropertySource)**

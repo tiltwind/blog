@@ -3,10 +3,8 @@ author: 望哥
 comments: true
 date: 2018-07-07
 title: aws api gateway配置custom domain name遇到的那些坑
-categories:
-- 经验
-tags:
-- AWS
+categories: 经验
+tags: AWS
 
 ---
 

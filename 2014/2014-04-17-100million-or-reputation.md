@@ -7,14 +7,8 @@ layout: post
 slug: 100million-or-reputation
 title: 用你的声誉换100万，你是否愿意？
 wordpress_id: 609
-categories:
-- Inspiration
-tags:
-- PV
-- 互联网
-- 广告
-- 新闻
-- 营销
+categories: Inspiration
+tags: PV,互联网,广告,新闻,营销
 ---
 
 呵呵，这明显是标题党了，勿喷！
