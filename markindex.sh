@@ -17,7 +17,7 @@ echo "" > tags.md
 
 find . -maxdepth 1 -type d -name "20*" |sort -r|awk -F '/' '{if($2!="") {print " ["$2"](/"$2"/)"}}' > _navbar.md
 
-echo "# 望哥的博客" > README.md
+echo "# [望哥的博客](http://blog.sisopipo.com)" > README.md
 cat _navbar.md >> README.md
 echo "" >> README.md
 echo "" >> README.md
