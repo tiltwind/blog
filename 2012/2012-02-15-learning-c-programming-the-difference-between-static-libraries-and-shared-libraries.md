@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: false
+author: wongoo
 date: 2012-02-15 13:26:30+00:00
 excerpt: The difference between Static libraries and Shared libraries
-layout: post
 slug: learning-c-programming-the-difference-between-static-libraries-and-shared-libraries
 title: The difference between Static libraries and Shared
   libraries'

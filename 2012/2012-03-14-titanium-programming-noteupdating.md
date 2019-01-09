@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2012-03-14 08:49:22+00:00
-layout: post
 slug: titanium-programming-noteupdating
 title: '[updating] Titanium Programming Note'
 wordpress_id: 235

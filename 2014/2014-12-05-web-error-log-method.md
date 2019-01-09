@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2014-12-05 07:08:50+00:00
 excerpt: Web应用异常日志记录优化方案
-layout: post
 slug: web-error-log-method
 title: Web应用异常日志记录优化方案
 wordpress_id: 784

@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2014-12-12 07:51:51+00:00
 excerpt: Javadoc翻译——Spring @Configuration注解
-layout: post
 slug: javadoc-spring-configuration
 title: Javadoc翻译——Spring @Configuration注解
 wordpress_id: 809

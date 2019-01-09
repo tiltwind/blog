@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2013-09-25 03:41:39+00:00
 excerpt: Oracle:Get Table Data Size
-layout: post
 slug: oracleget-table-data-size
 title: Oracle:Get Table Data Size
 wordpress_id: 508

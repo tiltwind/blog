@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2014-09-23 04:09:07+00:00
-layout: post
 slug: git-branch-mangement
 title: Git分支管理策略
 wordpress_id: 702

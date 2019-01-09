@@ -1,6 +1,5 @@
 ---
 author: 望哥
-comments: true
 date: 2018-03-07
 title: 踏上Scrum敏捷之路
 categories: agile

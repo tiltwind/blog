@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2013-10-15 09:34:44+00:00
 excerpt: 將包含Unicode(\uXXXX)編碼格式的國際化文件轉爲UTF8編碼
-layout: post
 slug: unicode-to-utf8
 title: 將包含Unicode(\uXXXX)編碼格式的國際化文件轉爲UTF8編碼
 wordpress_id: 524

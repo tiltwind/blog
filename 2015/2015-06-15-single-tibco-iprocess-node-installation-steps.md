@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2015-06-15 03:11:15+00:00
-layout: post
 slug: single-tibco-iprocess-node-installation-steps
 title: Single Tibco iProcess Node Installation Steps
 wordpress_id: 843

@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2014-09-23 07:44:10+00:00
-layout: post
 slug: git-remote-commands
 title: Git远程操作详解
 wordpress_id: 706

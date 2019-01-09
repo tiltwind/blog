@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2014-09-17 14:38:05+00:00
 excerpt: 博客文章分类调整
-layout: post
 slug: adjust-blog-category
 title: 博客文章分类调整
 wordpress_id: 699

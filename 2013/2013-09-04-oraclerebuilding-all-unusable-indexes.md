@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2013-09-04 06:24:27+00:00
 excerpt: Oracle:Rebuild all unusable indexes
-layout: post
 slug: oraclerebuilding-all-unusable-indexes
 title: Oracle:Rebuild all unusable indexes
 wordpress_id: 493

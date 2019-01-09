@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2011-03-12 10:33:25+00:00
-layout: post
 slug: something
 title: 周末的一些事儿
 wordpress_id: 77

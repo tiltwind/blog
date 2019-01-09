@@ -1,7 +1,5 @@
 ---
-layout: post
-author: gelnyang
-comments: true
+author: wongoo
 date: 2017-12-12
 title: 何时与人讨论?
 categories: management

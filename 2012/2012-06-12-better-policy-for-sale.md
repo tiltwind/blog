@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2012-06-12 02:13:26+00:00
-layout: post
 slug: better-policy-for-sale
 title: 什么促销政策对饮料销售更有效？
 wordpress_id: 287

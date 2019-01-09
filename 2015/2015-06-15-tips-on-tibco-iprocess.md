@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2015-06-15 03:02:41+00:00
-layout: post
 slug: tips-on-tibco-iprocess
 title: Tips on TIBCO iProcess
 wordpress_id: 841

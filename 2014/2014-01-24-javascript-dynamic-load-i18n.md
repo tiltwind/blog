@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2014-01-24 01:53:29+00:00
 excerpt: Javascript动态加载国际化内容
-layout: post
 slug: javascript-dynamic-load-i18n
 title: Javascript动态加载国际化内容
 wordpress_id: 586

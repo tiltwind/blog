@@ -1,7 +1,5 @@
 ---
-layout: post
-author: gelnyang
-comments: true
+author: wongoo
 date: 2016-11-06
 title: 一个完善的软件系统的特点
 categories: 经验

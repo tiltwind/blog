@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2012-10-19 08:28:36+00:00
 excerpt: 解決WEB应用客户端缓存问题
-layout: post
 slug: web-client-cache-problem
 title: 解決WEB应用客户端缓存问题
 wordpress_id: 330

@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2011-01-12 09:22:29+00:00
-layout: post
 slug: wsdl2htmltool
 title: WSDL转HTML工具
 wordpress_id: 59

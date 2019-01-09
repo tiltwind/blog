@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2014-10-05 14:37:32+00:00
 excerpt: httpd2.4和2.2在访问控制配置的差异
-layout: post
 slug: diff-of-http24-and-22
 title: httpd2.4和2.2在访问控制配置的差异
 wordpress_id: 728

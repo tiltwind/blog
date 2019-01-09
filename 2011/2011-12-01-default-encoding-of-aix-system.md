@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: false
+author: wongoo
 date: 2011-12-01 12:40:31+00:00
 excerpt: 'Default Encoding of AIX System '
-layout: post
 slug: default-encoding-of-aix-system
 title: 'Default Encoding of AIX System '
 wordpress_id: 178

@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2013-02-05 16:40:51+00:00
 excerpt: 项目管理几点体会
-layout: post
 slug: experience-of-project-management
 title: 项目管理几点体会
 wordpress_id: 405

@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2010-11-15 15:52:32+00:00
 excerpt: sisopipo update
-layout: post
 slug: sisopipoupdate
 title: SisoPipo Update
 wordpress_id: 8

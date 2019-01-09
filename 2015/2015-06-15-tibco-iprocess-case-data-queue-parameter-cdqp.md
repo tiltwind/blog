@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2015-06-15 03:28:06+00:00
-layout: post
 slug: tibco-iprocess-case-data-queue-parameter-cdqp
 title: Tibco iProcess Case Data Queue Parameter (CDQP)
 wordpress_id: 848

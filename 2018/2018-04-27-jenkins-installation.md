@@ -1,6 +1,5 @@
 ---
 author: 望哥
-comments: true
 date: 2018-04-27
 title: jenkins installation on centos
 categories: expirence

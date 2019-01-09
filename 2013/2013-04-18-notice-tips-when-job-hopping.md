@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2013-04-18 16:23:53+00:00
 excerpt: 小公司技术人才正确的跳槽观念和面试注意事项
-layout: post
 slug: notice-tips-when-job-hopping
 title: 小公司技术人才正确的跳槽观念和面试注意事项
 wordpress_id: 446

@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2012-06-14 06:57:42+00:00
 excerpt: Automatic Initialization and Updating for TIMESTAMP in mysql
-layout: post
 slug: mysqlautomatic-initialization-and-updating-for-timestamp
 title: '[MySql]Automatic Initialization and Updating for TIMESTAMP'
 wordpress_id: 290

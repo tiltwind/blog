@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: false
+author: wongoo
 date: 2012-02-15 01:21:31+00:00
-layout: post
 slug: learning-c-programming-makefile-learning-materials
 title: Makefile Learning Materials
 wordpress_id: 195

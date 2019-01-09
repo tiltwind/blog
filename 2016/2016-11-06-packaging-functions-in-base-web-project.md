@@ -1,7 +1,5 @@
 ---
-layout: post
-author: gelnyang
-comments: true
+author: wongoo
 date: 2016-11-06
 title: 基础web项目封装的功能
 categories: 经验

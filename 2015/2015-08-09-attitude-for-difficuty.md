@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2015-08-09 16:24:00+00:00
-layout: post
 slug: attitude-for-difficuty
 title: 面对困难的态度
 wordpress_id: 875

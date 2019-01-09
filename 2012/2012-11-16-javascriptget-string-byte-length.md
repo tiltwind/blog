@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2012-11-16 10:13:34+00:00
 excerpt: Javascript:Get string byte length
-layout: post
 slug: javascriptget-string-byte-length
 title: Javascript:Get string byte length
 wordpress_id: 351

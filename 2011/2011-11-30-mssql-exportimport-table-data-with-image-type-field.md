@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: false
+author: wongoo
 date: 2011-11-30 08:25:39+00:00
 excerpt: MSSQL Export/Import Table Data with image type field
-layout: post
 slug: mssql-exportimport-table-data-with-image-type-field
 title: MSSQL Export/Import Table Data with image type field
 wordpress_id: 172

@@ -1,7 +1,5 @@
 ---
-author: gelnyang
-comments: true
-layout: post
+author: wongoo
 title: Maven Surefire Plugin
 categories: Knowledge,Collection
 tags: maven,surefire,test

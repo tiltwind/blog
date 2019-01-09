@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2012-04-18 10:05:19+00:00
 excerpt: Document about proxying Tomcat with Apache HTTP Server
-layout: post
 slug: proxying-tomcat-with-apache-http-server
 title: Proxying Tomcat with Apache HTTP Server
 wordpress_id: 247

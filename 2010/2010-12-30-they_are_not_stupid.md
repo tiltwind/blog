@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2010-12-30 13:06:23+00:00
-layout: post
 slug: they_are_not_stupid
 title: 他们不是傻子
 wordpress_id: 51

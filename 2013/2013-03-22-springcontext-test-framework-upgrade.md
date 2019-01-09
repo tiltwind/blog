@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2013-03-22 15:05:12+00:00
 excerpt: SpringContext测试框架升级，AbstractDependencyInjectionSpringContextTests.java升级使用AbstractTransactionalJUnit4SpringContextTests.java
-layout: post
 slug: springcontext-test-framework-upgrade
 title: SpringContext测试框架升级
 wordpress_id: 411

@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2014-12-11 03:06:53+00:00
 excerpt: Spring框架PropertySource、PropertyResolver、Environment的设计架构
-layout: post
 slug: spring-propertysource-propertyresolver-environment
 title: Spring框架PropertySource、PropertyResolver、Environment的设计架构
 wordpress_id: 788

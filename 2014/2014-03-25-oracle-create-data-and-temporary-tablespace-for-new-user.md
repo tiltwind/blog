@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2014-03-25 01:50:06+00:00
 excerpt: 'oracle create data and temporary  tablespace for new user '
-layout: post
 slug: oracle-create-data-and-temporary-tablespace-for-new-user
 title: 'oracle create data and temporary tablespace for new user '
 wordpress_id: 602

@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2014-11-30 06:24:12+00:00
-layout: post
 slug: annotation-auth
 title: 基于注解的权限验证方案
 wordpress_id: 756

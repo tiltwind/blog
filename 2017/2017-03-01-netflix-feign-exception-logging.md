@@ -1,7 +1,5 @@
 ---
-layout: post
-author: gelnyang
-comments: true
+author: wongoo
 date: 2017-03-01
 title: Netflix feign exception logging
 categories: experience

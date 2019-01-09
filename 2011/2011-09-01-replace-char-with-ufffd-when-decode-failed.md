@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2011-09-01 13:59:54+00:00
-layout: post
 slug: replace-char-with-ufffd-when-decode-failed
 title: Replace special BIG5 character
 wordpress_id: 148

@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2011-08-09 15:18:51+00:00
-layout: post
 slug: wish_asia_stock_get_well
 title: 静待亚洲股市快速恢复
 wordpress_id: 144

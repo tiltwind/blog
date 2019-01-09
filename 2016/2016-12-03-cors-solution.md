@@ -1,7 +1,5 @@
 ---
-layout: post
-author: gelnyang
-comments: true
+author: wongoo
 date: 2016-12-03
 title: 如何实现跨域访问
 categories: 经验

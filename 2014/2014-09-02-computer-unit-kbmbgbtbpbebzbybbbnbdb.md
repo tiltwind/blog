@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2014-09-02 09:24:52+00:00
 excerpt: 计算机存储计量单位KB/MB/GB/TB/PB/EB/ZB/YB/BB/NB/DB
-layout: post
 slug: computer-unit-kbmbgbtbpbebzbybbbnbdb
 title: 计算机存储计量单位KB/MB/GB/TB/PB/EB/ZB/YB/BB/NB/DB
 wordpress_id: 637

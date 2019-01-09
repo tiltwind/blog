@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2015-07-11 17:03:17+00:00
 excerpt: Call C API through Java Native Interfaces
-layout: post
 slug: call-c-api-through-java-native-interfaces
 title: Call C API through Java Native Interfaces
 wordpress_id: 870

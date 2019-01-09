@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2011-06-08 04:02:10+00:00
 excerpt: Autostart Program under Linux
-layout: post
 slug: autostart-program-under-linux
 title: Autostart Program under Linux
 wordpress_id: 116

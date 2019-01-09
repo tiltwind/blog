@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2013-08-18 09:45:02+00:00
 excerpt: Java过滤保留字字符串处理
-layout: post
 slug: java-filter-keeping-words
 title: Java过滤保留字字符串处理
 wordpress_id: 482

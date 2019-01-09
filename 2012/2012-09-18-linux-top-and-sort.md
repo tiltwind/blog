@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2012-09-18 05:50:54+00:00
 excerpt: Linux Top命令 选择显示列及列排序
-layout: post
 slug: linux-top-and-sort
 title: Linux Top命令 选择显示列及列排序
 wordpress_id: 323

@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2014-06-27 02:22:59+00:00
 excerpt: spring io platform 依赖版本管理
-layout: post
 slug: spring-io-platform-dependencies
 title: spring io platform 依赖版本管理
 wordpress_id: 618

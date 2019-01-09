@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: false
+author: wongoo
 date: 2011-11-01 04:33:27+00:00
-layout: post
 slug: 360buy-shielding-etaospider
 title: 360buy Shielding EtaoSpider
 wordpress_id: 159

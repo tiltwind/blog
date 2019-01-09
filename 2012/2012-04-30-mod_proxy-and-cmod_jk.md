@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2012-04-30 05:39:02+00:00
 excerpt: apache模块mod_proxy和mod_jk优劣势比较
-layout: post
 slug: mod_proxy-and-cmod_jk
 title: mod_proxy和mod_jk比较
 wordpress_id: 258

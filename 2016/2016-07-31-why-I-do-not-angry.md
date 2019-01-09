@@ -1,7 +1,5 @@
 ---
-layout: post
-author: gelnyang
-comments: true
+author: wongoo
 date: 2016-07-31
 title: 为什么我不会生气?
 categories: 感悟

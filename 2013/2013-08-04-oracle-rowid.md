@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2013-08-04 08:51:06+00:00
 excerpt: 'Oracle ROWID '
-layout: post
 slug: oracle-rowid
 title: Oracle ROWID Introduction
 wordpress_id: 463

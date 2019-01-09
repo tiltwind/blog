@@ -1,7 +1,5 @@
 ---
-layout: post
-author: gelnyang
-comments: true
+author: wongoo
 date: 2017-04-27
 title: how to use xcode to develop c project
 categories: experience

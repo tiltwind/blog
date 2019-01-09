@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2013-09-17 13:54:39+00:00
 excerpt: Oracle Partition Common Usage
-layout: post
 slug: oracle-partition-common-usage
 title: Oracle Partition Common Usage
 wordpress_id: 501

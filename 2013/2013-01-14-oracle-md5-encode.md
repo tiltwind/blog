@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2013-01-14 07:25:40+00:00
 excerpt: Oracle MD5 Encode
-layout: post
 slug: oracle-md5-encode
 title: Oracle MD5 Encode
 wordpress_id: 386

@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2011-07-02 17:13:29+00:00
-layout: post
 slug: java-code-analysis-tools
 title: Java code analysis tools
 wordpress_id: 130

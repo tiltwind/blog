@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2014-07-20 02:37:04+00:00
 excerpt: 反思程序员找问题的思路
-layout: post
 slug: classnotfound-problem
 title: 记一次ClassNotFound的问题
 wordpress_id: 627

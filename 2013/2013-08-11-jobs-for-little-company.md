@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2013-08-11 03:40:58+00:00
 excerpt: IT小公司项目人员岗位设定参考：开发工程师、高级开发工程师、开发组长、项目经理
-layout: post
 slug: jobs-for-little-company
 title: IT小公司项目人员岗位设定参考
 wordpress_id: 469

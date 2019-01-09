@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2013-01-20 00:59:11+00:00
 excerpt: VMWare安装Gentoo Linux记录
-layout: post
 slug: vmware-install-gentoo
 title: VMware安装Gentoo记录
 wordpress_id: 391

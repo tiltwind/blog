@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2012-07-17 09:35:13+00:00
 excerpt: 冷笑话——真维斯下个季度利润将下降
-layout: post
 slug: joke-why-sale-will-decline
 title: 冷笑话——真维斯下个季度利润将下降
 wordpress_id: 308

@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2015-03-20 15:48:51+00:00
-layout: post
 slug: idea-about-group-chat
 title: 关于聊天软件中群聊消息提醒方式的想法
 wordpress_id: 837

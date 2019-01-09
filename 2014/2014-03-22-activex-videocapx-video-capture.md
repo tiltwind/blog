@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2014-03-22 15:56:46+00:00
 excerpt: 抓图录像ActiveX控件VideoCapx
-layout: post
 slug: activex-videocapx-video-capture
 title: 抓图录像ActiveX控件VideoCapx
 wordpress_id: 593

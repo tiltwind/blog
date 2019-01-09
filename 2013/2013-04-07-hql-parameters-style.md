@@ -1,10 +1,8 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2013-04-07 03:58:35+00:00
 excerpt: Change JDBC Positional parameter style to JPA-style positional parameters
   style for Hibernate HQL
-layout: post
 slug: change-jdbc-positional-parameter-style-to-jpa-style-positional-parameters-style-for-hibernate-hql
 title: Change JDBC Positional parameter style to JPA-style positional parameters style
   for Hibernate HQL

@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2011-06-17 06:54:16+00:00
-layout: post
 slug: email-subject-format
 title: Email subject format
 wordpress_id: 120

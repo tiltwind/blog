@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2014-08-22 08:20:38+00:00
 excerpt: Keep a simple dream and follow it with no doubt.
-layout: post
 slug: keep-a-simple-dream-and-follow-it-with-no-doubt
 title: Keep a simple dream and follow it with no doubt.
 wordpress_id: 631

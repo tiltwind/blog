@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2014-12-04 02:21:56+00:00
 excerpt: Jboss应用管理命令，部署/卸载/启动/停止
-layout: post
 slug: jboss-commands
 title: Jboss应用管理命令
 wordpress_id: 769

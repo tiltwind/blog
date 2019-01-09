@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2014-11-18 05:56:27+00:00
 excerpt: Git SSH连接端口
-layout: post
 slug: git-ssh-port
 title: Git SSH连接端口
 wordpress_id: 744

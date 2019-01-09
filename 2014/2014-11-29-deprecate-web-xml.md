@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2014-11-29 17:03:33+00:00
 excerpt: Annotation的时代——遗弃web.xml
-layout: post
 slug: deprecate-web-xml
 title: 注解时代——遗弃web.xml
 wordpress_id: 749

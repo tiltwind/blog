@@ -6,7 +6,6 @@ tags: golang,gc
 categories: language
 
 author: 望哥
-comments: true
 
 ---
 

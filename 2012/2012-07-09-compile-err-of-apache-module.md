@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2012-07-09 04:24:41+00:00
-layout: post
 slug: compile-err-of-apache-module
 title: 编译apache module遇到的错误
 wordpress_id: 295

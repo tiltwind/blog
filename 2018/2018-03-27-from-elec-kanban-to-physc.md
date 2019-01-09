@@ -1,6 +1,5 @@
 ---
 author: 望哥
-comments: true
 date: 2018-03-27
 title: 从电子看板到实体看板
 categories: agile

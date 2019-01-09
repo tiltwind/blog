@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: false
+author: wongoo
 date: 2012-02-06 11:13:38+00:00
-layout: post
 slug: rethink_exception_because_of_speical_data
 title: 反思异常数据导致项目运行异常问题
 wordpress_id: 185

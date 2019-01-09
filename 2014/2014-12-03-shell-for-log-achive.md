@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2014-12-03 10:20:29+00:00
 excerpt: 日志归档shell脚本
-layout: post
 slug: shell-for-log-achive
 title: 日志归档bash脚本
 wordpress_id: 764

@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2010-11-24 15:58:41+00:00
 excerpt: PHP数据库操作工具
-layout: post
 slug: php_db_access_tool
 title: PHP数据库操作工具
 wordpress_id: 17

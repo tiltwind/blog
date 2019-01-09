@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2013-02-01 10:21:25+00:00
 excerpt: 传真G3文件转为TIFF
-layout: post
 slug: fax-g3-to-tiff
 title: 传真G3文件转为TIFF
 wordpress_id: 399

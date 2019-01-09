@@ -1,7 +1,5 @@
 ---
-layout: post
 author: 望哥
-comments: true
 date: 2018-03-07
 title: kubernetes概览
 categories: kubernetes

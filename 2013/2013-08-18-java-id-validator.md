@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2013-08-18 09:15:59+00:00
 excerpt: Java身份证号码验证器
-layout: post
 slug: java-id-validator
 title: Java身份证号码验证器
 wordpress_id: 475

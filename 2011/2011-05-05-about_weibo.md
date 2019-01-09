@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2011-05-05 16:00:27+00:00
-layout: post
 slug: about_weibo
 title: 说说微博
 wordpress_id: 104

@@ -1,7 +1,5 @@
 ---
-layout: post
-author: gelnyang
-comments: true
+author: wongoo
 date: 2017-02-21
 title: Spring Cloud Stream Messaging Annotations
 categories: Note

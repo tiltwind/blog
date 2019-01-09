@@ -1,5 +1,5 @@
 ---
-author: gelnyang
+author: wongoo
 date: 2018-01-24
 title: CQRS Guide
 categories: architecture

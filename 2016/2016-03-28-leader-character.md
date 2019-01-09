@@ -1,7 +1,5 @@
 ---
-author: gelnyang
-comments: true
-layout: post
+author: wongoo
 date: 2016-03-28
 title: 一个优秀领导的特质
 categories: 感悟

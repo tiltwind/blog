@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2015-06-15 03:49:52+00:00
-layout: post
 slug: tibco-iprocess-activity-monitoring-and-work-queue-delta-publication
 title: Tibco iProcess Activity Monitoring and Work Queue Delta Publication
 wordpress_id: 855

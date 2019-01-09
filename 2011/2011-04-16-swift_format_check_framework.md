@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2011-04-16 06:27:39+00:00
-layout: post
 slug: swift_format_check_framework
 title: swift 电文格式校验框架
 wordpress_id: 97

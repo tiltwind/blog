@@ -1,7 +1,5 @@
 ---
-layout: post
-author: gelnyang
-comments: true
+author: wongoo
 date: 2017-03-02
 title: Oauth2 token expiration config
 categories: experience

@@ -1,10 +1,8 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2012-04-26 02:33:03+00:00
 excerpt: 什么是JK(或者AJP)? 为什么需要（或不需要）Apache和tomcat整合？Connector比较：mod_jserv,JK,JK2,mod_webapp,
   mod_proxy?
-layout: post
 slug: apache-connectors-for-tomcat
 title: Apache Connectors for Tomcat FAQ
 wordpress_id: 253

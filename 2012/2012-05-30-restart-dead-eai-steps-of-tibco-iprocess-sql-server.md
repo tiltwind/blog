@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2012-05-30 06:09:47+00:00
-layout: post
 slug: restart-dead-eai-steps-of-tibco-iprocess-sql-server
 title: Restart dead EAI steps of Tibco iProcess (SQL Server)
 wordpress_id: 275

@@ -2,7 +2,6 @@
 title: 对厦门一七四医院住院部的感谢和建议
 date: 2018-09-11 09:04:27
 author: 望哥
-comments: true
 categories: 札记
 tags: letter,suggestion
 ---

@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2014-03-23 06:21:00+00:00
 excerpt: 一种Spring Security Web认证实现方案及其核心组件及认证过程说明
-layout: post
 slug: spring-security-web-auth-plan
 title: 一种Spring Security Web认证实现方案
 wordpress_id: 595

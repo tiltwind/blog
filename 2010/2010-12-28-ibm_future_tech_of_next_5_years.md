@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2010-12-28 06:27:38+00:00
-layout: post
 slug: ibm_future_tech_of_next_5_years
 title: IBM预测未来5年5项科技
 wordpress_id: 46

@@ -1,7 +1,5 @@
 ---
-layout: post
-author: gelnyang
-comments: true
+author: wongoo
 date: 2016-10-11
 title: 什么是艺术
 categories: 感悟

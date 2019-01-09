@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2011-02-28 13:01:04+00:00
 excerpt: 奥斯卡 价值观 盗梦空间 国王的演讲
-layout: post
 slug: oscar_value
 title: 奥斯卡的价值观
 wordpress_id: 75

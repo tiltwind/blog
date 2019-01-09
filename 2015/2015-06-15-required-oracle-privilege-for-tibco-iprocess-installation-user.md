@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2015-06-15 04:11:25+00:00
-layout: post
 slug: required-oracle-privilege-for-tibco-iprocess-installation-user
 title: Required Oracle Privilege for Tibco iProcess installation user
 wordpress_id: 857

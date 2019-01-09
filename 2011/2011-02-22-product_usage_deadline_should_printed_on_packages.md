@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2011-02-22 01:57:17+00:00
 excerpt: 产品过期日期应该打印在内包装盒上
-layout: post
 slug: product_usage_deadline_should_printed_on_packages
 title: 产品过期日期应该打印在内包装盒上
 wordpress_id: 72

@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: false
+author: wongoo
 date: 2012-02-17 17:07:03+00:00
-layout: post
 slug: idea-reader-for-english-learner
 title: IDEA:给英文学习者的阅读器
 wordpress_id: 198

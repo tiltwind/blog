@@ -1,7 +1,5 @@
 ---
-layout: post
-author: gelnyang
-comments: true
+author: wongoo
 date: 2016-10-11
 title: 什么需求变更不可接受
 categories: 管理

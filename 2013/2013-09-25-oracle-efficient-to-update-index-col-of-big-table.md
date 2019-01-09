@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2013-09-25 07:18:17+00:00
 excerpt: Oracle:大批量高效地更新大数据表索引字段
-layout: post
 slug: oracle-efficient-to-update-index-col-of-big-table
 title: Oracle大批量高效地更新大数据表索引字段
 wordpress_id: 512

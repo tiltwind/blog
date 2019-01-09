@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2012-08-18 02:57:46+00:00
 excerpt: 谈谈执行力：结果很重要，按时完成任务，不要发脾气，有任何问题随时提出，完成更多任务
-layout: post
 slug: about-execution
 title: 谈谈执行力
 wordpress_id: 313

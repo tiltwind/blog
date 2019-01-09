@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2014-09-24 15:59:28+00:00
 excerpt: Shell用管道符组建功能强大的指令，批量kill进程，批量打包等
-layout: post
 slug: using-pipe-operator-to-impl-powful-commands
 title: 使用管道符组建功能强大的指令
 wordpress_id: 715

@@ -1,7 +1,5 @@
 ---
-layout: post
-author: gelnyang
-comments: true
+author: wongoo
 date: 2017-01-08
 title: Base64 encode decode shell script
 categories: 经验

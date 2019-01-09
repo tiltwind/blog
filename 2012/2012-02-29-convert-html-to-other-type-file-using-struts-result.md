@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2012-02-29 02:20:55+00:00
 excerpt: Convert HTML to other type File using Struts Result
-layout: post
 slug: convert-html-to-other-type-file-using-struts-result
 title: Convert HTML to other type File using Struts Result
 wordpress_id: 216

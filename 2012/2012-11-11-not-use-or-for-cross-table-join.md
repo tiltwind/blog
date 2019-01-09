@@ -1,11 +1,9 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2012-11-11 09:28:16+00:00
 excerpt: '1. 多表join的时候, 勿使用多表之间OR条件。遇到这样的情况，建立的索引无法起作用。应尽量改善语句使用到索引以提高查询性能。
 
   2. 如果有跨表OR条件的查询需求，说明表设计的并不很好，在表设计上应考虑具体需求，尽量避免这样的情况发生。'
-layout: post
 slug: not-use-or-for-cross-table-join
 title: 提升查询性能——勿使用跨表OR条件
 wordpress_id: 343

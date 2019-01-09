@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2013-09-17 15:35:47+00:00
 excerpt: Add partition to an existing NON-PARTITIONED table
-layout: post
 slug: add-partition-to-an-existing-non-partitioned-table
 title: Add partition to an existing NON-PARTITIONED table
 wordpress_id: 505

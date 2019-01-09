@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2011-09-01 17:05:39+00:00
-layout: post
 slug: human_nature
 title: 人的性格
 wordpress_id: 151

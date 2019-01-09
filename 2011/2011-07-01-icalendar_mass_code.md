@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2011-07-01 07:45:45+00:00
-layout: post
 slug: icalendar_mass_code
 title: iCalendar乱码问题
 wordpress_id: 126

@@ -1,7 +1,5 @@
 ---
-layout: post
-author: gelnyang
-comments: true
+author: wongoo
 date: 2017-10-24
 title: 打倒重新审视人生
 categories: inspiration

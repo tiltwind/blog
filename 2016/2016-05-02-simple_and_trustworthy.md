@@ -1,7 +1,5 @@
 ---
-author: gelnyang
-comments: true
-layout: post
+author: wongoo
 date: 2016-05-02
 title: 我曲解了百度核心价值观
 categories: 感悟

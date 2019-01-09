@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2012-10-18 17:14:37+00:00
 excerpt: WEB 应用 Session过期跳回登录页
-layout: post
 slug: session-timeout-and-return-to-login-page
 title: Session过期跳回登录页
 wordpress_id: 327

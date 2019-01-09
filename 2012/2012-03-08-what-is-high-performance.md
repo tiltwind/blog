@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2012-03-08 17:13:02+00:00
-layout: post
 slug: what-is-high-performance
 title: 高性能系统思考－－何为高性能
 wordpress_id: 228

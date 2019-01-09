@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2010-12-29 14:31:14+00:00
-layout: post
 slug: change_oracle_character
 title: 更改Oracle数据库编码
 wordpress_id: 49

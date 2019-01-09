@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2012-05-04 10:23:37+00:00
 excerpt: mod_jk cluster configuration
-layout: post
 slug: mod_jk-cluster-configuration
 title: mod_jk cluster configuration
 wordpress_id: 263

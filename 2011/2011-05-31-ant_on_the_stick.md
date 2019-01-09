@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2011-05-31 02:18:02+00:00
-layout: post
 slug: ant_on_the_stick
 title: 棍子上的蚂蚁
 wordpress_id: 111

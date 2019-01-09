@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2014-12-12 08:47:13+00:00
 excerpt: Javadoc翻译——Spring注解@Bean
-layout: post
 slug: javadoc-spring-bean
 title: Javadoc翻译——Spring注解@Bean
 wordpress_id: 818

@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2014-04-17 16:42:47+00:00
 excerpt: 用你的声誉换100万，你是否愿意？
-layout: post
 slug: 100million-or-reputation
 title: 用你的声誉换100万，你是否愿意？
 wordpress_id: 609

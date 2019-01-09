@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2013-08-04 06:34:40+00:00
 excerpt: SSH Project Performance Tuning Analysis
-layout: post
 slug: ssh-project-performance-tuning-analiysis
 title: SSH Project Performance Tuning Analysis
 wordpress_id: 459

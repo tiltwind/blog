@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2012-07-17 09:20:33+00:00
 excerpt: Resolving multiple-pages tiff converting error EOFException  using iText
-layout: post
 slug: resolving-multiple-pages-tiff-converting-error-using-itext
 title: Resolving multiple-pages tiff converting error using iText
 wordpress_id: 303

@@ -1,7 +1,5 @@
 ---
-layout: post
-author: gelnyang
-comments: true
+author: wongoo
 date: 2017-04-27
 title: message push gateway based on nginx+lua+redis
 categories: architecture

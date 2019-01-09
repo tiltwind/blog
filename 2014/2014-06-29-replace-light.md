@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2014-06-29 06:58:25+00:00
-layout: post
 slug: replace-light
 title: 换灯记
 wordpress_id: 620

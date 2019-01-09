@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2011-07-03 02:51:06+00:00
-layout: post
 slug: commons-httpclient-and-httpclient
 title: commons-httpclient 和 httpclient的不同之处
 wordpress_id: 133

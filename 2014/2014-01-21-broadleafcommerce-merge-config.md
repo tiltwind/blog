@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2014-01-21 08:20:12+00:00
 excerpt: BroadleafCommerce合并配置
-layout: post
 slug: broadleafcommerce-merge-config
 title: BroadleafCommerce合并配置
 wordpress_id: 558

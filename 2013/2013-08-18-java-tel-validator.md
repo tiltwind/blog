@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2013-08-18 09:36:32+00:00
 excerpt: Java电话号码验证器
-layout: post
 slug: java-tel-validator
 title: Java电话号码验证器
 wordpress_id: 480

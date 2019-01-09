@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2013-02-05 15:45:46+00:00
 excerpt: 谈谈工作态度和责任心
-layout: post
 slug: responsibility-and-attibute
 title: 谈谈工作态度和责任心
 wordpress_id: 402

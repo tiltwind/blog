@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2013-04-06 02:53:49+00:00
 excerpt: Kerberos Protocol Learning Note
-layout: post
 slug: kerberos-protocol-learning-note
 title: Kerberos Protocol Learning Note
 wordpress_id: 417

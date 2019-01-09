@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2014-01-21 10:15:52+00:00
 excerpt: BroadleafCommerce工作流和活动
-layout: post
 slug: broadleafcommerce-workflow-and-activity
 title: BroadleafCommerce工作流和活动
 wordpress_id: 560

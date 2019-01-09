@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2012-03-08 18:00:45+00:00
-layout: post
 slug: bottom-neck-and-compromise
 title: 高性能系统思考－－系统瓶颈和资源认可性
 wordpress_id: 230

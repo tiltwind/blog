@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2014-01-21 07:58:31+00:00
 excerpt: 认识Java电子商务开源框架BroadleafCommerce
-layout: post
 slug: about-broadleafcommerce
 title: 认识Java电子商务开源框架BroadleafCommerce
 wordpress_id: 553

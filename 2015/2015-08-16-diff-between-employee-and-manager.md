@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2015-08-16 06:48:11+00:00
 excerpt: 普通员工和管理者之间的差别
-layout: post
 slug: diff-between-employee-and-manager
 title: 普通员工和管理者之间的差别
 wordpress_id: 877

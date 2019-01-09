@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2010-11-30 06:47:44+00:00
-layout: post
 slug: mobile_developer_journey
 title: 移动开发者之路
 wordpress_id: 23

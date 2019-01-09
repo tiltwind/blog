@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2013-01-11 03:02:38+00:00
 excerpt: The change from programmer to manager
-layout: post
 slug: the-change-from-programmer-to-manager
 title: The change from programmer to manager
 wordpress_id: 382

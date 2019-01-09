@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: false
+author: wongoo
 date: 2012-02-17 18:57:48+00:00
-layout: post
 slug: learning-c-programming-static-variables-and-statick-functions
 title: C Static Variables  and Statick Functions
 wordpress_id: 212

@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2011-03-29 14:34:24+00:00
-layout: post
 slug: how_to_judge_a_good_web_page
 title: 网页质量评估办法
 wordpress_id: 93

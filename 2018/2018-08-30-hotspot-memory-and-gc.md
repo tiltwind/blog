@@ -1,6 +1,5 @@
 ---
 author: 望哥
-comments: true
 date: 2018-08-30
 title: Hotspot内存结构及垃圾回收
 categories: language

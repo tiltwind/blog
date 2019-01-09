@@ -1,9 +1,7 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2011-02-16 02:36:42+00:00
 excerpt: c调用java的例子
-layout: post
 slug: c_invoke_java
 title: C调用Java的例子
 wordpress_id: 63

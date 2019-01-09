@@ -1,8 +1,6 @@
 ---
-author: admin
-comments: true
+author: wongoo
 date: 2010-11-19 12:15:46+00:00
-layout: post
 slug: deposit-reserve
 title: 存款准备金
 wordpress_id: 12
