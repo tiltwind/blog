@@ -142,6 +142,7 @@ function markindex_process_dir(){
 }
 
 function markindex_post_process(){
+	echo "" >> $markproj_dir/README.md
 	cat $markproj_dir/_navbar.md >> $markproj_dir/README.md
 	echo "" >> $markproj_dir/README.md
 
