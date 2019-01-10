@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2012-12-05 10:25:54+00:00
+markmeta_date: 2012-12-05 10:25:54
 excerpt: Oracle7没有NLS_NCHAR_CHARACTERSET设置，只有NLS_CHARACTERSET设置。且Oracle7 varchar2只支持byte类型存储，没有char类型。Oracle7将字符转为NLS_CHARACTERSET编码的字符再存入varchar2字段，但特殊难字转换失败时就会变为问号。由于Oracle7支持CHR方法(将字符编号转为对应的字符)，所以将可以在执行sql之前将sql语法中的难字全部替换为CHR方法转换即可.
 slug: oracle-jdbc-special-char-encode
 markmeta_title: Oracle数据库JDBC难字编码问题

@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2012-02-06 11:13:38+00:00
+markmeta_date: 2012-02-06 11:13:38
 slug: rethink_exception_because_of_speical_data
 markmeta_title: 反思异常数据导致项目运行异常问题
 wordpress_id: 185

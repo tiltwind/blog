@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2013-12-16 15:22:56+00:00
+markmeta_date: 2013-12-16 15:22:56
 excerpt: maven介绍，POM介绍，传递依赖，管理依赖，引用依赖，repository管理，mirror镜像管理
 slug: using-maven-to-manage-project
 markmeta_title: 使用Maven管理项目开发

@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2011-09-12 15:43:50+00:00
+markmeta_date: 2011-09-12 15:43:50
 slug: wanmei-lecture
 markmeta_title: 听完美的完美人生课
 wordpress_id: 154

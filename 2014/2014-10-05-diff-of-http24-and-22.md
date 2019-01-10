@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2014-10-05 14:37:32+00:00
+markmeta_date: 2014-10-05 14:37:32
 excerpt: httpd2.4和2.2在访问控制配置的差异
 slug: diff-of-http24-and-22
 markmeta_title: httpd2.4和2.2在访问控制配置的差异

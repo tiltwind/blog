@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2013-08-18 09:15:59+00:00
+markmeta_date: 2013-08-18 09:15:59
 excerpt: Java身份证号码验证器
 slug: java-id-validator
 markmeta_title: Java身份证号码验证器

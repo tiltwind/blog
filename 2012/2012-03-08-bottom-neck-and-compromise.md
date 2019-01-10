@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2012-03-08 18:00:45+00:00
+markmeta_date: 2012-03-08 18:00:45
 slug: bottom-neck-and-compromise
 markmeta_title: 高性能系统思考－－系统瓶颈和资源认可性
 wordpress_id: 230

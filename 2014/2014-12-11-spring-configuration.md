@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2014-12-11 08:43:00+00:00
+markmeta_date: 2014-12-11 08:43:00
 excerpt: 了解了spring框架PropertySource、PropertyResolver、Environment的设计架构,如果将Environment引入到项目参数配置方案中，将带来极大的方便。仅需通过@Inject将其注入Environment实例即可获得相关配置属性。
 slug: spring-configuration
 markmeta_title: Spring项目参数配置方案

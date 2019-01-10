@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2011-04-16 06:27:39+00:00
+markmeta_date: 2011-04-16 06:27:39
 slug: swift_format_check_framework
 markmeta_title: swift 电文格式校验框架
 wordpress_id: 97

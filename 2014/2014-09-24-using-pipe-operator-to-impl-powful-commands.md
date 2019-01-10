@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2014-09-24 15:59:28+00:00
+markmeta_date: 2014-09-24 15:59:28
 excerpt: Shell用管道符组建功能强大的指令，批量kill进程，批量打包等
 slug: using-pipe-operator-to-impl-powful-commands
 markmeta_title: 使用管道符组建功能强大的指令

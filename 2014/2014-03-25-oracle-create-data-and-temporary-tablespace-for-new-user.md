@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2014-03-25 01:50:06+00:00
+markmeta_date: 2014-03-25 01:50:06
 excerpt: 'oracle create data and temporary  tablespace for new user '
 slug: oracle-create-data-and-temporary-tablespace-for-new-user
 markmeta_title: 'oracle create data and temporary tablespace for new user '

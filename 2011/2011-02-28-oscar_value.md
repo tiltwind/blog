@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2011-02-28 13:01:04+00:00
+markmeta_date: 2011-02-28 13:01:04
 excerpt: 奥斯卡 价值观 盗梦空间 国王的演讲
 slug: oscar_value
 markmeta_title: 奥斯卡的价值观

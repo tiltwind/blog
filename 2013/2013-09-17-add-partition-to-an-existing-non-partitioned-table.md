@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2013-09-17 15:35:47+00:00
+markmeta_date: 2013-09-17 15:35:47
 excerpt: Add partition to an existing NON-PARTITIONED table
 slug: add-partition-to-an-existing-non-partitioned-table
 markmeta_title: Add partition to an existing NON-PARTITIONED table

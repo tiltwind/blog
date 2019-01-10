@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2012-02-17 17:07:03+00:00
+markmeta_date: 2012-02-17 17:07:03
 slug: idea-reader-for-english-learner
 markmeta_title: IDEA:给英文学习者的阅读器
 wordpress_id: 198

@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2013-04-18 16:23:53+00:00
+markmeta_date: 2013-04-18 16:23:53
 excerpt: 小公司技术人才正确的跳槽观念和面试注意事项
 slug: notice-tips-when-job-hopping
 markmeta_title: 小公司技术人才正确的跳槽观念和面试注意事项

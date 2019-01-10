@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2012-05-04 10:23:37+00:00
+markmeta_date: 2012-05-04 10:23:37
 excerpt: mod_jk cluster configuration
 slug: mod_jk-cluster-configuration
 markmeta_title: mod_jk cluster configuration

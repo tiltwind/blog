@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2012-09-18 05:50:54+00:00
+markmeta_date: 2012-09-18 05:50:54
 excerpt: Linux Top命令 选择显示列及列排序
 slug: linux-top-and-sort
 markmeta_title: Linux Top命令 选择显示列及列排序

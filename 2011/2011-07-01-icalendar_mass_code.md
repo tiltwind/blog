@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2011-07-01 07:45:45+00:00
+markmeta_date: 2011-07-01 07:45:45
 slug: icalendar_mass_code
 markmeta_title: iCalendar乱码问题
 wordpress_id: 126

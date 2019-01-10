@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2014-01-21 10:15:52+00:00
+markmeta_date: 2014-01-21 10:15:52
 excerpt: BroadleafCommerce工作流和活动
 slug: broadleafcommerce-workflow-and-activity
 markmeta_title: BroadleafCommerce工作流和活动

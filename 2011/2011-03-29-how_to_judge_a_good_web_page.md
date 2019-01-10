@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2011-03-29 14:34:24+00:00
+markmeta_date: 2011-03-29 14:34:24
 slug: how_to_judge_a_good_web_page
 markmeta_title: 网页质量评估办法
 wordpress_id: 93

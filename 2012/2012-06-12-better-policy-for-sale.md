@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2012-06-12 02:13:26+00:00
+markmeta_date: 2012-06-12 02:13:26
 slug: better-policy-for-sale
 markmeta_title: 什么促销政策对饮料销售更有效？
 wordpress_id: 287

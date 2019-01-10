@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2013-10-15 09:34:44+00:00
+markmeta_date: 2013-10-15 09:34:44
 excerpt: 將包含Unicode(\uXXXX)編碼格式的國際化文件轉爲UTF8編碼
 slug: unicode-to-utf8
 markmeta_title: 將包含Unicode(\uXXXX)編碼格式的國際化文件轉爲UTF8編碼

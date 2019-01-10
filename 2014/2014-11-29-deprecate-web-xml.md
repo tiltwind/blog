@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2014-11-29 17:03:33+00:00
+markmeta_date: 2014-11-29 17:03:33
 excerpt: Annotation的时代——遗弃web.xml
 slug: deprecate-web-xml
 markmeta_title: 注解时代——遗弃web.xml

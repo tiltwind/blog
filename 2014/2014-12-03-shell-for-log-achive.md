@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2014-12-03 10:20:29+00:00
+markmeta_date: 2014-12-03 10:20:29
 excerpt: 日志归档shell脚本
 slug: shell-for-log-achive
 markmeta_title: 日志归档bash脚本

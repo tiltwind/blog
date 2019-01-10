@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2011-05-31 02:18:02+00:00
+markmeta_date: 2011-05-31 02:18:02
 slug: ant_on_the_stick
 markmeta_title: 棍子上的蚂蚁
 wordpress_id: 111

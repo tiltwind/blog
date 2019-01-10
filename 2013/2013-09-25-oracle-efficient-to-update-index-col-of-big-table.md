@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2013-09-25 07:18:17+00:00
+markmeta_date: 2013-09-25 07:18:17
 excerpt: Oracle:大批量高效地更新大数据表索引字段
 slug: oracle-efficient-to-update-index-col-of-big-table
 markmeta_title: Oracle大批量高效地更新大数据表索引字段

@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2013-09-17 13:54:39+00:00
+markmeta_date: 2013-09-17 13:54:39
 excerpt: Oracle Partition Common Usage
 slug: oracle-partition-common-usage
 markmeta_title: Oracle Partition Common Usage

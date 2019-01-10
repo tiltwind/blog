@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2012-03-14 08:49:22+00:00
+markmeta_date: 2012-03-14 08:49:22
 slug: titanium-programming-noteupdating
 markmeta_title: '[updating] Titanium Programming Note'
 wordpress_id: 235

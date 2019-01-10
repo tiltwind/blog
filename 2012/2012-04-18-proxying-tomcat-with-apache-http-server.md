@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2012-04-18 10:05:19+00:00
+markmeta_date: 2012-04-18 10:05:19
 excerpt: Document about proxying Tomcat with Apache HTTP Server
 slug: proxying-tomcat-with-apache-http-server
 markmeta_title: Proxying Tomcat with Apache HTTP Server

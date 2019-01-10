@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2011-02-16 02:36:42+00:00
+markmeta_date: 2011-02-16 02:36:42
 excerpt: c调用java的例子
 slug: c_invoke_java
 markmeta_title: C调用Java的例子

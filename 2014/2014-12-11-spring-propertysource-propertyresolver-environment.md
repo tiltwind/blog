@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2014-12-11 03:06:53+00:00
+markmeta_date: 2014-12-11 03:06:53
 excerpt: Spring框架PropertySource、PropertyResolver、Environment的设计架构
 slug: spring-propertysource-propertyresolver-environment
 markmeta_title: Spring框架PropertySource、PropertyResolver、Environment的设计架构

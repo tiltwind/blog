@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2013-02-05 16:40:51+00:00
+markmeta_date: 2013-02-05 16:40:51
 excerpt: 项目管理几点体会
 slug: experience-of-project-management
 markmeta_title: 项目管理几点体会

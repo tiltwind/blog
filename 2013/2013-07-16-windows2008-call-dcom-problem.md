@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2013-07-16 14:23:26+00:00
+markmeta_date: 2013-07-16 14:23:26
 excerpt: 如何解决Windows Server 2008 服务启动不能调用Office DCOM转Word的问题
 slug: windows2008-call-dcom-problem
 markmeta_title: 如何解决Windows Server 2008 服务启动不能调用Office DCOM转Word的问题

@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2011-06-08 04:02:10+00:00
+markmeta_date: 2011-06-08 04:02:10
 excerpt: Autostart Program under Linux
 slug: autostart-program-under-linux
 markmeta_title: Autostart Program under Linux

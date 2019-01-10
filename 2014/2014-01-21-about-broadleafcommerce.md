@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2014-01-21 07:58:31+00:00
+markmeta_date: 2014-01-21 07:58:31
 excerpt: 认识Java电子商务开源框架BroadleafCommerce
 slug: about-broadleafcommerce
 markmeta_title: 认识Java电子商务开源框架BroadleafCommerce

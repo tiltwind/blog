@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2013-02-01 10:21:25+00:00
+markmeta_date: 2013-02-01 10:21:25
 excerpt: 传真G3文件转为TIFF
 slug: fax-g3-to-tiff
 markmeta_title: 传真G3文件转为TIFF

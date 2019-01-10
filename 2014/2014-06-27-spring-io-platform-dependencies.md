@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2014-06-27 02:22:59+00:00
+markmeta_date: 2014-06-27 02:22:59
 excerpt: spring io platform 依赖版本管理
 slug: spring-io-platform-dependencies
 markmeta_title: spring io platform 依赖版本管理

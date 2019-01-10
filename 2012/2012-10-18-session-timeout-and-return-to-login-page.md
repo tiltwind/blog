@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2012-10-18 17:14:37+00:00
+markmeta_date: 2012-10-18 17:14:37
 excerpt: WEB 应用 Session过期跳回登录页
 slug: session-timeout-and-return-to-login-page
 markmeta_title: Session过期跳回登录页

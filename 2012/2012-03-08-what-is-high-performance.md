@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2012-03-08 17:13:02+00:00
+markmeta_date: 2012-03-08 17:13:02
 slug: what-is-high-performance
 markmeta_title: 高性能系统思考－－何为高性能
 wordpress_id: 228

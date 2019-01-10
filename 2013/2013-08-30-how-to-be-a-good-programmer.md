@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2013-08-30 15:25:29+00:00
+markmeta_date: 2013-08-30 15:25:29
 excerpt: 培训材料:如何成为一个优秀的程序员?
 slug: how-to-be-a-good-programmer
 markmeta_title: 培训材料:如何成为一个优秀的程序员?

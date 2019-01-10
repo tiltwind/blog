@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2014-08-22 08:20:38+00:00
+markmeta_date: 2014-08-22 08:20:38
 excerpt: Keep a simple dream and follow it with no doubt.
 slug: keep-a-simple-dream-and-follow-it-with-no-doubt
 markmeta_title: Keep a simple dream and follow it with no doubt.

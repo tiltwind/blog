@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2013-09-04 06:24:27+00:00
+markmeta_date: 2013-09-04 06:24:27
 excerpt: Oracle:Rebuild all unusable indexes
 slug: oraclerebuilding-all-unusable-indexes
 markmeta_title: Oracle:Rebuild all unusable indexes

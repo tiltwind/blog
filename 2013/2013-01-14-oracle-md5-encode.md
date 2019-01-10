@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2013-01-14 07:25:40+00:00
+markmeta_date: 2013-01-14 07:25:40
 excerpt: Oracle MD5 Encode
 slug: oracle-md5-encode
 markmeta_title: Oracle MD5 Encode

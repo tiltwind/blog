@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2015-08-16 06:48:11+00:00
+markmeta_date: 2015-08-16 06:48:11
 excerpt: 普通员工和管理者之间的差别
 slug: diff-between-employee-and-manager
 markmeta_title: 普通员工和管理者之间的差别

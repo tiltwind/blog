@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2014-11-30 06:24:12+00:00
+markmeta_date: 2014-11-30 06:24:12
 slug: annotation-auth
 markmeta_title: 基于注解的权限验证方案
 wordpress_id: 756

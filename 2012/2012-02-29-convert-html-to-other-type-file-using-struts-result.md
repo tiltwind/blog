@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2012-02-29 02:20:55+00:00
+markmeta_date: 2012-02-29 02:20:55
 excerpt: Convert HTML to other type File using Struts Result
 slug: convert-html-to-other-type-file-using-struts-result
 markmeta_title: Convert HTML to other type File using Struts Result

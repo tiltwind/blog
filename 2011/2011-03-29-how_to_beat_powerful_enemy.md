@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2011-03-29 13:54:33+00:00
+markmeta_date: 2011-03-29 13:54:33
 slug: how_to_beat_powerful_enemy
 markmeta_title: 战胜势均力敌的对手
 wordpress_id: 45

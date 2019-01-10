@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2015-06-15 03:02:41+00:00
+markmeta_date: 2015-06-15 03:02:41
 slug: tips-on-tibco-iprocess
 markmeta_title: Tips on TIBCO iProcess
 wordpress_id: 841

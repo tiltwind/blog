@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2010-12-29 14:31:14+00:00
+markmeta_date: 2010-12-29 14:31:14
 slug: change_oracle_character
 markmeta_title: 更改Oracle数据库编码
 wordpress_id: 49

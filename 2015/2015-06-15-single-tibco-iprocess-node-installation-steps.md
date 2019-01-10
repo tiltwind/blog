@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2015-06-15 03:11:15+00:00
+markmeta_date: 2015-06-15 03:11:15
 slug: single-tibco-iprocess-node-installation-steps
 markmeta_title: Single Tibco iProcess Node Installation Steps
 wordpress_id: 843

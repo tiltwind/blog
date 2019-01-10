@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2014-09-23 07:44:10+00:00
+markmeta_date: 2014-09-23 07:44:10
 slug: git-remote-commands
 markmeta_title: Git远程操作详解
 wordpress_id: 706

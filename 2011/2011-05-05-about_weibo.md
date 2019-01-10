@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2011-05-05 16:00:27+00:00
+markmeta_date: 2011-05-05 16:00:27
 slug: about_weibo
 markmeta_title: 说说微博
 wordpress_id: 104

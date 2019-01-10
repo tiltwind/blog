@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2014-07-20 02:37:04+00:00
+markmeta_date: 2014-07-20 02:37:04
 excerpt: 反思程序员找问题的思路
 slug: classnotfound-problem
 markmeta_title: 记一次ClassNotFound的问题

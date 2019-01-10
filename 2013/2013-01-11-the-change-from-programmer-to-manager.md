@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2013-01-11 03:02:38+00:00
+markmeta_date: 2013-01-11 03:02:38
 excerpt: The change from programmer to manager
 slug: the-change-from-programmer-to-manager
 markmeta_title: The change from programmer to manager

@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2015-03-12 15:20:44+00:00
+markmeta_date: 2015-03-12 15:20:44
 slug: windows-config-for-pressure
 markmeta_title: 用Windows作为压力测试客户端需注意的环境设定
 wordpress_id: 830

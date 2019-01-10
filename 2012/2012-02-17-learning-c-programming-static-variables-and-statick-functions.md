@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2012-02-17 18:57:48+00:00
+markmeta_date: 2012-02-17 18:57:48
 slug: learning-c-programming-static-variables-and-statick-functions
 markmeta_title: C Static Variables  and Statick Functions
 wordpress_id: 212

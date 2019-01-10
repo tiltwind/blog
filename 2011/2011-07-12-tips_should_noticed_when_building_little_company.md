@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2011-07-12 16:40:24+00:00
+markmeta_date: 2011-07-12 16:40:24
 slug: tips_should_noticed_when_building_little_company
 markmeta_title: 关于小公司成立要注意一些事情
 wordpress_id: 140

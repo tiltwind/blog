@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2015-06-15 04:11:25+00:00
+markmeta_date: 2015-06-15 04:11:25
 slug: required-oracle-privilege-for-tibco-iprocess-installation-user
 markmeta_title: Required Oracle Privilege for Tibco iProcess installation user
 wordpress_id: 857

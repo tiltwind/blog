@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2011-01-12 09:22:29+00:00
+markmeta_date: 2011-01-12 09:22:29
 slug: wsdl2htmltool
 markmeta_title: WSDL转HTML工具
 wordpress_id: 59

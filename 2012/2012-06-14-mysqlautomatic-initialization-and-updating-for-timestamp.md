@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2012-06-14 06:57:42+00:00
+markmeta_date: 2012-06-14 06:57:42
 excerpt: Automatic Initialization and Updating for TIMESTAMP in mysql
 slug: mysqlautomatic-initialization-and-updating-for-timestamp
 markmeta_title: '[MySql]Automatic Initialization and Updating for TIMESTAMP'

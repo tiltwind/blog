@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2014-03-23 06:21:00+00:00
+markmeta_date: 2014-03-23 06:21:00
 excerpt: 一种Spring Security Web认证实现方案及其核心组件及认证过程说明
 slug: spring-security-web-auth-plan
 markmeta_title: 一种Spring Security Web认证实现方案

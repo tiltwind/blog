@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2011-11-30 08:25:39+00:00
+markmeta_date: 2011-11-30 08:25:39
 excerpt: MSSQL Export/Import Table Data with image type field
 slug: mssql-exportimport-table-data-with-image-type-field
 markmeta_title: MSSQL Export/Import Table Data with image type field

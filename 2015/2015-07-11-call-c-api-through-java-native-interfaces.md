@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2015-07-11 17:03:17+00:00
+markmeta_date: 2015-07-11 17:03:17
 excerpt: Call C API through Java Native Interfaces
 slug: call-c-api-through-java-native-interfaces
 markmeta_title: Call C API through Java Native Interfaces

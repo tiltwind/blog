@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2011-07-03 02:51:06+00:00
+markmeta_date: 2011-07-03 02:51:06
 slug: commons-httpclient-and-httpclient
 markmeta_title: commons-httpclient 和 httpclient的不同之处
 wordpress_id: 133

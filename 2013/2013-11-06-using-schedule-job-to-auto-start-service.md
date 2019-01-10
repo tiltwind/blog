@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2013-11-06 06:41:37+00:00
+markmeta_date: 2013-11-06 06:41:37
 excerpt: 利用Windows任务计划和shell脚本定时重启服务
 slug: using-schedule-job-to-auto-start-service
 markmeta_title: 利用Windows任务计划和shell脚本定时重启服务

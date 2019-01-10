@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2013-02-05 15:45:46+00:00
+markmeta_date: 2013-02-05 15:45:46
 excerpt: 谈谈工作态度和责任心
 slug: responsibility-and-attibute
 markmeta_title: 谈谈工作态度和责任心

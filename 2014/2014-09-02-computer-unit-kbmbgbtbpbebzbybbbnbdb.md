@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2014-09-02 09:24:52+00:00
+markmeta_date: 2014-09-02 09:24:52
 excerpt: 计算机存储计量单位KB/MB/GB/TB/PB/EB/ZB/YB/BB/NB/DB
 slug: computer-unit-kbmbgbtbpbebzbybbbnbdb
 markmeta_title: 计算机存储计量单位KB/MB/GB/TB/PB/EB/ZB/YB/BB/NB/DB

@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2014-12-12 07:51:51+00:00
+markmeta_date: 2014-12-12 07:51:51
 excerpt: Javadoc翻译——Spring @Configuration注解
 slug: javadoc-spring-configuration
 markmeta_title: Javadoc翻译——Spring @Configuration注解

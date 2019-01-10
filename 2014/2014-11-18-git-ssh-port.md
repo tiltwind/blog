@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2014-11-18 05:56:27+00:00
+markmeta_date: 2014-11-18 05:56:27
 excerpt: Git SSH连接端口
 slug: git-ssh-port
 markmeta_title: Git SSH连接端口

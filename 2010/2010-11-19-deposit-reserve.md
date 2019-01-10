@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2010-11-19 12:15:46+00:00
+markmeta_date: 2010-11-19 12:15:46
 slug: deposit-reserve
 markmeta_title: 存款准备金
 wordpress_id: 12

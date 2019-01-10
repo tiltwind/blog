@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2010-11-30 06:47:44+00:00
+markmeta_date: 2010-11-30 06:47:44
 slug: mobile_developer_journey
 markmeta_title: 移动开发者之路
 wordpress_id: 23

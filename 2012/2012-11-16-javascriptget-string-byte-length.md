@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2012-11-16 10:13:34+00:00
+markmeta_date: 2012-11-16 10:13:34
 excerpt: Javascript:Get string byte length
 slug: javascriptget-string-byte-length
 markmeta_title: Javascript:Get string byte length

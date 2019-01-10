@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2011-06-17 06:54:16+00:00
+markmeta_date: 2011-06-17 06:54:16
 slug: email-subject-format
 markmeta_title: Email subject format
 wordpress_id: 120

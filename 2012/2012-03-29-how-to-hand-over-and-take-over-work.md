@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2012-03-29 15:11:03+00:00
+markmeta_date: 2012-03-29 15:11:03
 slug: how-to-hand-over-and-take-over-work
 markmeta_title: 管理笔记－－如何更好的交接工作？
 wordpress_id: 234

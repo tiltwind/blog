@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2011-03-12 10:33:25+00:00
+markmeta_date: 2011-03-12 10:33:25
 slug: something
 markmeta_title: 周末的一些事儿
 wordpress_id: 77

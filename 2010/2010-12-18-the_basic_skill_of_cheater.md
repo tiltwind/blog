@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2010-12-18 16:39:08+00:00
+markmeta_date: 2010-12-18 16:39:08
 slug: the_basic_skill_of_cheater
 markmeta_title: 骗子的根本技巧
 wordpress_id: 40

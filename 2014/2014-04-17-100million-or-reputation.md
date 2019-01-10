@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2014-04-17 16:42:47+00:00
+markmeta_date: 2014-04-17 16:42:47
 excerpt: 用你的声誉换100万，你是否愿意？
 slug: 100million-or-reputation
 markmeta_title: 用你的声誉换100万，你是否愿意？

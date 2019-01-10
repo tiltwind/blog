@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2011-07-02 17:13:29+00:00
+markmeta_date: 2011-07-02 17:13:29
 slug: java-code-analysis-tools
 markmeta_title: Java code analysis tools
 wordpress_id: 130

@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2012-12-04 04:03:00+00:00
+markmeta_date: 2012-12-04 04:03:00
 excerpt: Enable Application Logging in Jboss Enterprise Application Platform 6
 slug: enable-application-logging-in-jboss-eap-6
 markmeta_title: Enable Application Logging in Jboss EAP 6

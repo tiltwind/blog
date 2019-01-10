@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2010-11-24 15:58:41+00:00
+markmeta_date: 2010-11-24 15:58:41
 excerpt: PHP数据库操作工具
 slug: php_db_access_tool
 markmeta_title: PHP数据库操作工具

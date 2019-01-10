@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2015-06-15 03:49:52+00:00
+markmeta_date: 2015-06-15 03:49:52
 slug: tibco-iprocess-activity-monitoring-and-work-queue-delta-publication
 markmeta_title: Tibco iProcess Activity Monitoring and Work Queue Delta Publication
 wordpress_id: 855

@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2014-09-23 04:09:07+00:00
+markmeta_date: 2014-09-23 04:09:07
 slug: git-branch-mangement
 markmeta_title: Git分支管理策略
 wordpress_id: 702

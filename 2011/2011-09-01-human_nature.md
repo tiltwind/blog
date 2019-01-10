@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2011-09-01 17:05:39+00:00
+markmeta_date: 2011-09-01 17:05:39
 slug: human_nature
 markmeta_title: 人的性格
 wordpress_id: 151

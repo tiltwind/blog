@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2013-08-04 08:51:06+00:00
+markmeta_date: 2013-08-04 08:51:06
 excerpt: 'Oracle ROWID '
 slug: oracle-rowid
 markmeta_title: Oracle ROWID Introduction

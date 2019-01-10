@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2010-12-28 06:27:38+00:00
+markmeta_date: 2010-12-28 06:27:38
 slug: ibm_future_tech_of_next_5_years
 markmeta_title: IBM预测未来5年5项科技
 wordpress_id: 46

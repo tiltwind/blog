@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2013-01-20 00:59:11+00:00
+markmeta_date: 2013-01-20 00:59:11
 excerpt: VMWare安装Gentoo Linux记录
 slug: vmware-install-gentoo
 markmeta_title: VMware安装Gentoo记录

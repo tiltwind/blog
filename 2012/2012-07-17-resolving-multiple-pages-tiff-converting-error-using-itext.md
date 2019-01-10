@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2012-07-17 09:20:33+00:00
+markmeta_date: 2012-07-17 09:20:33
 excerpt: Resolving multiple-pages tiff converting error EOFException  using iText
 slug: resolving-multiple-pages-tiff-converting-error-using-itext
 markmeta_title: Resolving multiple-pages tiff converting error using iText

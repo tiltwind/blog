@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2011-02-22 01:57:17+00:00
+markmeta_date: 2011-02-22 01:57:17
 excerpt: 产品过期日期应该打印在内包装盒上
 slug: product_usage_deadline_should_printed_on_packages
 markmeta_title: 产品过期日期应该打印在内包装盒上

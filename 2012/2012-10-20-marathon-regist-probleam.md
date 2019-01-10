@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2012-10-20 05:22:31+00:00
+markmeta_date: 2012-10-20 05:22:31
 excerpt: 厦门国际马拉松网上报名遇到的页面问题
 slug: marathon-regist-probleam
 markmeta_title: 厦门国际马拉松网上报名遇到的问题

@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2013-04-06 02:53:49+00:00
+markmeta_date: 2013-04-06 02:53:49
 excerpt: Kerberos Protocol Learning Note
 slug: kerberos-protocol-learning-note
 markmeta_title: Kerberos Protocol Learning Note

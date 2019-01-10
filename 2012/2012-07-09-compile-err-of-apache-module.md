@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2012-07-09 04:24:41+00:00
+markmeta_date: 2012-07-09 04:24:41
 slug: compile-err-of-apache-module
 markmeta_title: 编译apache module遇到的错误
 wordpress_id: 295

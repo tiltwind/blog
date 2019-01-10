@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2010-12-30 13:06:23+00:00
+markmeta_date: 2010-12-30 13:06:23
 slug: they_are_not_stupid
 markmeta_title: 他们不是傻子
 wordpress_id: 51

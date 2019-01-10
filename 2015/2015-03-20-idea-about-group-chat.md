@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2015-03-20 15:48:51+00:00
+markmeta_date: 2015-03-20 15:48:51
 slug: idea-about-group-chat
 markmeta_title: 关于聊天软件中群聊消息提醒方式的想法
 wordpress_id: 837

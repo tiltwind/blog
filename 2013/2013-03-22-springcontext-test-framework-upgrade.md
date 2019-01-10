@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2013-03-22 15:05:12+00:00
+markmeta_date: 2013-03-22 15:05:12
 excerpt: SpringContext测试框架升级，AbstractDependencyInjectionSpringContextTests.java升级使用AbstractTransactionalJUnit4SpringContextTests.java
 slug: springcontext-test-framework-upgrade
 markmeta_title: SpringContext测试框架升级

@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2013-09-25 03:41:39+00:00
+markmeta_date: 2013-09-25 03:41:39
 excerpt: Oracle:Get Table Data Size
 slug: oracleget-table-data-size
 markmeta_title: Oracle:Get Table Data Size

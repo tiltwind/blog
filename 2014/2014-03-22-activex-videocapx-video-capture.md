@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2014-03-22 15:56:46+00:00
+markmeta_date: 2014-03-22 15:56:46
 excerpt: 抓图录像ActiveX控件VideoCapx
 slug: activex-videocapx-video-capture
 markmeta_title: 抓图录像ActiveX控件VideoCapx

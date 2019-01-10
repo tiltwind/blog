@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2012-02-15 01:21:31+00:00
+markmeta_date: 2012-02-15 01:21:31
 slug: learning-c-programming-makefile-learning-materials
 markmeta_title: Makefile Learning Materials
 wordpress_id: 195

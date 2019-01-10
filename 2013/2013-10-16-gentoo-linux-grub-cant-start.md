@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2013-10-16 11:07:09+00:00
+markmeta_date: 2013-10-16 11:07:09
 excerpt: Gentoo Linux Grub 無法啓動問題
 slug: gentoo-linux-grub-cant-start
 markmeta_title: Gentoo:Grub 無法啓動的問題

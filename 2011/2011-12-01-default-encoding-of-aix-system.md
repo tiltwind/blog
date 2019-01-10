@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2011-12-01 12:40:31+00:00
+markmeta_date: 2011-12-01 12:40:31
 excerpt: 'Default Encoding of AIX System '
 slug: default-encoding-of-aix-system
 markmeta_title: 'Default Encoding of AIX System '

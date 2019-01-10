@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2014-06-29 06:58:25+00:00
+markmeta_date: 2014-06-29 06:58:25
 slug: replace-light
 markmeta_title: 换灯记
 wordpress_id: 620

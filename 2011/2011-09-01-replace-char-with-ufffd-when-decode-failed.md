@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2011-09-01 13:59:54+00:00
+markmeta_date: 2011-09-01 13:59:54
 slug: replace-char-with-ufffd-when-decode-failed
 markmeta_title: Replace special BIG5 character
 wordpress_id: 148

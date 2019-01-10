@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2011-11-11 08:41:19+00:00
+markmeta_date: 2011-11-11 08:41:19
 slug: isblankisempty-of-apache-stringutils
 markmeta_title: isBlank&isEmpty of Apache StringUtils
 wordpress_id: 165

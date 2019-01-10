@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2014-12-05 07:08:50+00:00
+markmeta_date: 2014-12-05 07:08:50
 excerpt: Web应用异常日志记录优化方案
 slug: web-error-log-method
 markmeta_title: Web应用异常日志记录优化方案

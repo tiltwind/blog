@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2014-01-21 08:20:12+00:00
+markmeta_date: 2014-01-21 08:20:12
 excerpt: BroadleafCommerce合并配置
 slug: broadleafcommerce-merge-config
 markmeta_title: BroadleafCommerce合并配置

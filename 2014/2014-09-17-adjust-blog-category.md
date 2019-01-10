@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2014-09-17 14:38:05+00:00
+markmeta_date: 2014-09-17 14:38:05
 excerpt: 博客文章分类调整
 slug: adjust-blog-category
 markmeta_title: 博客文章分类调整

@@ -1,6 +1,6 @@
 <!---
 markmeta_author: wongoo
-markmeta_date: 2014-01-24 01:53:29+00:00
+markmeta_date: 2014-01-24 01:53:29
 excerpt: Javascript动态加载国际化内容
 slug: javascript-dynamic-load-i18n
 markmeta_title: Javascript动态加载国际化内容
