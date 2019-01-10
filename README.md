@@ -2,7 +2,6 @@
 
 ## blog
 * [markindex.sh specification](/markindex), wongoo, 2019-01-09
-
 [2019](/2019)
 [2018](/2018)
 [2017](/2017)

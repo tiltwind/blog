@@ -134,16 +134,10 @@ function markindex_process_dir(){
 	done
 
 	# -------> start process navbar
-	echo "" > $process_dir/_navbar.md
-	sub_dir_count=$(find $process_dir -maxdepth 1 -type d | wc -l)
-	
-	if [ $sub_dir_count == 0 ]; then
-		cp $parent_dir/_navbar.md $process_dir/_navbar.md
-	else
-		if [[ "$dir_url_path" != "" ]]
-		then
-			echo "[$process_dir_name]($dir_url_path)" >> $parent_dir/_navbar.md
-		fi
+	rm -f $process_dir/_navbar.md
+	if [[ "$dir_url_path" != "" ]]
+	then
+		echo "[$process_dir_name]($dir_url_path)" >> $parent_dir/_navbar.md
 	fi
 }
 
@@ -157,6 +151,17 @@ function markindex_post_process(){
 	echo "" >> $markproj_dir/README.md
 	echo "## Tags" >> $markproj_dir/README.md
 	cat $markproj_dir/tags.md >> $markproj_dir/README.md
+
+	for dir in $(echo "${markproj_sub_dirs[@]}"|tr " " "\n" |grep "-"|sort -r|sed 's/^[^-]*-//')
+	do 
+		process_dir=$markproj_dir/$dir
+		parent_dir=${process_dir%/*}
+		if [ ! -f $process_dir/_navbar.md ]
+		then
+			cp $parent_dir/_navbar.md $process_dir/_navbar.md
+		fi
+	done
+
 }
 
 function markindex_process(){
