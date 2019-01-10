@@ -36,7 +36,8 @@ function markindex_all_dirs(){
 			continue
 		fi
 		level=$(echo $dir |tr "/" "\n" |wc -l)
-		markproj_sub_dirs+=("$level-$dir")
+		numlevel=$((100-$level))
+		markproj_sub_dirs+=("$numlevel-$dir")
 	done
 	cd $previous_dir
 }
@@ -162,7 +163,7 @@ function markindex_process(){
 	markindex_pre_process 
 	markindex_all_dirs
 	markindex_process_dir
-	for dir in $(echo "${markproj_sub_dirs[@]}"|tr " " "\n" |grep "-"|sort|sed 's/^[^-]*-//')
+	for dir in $(echo "${markproj_sub_dirs[@]}"|tr " " "\n" |grep "-"|sort -r|sed 's/^[^-]*-//')
 	do 
 		markindex_process_dir $dir
 	done

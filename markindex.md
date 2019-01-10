@@ -21,4 +21,3 @@ markmeta_tags: markdown,shell
 -->
 ```
 
-Currently, `markindex` only supports two level file structure.
