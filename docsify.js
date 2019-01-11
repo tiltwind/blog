@@ -1,85 +1,96 @@
- function GenPageId() {
-     var gid = document.location.href;
-     gid = gid.replace("http://", "");
-     gid = gid.replace("https://", "");
-     gid = gid.replace("sisopipo.com", "");
-     gid = gid.replace(".html", "");
+function dom(id) {
+    return document.getElementById(id)
+}
 
-     if (gid[gid.length - 1] == '/') {
-         gid = gid.substr(0, gid.length - 1);
-     }
-     var len = gid.lastIndexOf("/");
-     if (gid.length - len > 25) {
-         gid = gid.substr(len + 1);
-     } else {
-         len = gid.lastIndexOf("/", len - 1);
-         if (gid.length - len > 25) {
-             gid = gid.substr(len + 1);
-         }
-     }
-     if (gid.length > 50) {
-         gid = gid.replace(/[\W]/g, "");
-     }
-     if (gid.length > 50) {
-         gid = gid.substr(gid.length - 50);
-     }
-     return gid;
- }
+function ndom(n) {
+    return document.createElement(n)
+}
 
- var gitalk_first_loaded = false;
- var gitalk_reload_timer;
+function tagdom(n) {
+    return document.getElementsByTagName(n)[0]
+}
 
- function NewGitalk() {
-     return new Gitalk({
-         clientID: gitalk_client_id,
-         clientSecret: gitalk_client_secret,
-         repo: 'wongoo.github.io',
-         owner: 'wongoo',
-         admin: ['wongoo'],
-         id: GenPageId(),
-         language: 'zh-CN',
-         distractionFreeMode: true
-     });
- }
+function GenPageId() {
+    var gid = document.location.href;
+    gid = gid.replace("http://", "");
+    gid = gid.replace("https://", "");
+    gid = gid.replace(doc_domain, "");
+    gid = gid.replace(".html", "");
+    gid = gid.replace(".md", "");
+    gid = gid.replace(".markdown", "");
 
- const gitalk = NewGitalk();
+    if (gid[gid.length - 1] == '/') {
+        gid = gid.substr(0, gid.length - 1);
+    }
+    var len = gid.lastIndexOf("/");
+    if (gid.length - len > 25) {
+        gid = gid.substr(len + 1);
+    } else {
+        len = gid.lastIndexOf("/", len - 1);
+        if (gid.length - len > 25) {
+            gid = gid.substr(len + 1);
+        }
+    }
+    if (gid.length > 50) {
+        gid = gid.substr(gid.length - 50);
+    }
+    return gid;
+}
 
- function gitalk_loader() {
-     if (!gitalk_first_loaded) {
-         gitalk_first_loaded = true;
-         return
-     }
-     var c = document.getElementById(
-         'gitalk-container')
-     if (!c) {
-         return
-     }
-     c.innerHTML = "";
-     if (gitalk_reload_timer) {
-         clearTimeout(
-             gitalk_reload_timer)
-     }
-     gitalk_reload_timer = setTimeout(
-         function() {
-             NewGitalk().render(
-                 'gitalk-container'
-             );
-         }, 10 * 1000);
- }
+function NewGitalk() {
+    return new Gitalk({
+        clientID: gitalk_client_id,
+        clientSecret: gitalk_client_secret,
+        repo: gitalk_repo,
+        owner: gitalk_user,
+        admin: [gitalk_user],
+        id: GenPageId(),
+        language: 'zh-CN',
+        distractionFreeMode: true
+    });
+}
 
- window.$docsify = {
-     name: doc_title,
-     repo: '',
-     themeColor: '#19BE6B',
-     loadSidebar: false,
-     subMaxLevel: 4,
-     loadNavbar: true,
-     notFoundPage: true,
-     search: 'auto',
-     basePath: doc_base_url,
-     plugins: [
-         function(hook, vm) {
-             hook.doneEach(gitalk_loader);
-         }
-     ]
- }
+const gitalk = NewGitalk(); // docsify gitalk plugin init needed
+
+function reset_gitalk_container() {
+    var c = dom("gitalk-container")
+    if (c) {
+        c.innerHTML = ""
+    } else {
+        c = ndom("div")
+        c.setAttribute("id", "gitalk-container")
+        tagdom("article").appendChild(c)
+    }
+    return c
+}
+
+var gitalk_reload_timer;
+
+function gitalk_loader() {
+    if (gitalk_reload_timer) {
+        clearTimeout(
+            gitalk_reload_timer)
+    }
+    reset_gitalk_container()
+    gitalk_reload_timer = setTimeout(
+        function() {
+            NewGitalk().render("gitalk-container");
+        }, 5 * 1000);
+}
+
+window.$docsify = {
+    name: doc_title,
+    repo: '',
+    themeColor: '#19BE6B',
+    loadSidebar: false,
+    subMaxLevel: 4,
+    loadNavbar: true,
+    notFoundPage: true,
+    search: 'auto',
+    basePath: doc_base_url,
+    plugins: [
+        function(hook, vm) {
+            hook.doneEach(gitalk_loader);
+        }
+    ]
+}
