@@ -29,48 +29,10 @@
  var gitalk_first_loaded = false;
  var gitalk_reload_timer;
 
- window.$docsify = {
-     name: '望哥的博客',
-     repo: '',
-     themeColor: '#19BE6B',
-     loadSidebar: false,
-     subMaxLevel: 4,
-     loadNavbar: true,
-     notFoundPage: true,
-     search: 'auto',
-     basePath: "https://raw.githubusercontent.com/wongoo/blog/master/",
-     plugins: [
-         function(hook, vm) {
-             hook.doneEach(function() {
-                 if (!gitalk_first_loaded) {
-                     gitalk_first_loaded = true;
-                     return
-                 }
-                 var c = document.getElementById(
-                     'gitalk-container')
-                 if (c) {
-                     c.innerHTML = "";
-                     if (gitalk_reload_timer) {
-                         clearTimeout(
-                             gitalk_reload_timer)
-                     }
-                     gitalk_reload_timer = setTimeout(
-                         function() {
-                             NewGitalk().render(
-                                 'gitalk-container'
-                             );
-                         }, 20 * 1000);
-                 }
-
-             });
-         }
-     ]
- }
-
  function NewGitalk() {
      return new Gitalk({
-         clientID: '2d9d63331c0adf11342f',
-         clientSecret: '1aef93fd1152f53fd4fe261a133c3c779043c99d',
+         clientID: gitalk_client_id,
+         clientSecret: gitalk_client_secret,
          repo: 'wongoo.github.io',
          owner: 'wongoo',
          admin: ['wongoo'],
@@ -79,4 +41,45 @@
          distractionFreeMode: true
      });
  }
+
  const gitalk = NewGitalk();
+
+ function gitalk_loader() {
+     if (!gitalk_first_loaded) {
+         gitalk_first_loaded = true;
+         return
+     }
+     var c = document.getElementById(
+         'gitalk-container')
+     if (!c) {
+         return
+     }
+     c.innerHTML = "";
+     if (gitalk_reload_timer) {
+         clearTimeout(
+             gitalk_reload_timer)
+     }
+     gitalk_reload_timer = setTimeout(
+         function() {
+             NewGitalk().render(
+                 'gitalk-container'
+             );
+         }, 10 * 1000);
+ }
+
+ window.$docsify = {
+     name: doc_title,
+     repo: '',
+     themeColor: '#19BE6B',
+     loadSidebar: false,
+     subMaxLevel: 4,
+     loadNavbar: true,
+     notFoundPage: true,
+     search: 'auto',
+     basePath: doc_base_url,
+     plugins: [
+         function(hook, vm) {
+             hook.doneEach(gitalk_loader);
+         }
+     ]
+ }

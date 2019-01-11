@@ -169,12 +169,13 @@ function markindex_process_dir(){
 	rm -f $process_dir/_navbar.md
 	if [[ "$relative_url" != "" ]]
 	then
-		echo "[$process_dir_name]($relative_url)" >> $parent_dir/_navbar.md
+		echo "[$process_dir_name]($relative_url/)" >> $parent_dir/_navbar.md
 	fi
 }
 
 function markindex_post_process(){
 	echo "" >> $markproj_dir/README.md
+	echo "## Navgation" >> $markproj_dir/README.md
 	cat $markproj_dir/_navbar.md >> $markproj_dir/README.md
 	echo "" >> $markproj_dir/README.md
 
@@ -193,6 +194,10 @@ function markindex_post_process(){
 		then
 			cp $parent_dir/_navbar.md $process_dir/_navbar.md
 		fi
+
+		echo "" >> $process_dir/README.md
+		echo "## Navgation" >> $process_dir/README.md
+		cat $process_dir/_navbar.md >> $process_dir/README.md
 	done
 
 }
