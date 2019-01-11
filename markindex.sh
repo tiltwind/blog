@@ -1,13 +1,32 @@
-markconf_title="望哥的博客"
-markconf_url=http://blog.sisopipo.com
-markconf_ignore_dirs=("category" "tags" "media" "static")
+#!/bin/sh
+# 
+# ------------------------------------
+# author: gelnyang@163.com
+# created: 2019/01/10
+# 
+# `markindex.sh` generate markdown structure files for [docsify.js](https://github.com/docsifyjs/docsify), include `_navbar.md`, `README.md`.
+# markdown files MUST contain the following metadata at the begining , eg:
+# <!---
+# markmeta_author: wongoo
+# markmeta_date: 2019-01-09
+# markmeta_title: markindex.sh specification
+# markmeta_categories: tools
+# markmeta_tags: markdown,shell
+# -->
+# 
+# usage: ./markindex.sh "my markdown doc" "http://doc.mydomain.com" "asc" "<DIR>"
+# ------------------------------------
 
-markproj_dir=$1
+
+markconf_title=$1
+markconf_url=$2
+markconf_nav_sort=$3
+markproj_dir=$4
 if [ "$markproj_dir" == "" ]; then
 	markproj_dir=$(pwd)
 fi
 
-markproj_dir_len=${#markproj_dir} 
+markconf_ignore_dirs=("category" "tags" "media" "static" "files" "tag" "categories")
 markproj_sub_dirs=()
 
 function markindex_is_ignore_dir(){
@@ -36,9 +55,22 @@ function markindex_all_dirs(){
 			continue
 		fi
 		level=$(echo $dir |tr "/" "\n" |wc -l)
-		numlevel=$((100-$level))
+		if [[ "$markconf_nav_sort" == "asc" ]]	
+		then
+			numlevel=$((10+$level))
+		else
+			numlevel=$((100-$level))
+		fi
 		markproj_sub_dirs+=("$numlevel-$dir")
 	done
+
+	if [[ "$markconf_nav_sort" == "asc" ]]	
+	then
+		markproj_sub_dirs=$(echo "${markproj_sub_dirs[@]}"|tr " " "\n" |grep "-"|sort |sed 's/^[^-]*-//')
+	else
+		markproj_sub_dirs=$(echo "${markproj_sub_dirs[@]}"|tr " " "\n" |grep "-"|sort -r|sed 's/^[^-]*-//')
+	fi
+
 	cd $previous_dir
 }
 
@@ -55,8 +87,8 @@ function markindex_pre_process(){
 	rm -f $markproj_dir/category/*.md
 	echo "" > $markproj_dir/categories.md
 	
-	mkdir -p $markproj_dir/tags 
-	rm -f $markproj_dir/tags/*.md
+	mkdir -p $markproj_dir/tag 
+	rm -f $markproj_dir/tag/*.md
 	echo "" > $markproj_dir/tags.md
 	
 	echo "# [$markconf_title]($markconf_url)" > $markproj_dir/README.md
@@ -64,12 +96,12 @@ function markindex_pre_process(){
 }
 
 function markindex_process_dir(){
-	dir_url_path="/"$1
+	relative_url="/"$1
 	if [[ "$1" == "" ]]
 	then
-		dir_url_path=""
+		relative_url=""
 	fi
-	process_dir=$markproj_dir$dir_url_path
+	process_dir=$markproj_dir$relative_url
 	process_dir_name="${process_dir##*/}"
 
 	echo "process dir $process_dir"
@@ -78,14 +110,14 @@ function markindex_process_dir(){
 	readme=$process_dir/README.md
 	
 	# ------------> start process files
-	if [ "$dir_url_path" != "" ]; then
+	if [ "$relative_url" != "" ]; then
 		echo "# [$markconf_title]($markconf_url)" > $readme
 		echo "" >> $readme
 	fi
 	
 	echo "## $process_dir_name" >> $readme
 
-	files=$(find $process_dir -type f -name "*.md" -maxdepth 1|grep -v navbar|grep -v README|grep -v categories |grep -v tags |sort -r)
+	files=$(find $process_dir -type f -name "*.md" -maxdepth 1|grep -v _navbar|grep -v README|grep -v categories |grep -v tags |grep -v _sidebar |sort -r)
 	for file in $files
 	do
 		title=$(grep -m1 "markmeta_title:" $file | sed 's/[^:]*://' |xargs)
@@ -100,7 +132,7 @@ function markindex_process_dir(){
 			author="noname"
 	        fi	
 
-		echo "* [$title]($dir_url_path/$filename), $author, $date" >> $readme
+		echo "* [$title]($relative_url/$filename), $author, $date" >> $readme
 
 		
 		# ----> parse categories	
@@ -115,7 +147,7 @@ function markindex_process_dir(){
 				echo " [$cate](/category/$cate)" >> $markproj_dir/categories.md
 			fi
 
-			echo "* [$title]($dir_url_path/$filename),$date" >> $markproj_dir/category/$cate.md
+			echo "* [$title]($relative_url/$filename),$date" >> $markproj_dir/category/$cate.md
 		done
 	
 		# ----> parse tags	
@@ -123,21 +155,21 @@ function markindex_process_dir(){
 		for tag in $tags
 		do
 			tag=$(echo $tag | tr '[:upper:]' '[:lower:]') # to lowercase
-			if [ "$tag" != "" ] && [ ! -f  $markproj_dir/tags/$tag.md ]
+			if [ "$tag" != "" ] && [ ! -f  $markproj_dir/tag/$tag.md ]
 			then
-				echo "# $tag" >>  $markproj_dir/tags/$tag.md
-				echo " [$tag](/tags/$tag)" >>  $markproj_dir/tags.md
+				echo "# $tag" >>  $markproj_dir/tag/$tag.md
+				echo " [$tag](/tag/$tag)" >>  $markproj_dir/tags.md
 			fi
 
-			echo "* [$title]($dir_url_path/$filename),$date" >> $markproj_dir/tags/$tag.md
+			echo "* [$title]($relative_url/$filename),$date" >> $markproj_dir/tag/$tag.md
 		done
 	done
 
 	# -------> start process navbar
 	rm -f $process_dir/_navbar.md
-	if [[ "$dir_url_path" != "" ]]
+	if [[ "$relative_url" != "" ]]
 	then
-		echo "[$process_dir_name]($dir_url_path)" >> $parent_dir/_navbar.md
+		echo "[$process_dir_name]($relative_url)" >> $parent_dir/_navbar.md
 	fi
 }
 
@@ -153,7 +185,7 @@ function markindex_post_process(){
 	echo "## Tags" >> $markproj_dir/README.md
 	cat $markproj_dir/tags.md >> $markproj_dir/README.md
 
-	for dir in $(echo "${markproj_sub_dirs[@]}"|tr " " "\n" |grep "-"|sort -r|sed 's/^[^-]*-//')
+	for dir in $markproj_sub_dirs
 	do 
 		process_dir=$markproj_dir/$dir
 		parent_dir=${process_dir%/*}
@@ -169,7 +201,7 @@ function markindex_process(){
 	markindex_pre_process 
 	markindex_all_dirs
 	markindex_process_dir
-	for dir in $(echo "${markproj_sub_dirs[@]}"|tr " " "\n" |grep "-"|sort -r|sed 's/^[^-]*-//')
+	for dir in $markproj_sub_dirs
 	do 
 		markindex_process_dir $dir
 	done
