@@ -1,6 +1,7 @@
 # [望哥的博客](http://blog.sisopipo.com)
 
 ## 2019
+* [技术人的成长之路](/2019/2019-01-18-growth-road-for-technologist), 望哥, 2019-01-18
 * [2018年终小结](/2019/2019-01-03-retrospect2018), 望哥, 2019-01-03
 
 ## Navgation
