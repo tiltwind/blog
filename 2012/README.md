@@ -32,7 +32,7 @@
 * [Makefile Learning Materials](/2012/2012-02-15-learning-c-programming-makefile-learning-materials), wongoo, 2012-02-15 01:21:31
 * [反思异常数据导致项目运行异常问题](/2012/2012-02-06-rethink_exception_because_of_speical_data), wongoo, 2012-02-06 11:13:38
 
-## Navgation
+## Navigation
 [2019](/2019/)
 [2018](/2018/)
 [2017](/2017/)

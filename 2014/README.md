@@ -31,7 +31,7 @@
 * [BroadleafCommerce合并配置](/2014/2014-01-21-broadleafcommerce-merge-config), wongoo, 2014-01-21 08:20:12
 * [认识Java电子商务开源框架BroadleafCommerce](/2014/2014-01-21-about-broadleafcommerce), wongoo, 2014-01-21 07:58:31
 
-## Navgation
+## Navigation
 [2019](/2019/)
 [2018](/2018/)
 [2017](/2017/)

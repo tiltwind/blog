@@ -30,7 +30,7 @@
 * [Oracle MD5 Encode](/2013/2013-01-14-oracle-md5-encode), wongoo, 2013-01-14 07:25:40
 * [The change from programmer to manager](/2013/2013-01-11-the-change-from-programmer-to-manager), wongoo, 2013-01-11 03:02:38
 
-## Navgation
+## Navigation
 [2019](/2019/)
 [2018](/2018/)
 [2017](/2017/)

@@ -13,7 +13,7 @@
 * [存款准备金](/2010/2010-11-19-deposit-reserve), wongoo, 2010-11-19 12:15:46
 * [SisoPipo Update](/2010/2010-11-15-sisopipoupdate), wongoo, 2010-11-15 15:52:32
 
-## Navgation
+## Navigation
 [2019](/2019/)
 [2018](/2018/)
 [2017](/2017/)

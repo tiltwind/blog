@@ -175,7 +175,7 @@ function markindex_process_dir(){
 
 function markindex_post_process(){
 	echo "" >> $markproj_dir/README.md
-	echo "## Navgation" >> $markproj_dir/README.md
+	echo "## Navigation" >> $markproj_dir/README.md
 	cat $markproj_dir/_navbar.md >> $markproj_dir/README.md
 	echo "" >> $markproj_dir/README.md
 
@@ -196,7 +196,7 @@ function markindex_post_process(){
 		fi
 
 		echo "" >> $process_dir/README.md
-		echo "## Navgation" >> $process_dir/README.md
+		echo "## Navigation" >> $process_dir/README.md
 		cat $process_dir/_navbar.md >> $process_dir/README.md
 	done
 
