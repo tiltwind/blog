@@ -23,4 +23,4 @@ markmeta_tags: dependency,spring,spring-io
 </dependency>
 ```
 
-参考：[Spring IO Platform Reference Guide](http://docs.spring.io/platform/docs/1.0.0.RELEASE/reference/htmlsingle/)
+参考：[Spring IO Platform Reference Guide](http://docs.spring.io/platform/docs/current/reference/htmlsingle/)
