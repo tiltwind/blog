@@ -13,21 +13,14 @@ markmeta_tags: dependency,spring,spring-io
 
 公司中我也创建了一个类似spring io platform的版本依赖定义的项目，其他多个开发项目都在用。后续将考虑修改此依赖定义项目，先引入spring io platform，如果有特别需要的java库，再另外添加！ 以后java库升级就不那么麻烦了！
 
-
-    
-    
-    
-            
-                
-                    io.spring.platform
-                    platform-bom
-                    1.0.0.RELEASE
-                    pom
-                    import
-                
-            
-        
-    
-
+```
+<!-- https://mvnrepository.com/artifact/io.spring.platform/platform-bom -->
+<dependency>
+    <groupId>io.spring.platform</groupId>
+    <artifactId>platform-bom</artifactId>
+    <version>Cairo-RELEASE</version>
+    <type>pom</type>
+</dependency>
+```
 
 参考：[Spring IO Platform Reference Guide](http://docs.spring.io/platform/docs/1.0.0.RELEASE/reference/htmlsingle/)
