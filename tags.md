@@ -1,6 +1,7 @@
 
  [markdown](/tag/markdown)
  [shell](/tag/shell)
+ [idea](/tag/idea)
  [成长](/tag/成长)
  [golang](/tag/golang)
  [pprof](/tag/pprof)
@@ -251,7 +252,6 @@
  [conversion](/tag/conversion)
  [struts](/tag/struts)
  [programming](/tag/programming)
- [idea](/tag/idea)
  [invocation](/tag/invocation)
  [library](/tag/library)
  [automake](/tag/automake)

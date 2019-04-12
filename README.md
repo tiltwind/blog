@@ -2,6 +2,7 @@
 
 ## blog
 * [markindex.sh specification](/markindex), wongoo, 2019-01-09
+* [闪现的灵感](/flash-idea), wongoo, 2019-01-09
 
 ## Navigation
 [2019](/2019/)
@@ -18,6 +19,7 @@
 ## Categories
 
  [工具](/category/工具)
+ [idea](/category/idea)
  [经验](/category/经验)
  [算法与数学](/category/算法与数学)
  [札记](/category/札记)
@@ -46,6 +48,7 @@
 
  [markdown](/tag/markdown)
  [shell](/tag/shell)
+ [idea](/tag/idea)
  [成长](/tag/成长)
  [golang](/tag/golang)
  [pprof](/tag/pprof)
@@ -296,7 +299,6 @@
  [conversion](/tag/conversion)
  [struts](/tag/struts)
  [programming](/tag/programming)
- [idea](/tag/idea)
  [invocation](/tag/invocation)
  [library](/tag/library)
  [automake](/tag/automake)

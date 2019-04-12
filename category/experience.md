@@ -2,6 +2,7 @@
 
 ## blog
 * [markindex.sh specification](/markindex), wongoo, 2019-01-09
+* [闪现的灵感](/flash-idea), wongoo, 2019-01-09
 # experience
 * [程序会做正确的事——spring scheduled job未执行的事实](/2017/2017-09-02-the-truth-why-spring-scheduled-job-not-running),2017-09-02
 * [how to use xcode to develop c project](/2017/2017-04-27-how-to-use-xcode-to-develop-c-project),2017-04-27

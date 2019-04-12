@@ -2,5 +2,6 @@
 
 ## blog
 * [markindex.sh specification](/markindex), wongoo, 2019-01-09
+* [闪现的灵感](/flash-idea), wongoo, 2019-01-09
 # note
 * [Spring Cloud Stream Messaging Annotations](/2017/2017-02-21-spring-cloud-stream-messaging-annotations),2017-02-21
