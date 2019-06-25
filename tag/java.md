@@ -1,4 +1,5 @@
 # java
+* [一次关于 maven 包冲突问题解决记录](/2019/2019-06-25-maven-jar-conflict-record),2019-06-25
 * [JVM架构](/2018/2018-08-30-jvm-arch),2018-08-30
 * [Hotspot内存结构及垃圾回收](/2018/2018-08-30-hotspot-memory-and-gc),2018-08-30
 * [Call C API through Java Native Interfaces](/2015/2015-07-11-call-c-api-through-java-native-interfaces),2015-07-11 17:03:17
