@@ -3,6 +3,7 @@
 ## blog
 * [markindex.sh specification](/markindex), wongoo, 2019-01-09
 * [闪现的灵感](/flash-idea), wongoo, 2019-01-09
+* [计算机的故事](/cs-stories), wongoo, 2019-01-09
 # management
 * [何时与人讨论?](/2017/2017-12-12-discuss-with-others),2017-12-12
 * [普通员工和管理者之间的差别](/2015/2015-08-16-diff-between-employee-and-manager),2015-08-16 06:48:11

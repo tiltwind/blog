@@ -3,6 +3,7 @@
 ## blog
 * [markindex.sh specification](/markindex), wongoo, 2019-01-09
 * [闪现的灵感](/flash-idea), wongoo, 2019-01-09
+* [计算机的故事](/cs-stories), wongoo, 2019-01-09
 # inspiration
 * [打倒重新审视人生](/2017/2017-10-24-different_sence_of_life),2017-10-24
 * [面对困难的态度](/2015/2015-08-09-attitude-for-difficuty),2015-08-09 16:24:00

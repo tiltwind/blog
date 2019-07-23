@@ -1,6 +1,7 @@
 
  [工具](/category/工具)
  [idea](/category/idea)
+ [story](/category/story)
  [经验](/category/经验)
  [算法与数学](/category/算法与数学)
  [札记](/category/札记)

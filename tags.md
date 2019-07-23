@@ -2,6 +2,7 @@
  [markdown](/tag/markdown)
  [shell](/tag/shell)
  [idea](/tag/idea)
+ [story](/tag/story)
  [maven](/tag/maven)
  [java](/tag/java)
  [成长](/tag/成长)

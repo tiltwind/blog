@@ -3,6 +3,7 @@
 ## blog
 * [markindex.sh specification](/markindex), wongoo, 2019-01-09
 * [闪现的灵感](/flash-idea), wongoo, 2019-01-09
+* [计算机的故事](/cs-stories), wongoo, 2019-01-09
 # collection
 * [Maven Surefire Plugin](/2016/2016-03-27-maven-surefire-plugin),
 * [Git远程操作详解](/2014/2014-09-23-git-remote-commands),2014-09-23 07:44:10

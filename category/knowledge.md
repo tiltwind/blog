@@ -3,6 +3,7 @@
 ## blog
 * [markindex.sh specification](/markindex), wongoo, 2019-01-09
 * [闪现的灵感](/flash-idea), wongoo, 2019-01-09
+* [计算机的故事](/cs-stories), wongoo, 2019-01-09
 # knowledge
 * [Maven Surefire Plugin](/2016/2016-03-27-maven-surefire-plugin),
 * [Required Oracle Privilege for Tibco iProcess installation user](/2015/2015-06-15-required-oracle-privilege-for-tibco-iprocess-installation-user),2015-06-15 04:11:25
