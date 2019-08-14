@@ -11,7 +11,7 @@ markmeta_tags: idea
 作者: 望哥
 
 20190813:
-- 业务场景决定技术架构
+- 业务场景决定技术架构. Business drives Architecture
 
 20190412: 
 - **灵感来得快，去得也快！抓住她，让她围绕你徘徊！**
