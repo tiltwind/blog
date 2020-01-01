@@ -14,6 +14,8 @@
 * [SisoPipo Update](/2010/2010-11-15-sisopipoupdate), wongoo, 2010-11-15 15:52:32
 
 ## Navigation
+[others](/others/)
+[2020](/2020/)
 [2019](/2019/)
 [2018](/2018/)
 [2017](/2017/)

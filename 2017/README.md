@@ -14,6 +14,8 @@
 * [Base64 encode decode shell script](/2017/2017-01-08-base64-encode-decode-shell), wongoo, 2017-01-08
 
 ## Navigation
+[others](/others/)
+[2020](/2020/)
 [2019](/2019/)
 [2018](/2018/)
 [2017](/2017/)

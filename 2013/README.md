@@ -31,6 +31,8 @@
 * [The change from programmer to manager](/2013/2013-01-11-the-change-from-programmer-to-manager), wongoo, 2013-01-11 03:02:38
 
 ## Navigation
+[others](/others/)
+[2020](/2020/)
 [2019](/2019/)
 [2018](/2018/)
 [2017](/2017/)

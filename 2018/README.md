@@ -6,12 +6,10 @@
 * [对厦门一七四医院住院部的感谢和建议](/2018/2018-09-11-thanks-and-suggestion-to-174), 望哥, 2018-09-11 09:04:27
 * [解读golang gctrace 信息](/2018/2018-09-11-golang-gctrace-info), 望哥, 2018-09-11 10:53:43
 * [前交叉韧带受伤医疗记录](/2018/2018-09-09-acl-medical-records), 望哥, 2018-09-09
-* [JVM架构](/2018/2018-08-30-jvm-arch), 望哥, 2018-08-30
-* [Hotspot内存结构及垃圾回收](/2018/2018-08-30-hotspot-memory-and-gc), 望哥, 2018-08-30
 * [Go各版本GC算法及STW耗时](/2018/2018-08-01-golang-gc-algorithm-and-pause), 望哥, 2018-08-01
 * [飞锅侠OST敏捷线下活动回顾](/2018/2018-07-29-throw-pot-ost-salon), 望哥, 2018-07-29
 * [飞锅敏捷沙龙回顾](/2018/2018-07-23-throw-pot-scrum-salon), 望哥, 2018-07-19
-* [Go内存模型](/2018/2018-07-19-go-memory-model), 望哥, 2018-07-19
+* [Go内存模型](/2018/2018-07-19-go-memory-model), wongoo, 2018-12-21
 * [aws sqs lambda 范例](/2018/2018-07-07-aws-sqs-lambda-example), 望哥, 2018-07-07
 * [aws api gateway配置custom domain name遇到的那些坑](/2018/2018-07-07-aws-apigw-custom-domain-name), 望哥, 2018-07-07
 * [蔡格尼克效应](/2018/2018-06-03-zeigarnik_effect), 望哥, 2018-06-03
@@ -24,6 +22,8 @@
 * [CQRS Guide](/2018/2018-01-24-cqrs-guide), wongoo, 2018-01-24
 
 ## Navigation
+[others](/others/)
+[2020](/2020/)
 [2019](/2019/)
 [2018](/2018/)
 [2017](/2017/)

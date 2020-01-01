@@ -33,6 +33,8 @@
 * [反思异常数据导致项目运行异常问题](/2012/2012-02-06-rethink_exception_because_of_speical_data), wongoo, 2012-02-06 11:13:38
 
 ## Navigation
+[others](/others/)
+[2020](/2020/)
 [2019](/2019/)
 [2018](/2018/)
 [2017](/2017/)

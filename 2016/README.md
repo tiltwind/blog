@@ -14,6 +14,8 @@
 * [什么原因导致需求频繁的变更?](/2016/2016-03-04-why-change-requirement-frequently), noname, 
 
 ## Navigation
+[others](/others/)
+[2020](/2020/)
 [2019](/2019/)
 [2018](/2018/)
 [2017](/2017/)
