@@ -25,7 +25,12 @@ function GenPageId() {
       gid = git.substr(index);
     }
   }
-
+  if (gid.startsWith("#")) {
+    gid = gid.substr(1);
+  }
+  if (gid.startsWith("/")) {
+    gid = gid.substr(1);
+  }
   if (gid[gid.length - 1] == '/') {
     gid = gid.substr(0, gid.length - 1);
   }
