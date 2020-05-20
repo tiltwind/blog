@@ -19,6 +19,13 @@ function GenPageId() {
   gid = gid.replace(".md", "");
   gid = gid.replace(".markdown", "");
 
+  if (gid.startWith("?")) {
+    let index = gid.indexOf("#");
+    if (index > 0) {
+      gid = git.substr(index);
+    }
+  }
+
   if (gid[gid.length - 1] == '/') {
     gid = gid.substr(0, gid.length - 1);
   }
@@ -39,7 +46,7 @@ function GenPageId() {
 
 function NewGitalk() {
   return new Gitalk({
-    accessToken: "1a2bbafc8471f0bfc8b140684cdda09b29767eb9",
+    accessToken: gitalk_access_token,
     clientID: gitalk_client_id,
     clientSecret: gitalk_client_secret,
     repo: gitalk_repo,
