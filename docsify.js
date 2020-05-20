@@ -19,7 +19,7 @@ function GenPageId() {
   gid = gid.replace(".md", "");
   gid = gid.replace(".markdown", "");
 
-  if (gid.startWith("?")) {
+  if (gid.startsWith("?")) {
     let index = gid.indexOf("#");
     if (index > 0) {
       gid = git.substr(index);
