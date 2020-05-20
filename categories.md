@@ -3,6 +3,7 @@
  [idea](/category/idea)
  [story](/category/story)
  [其他](/category/其他)
+ [algorithm](/category/algorithm)
  [cs](/category/cs)
  [经验](/category/经验)
  [算法与数学](/category/算法与数学)

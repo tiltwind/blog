@@ -1,6 +1,7 @@
 # [望哥的博客](http://blog.sisopipo.com)
 
 ## 2020
+* [对有依赖关系的元素进行顺序调整](/2020/2020-05-20-dependency-element-order-algorithm), wongoo, 2020-05-20
 * [字符编码](/2020/2020-05-19-unicode-charset), wongoo, 2020-05-18
 * [2019年终小结](/2020/2020-01-01-retrospect2019), 望哥, 2020-01-01
 
