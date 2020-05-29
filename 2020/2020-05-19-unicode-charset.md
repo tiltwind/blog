@@ -24,7 +24,7 @@ unicode的码位范围 `U+0000 - U+10FFFF`, 共17个平面 `0 - 0x10`，每个�
 
 第一个平面 U+0000 - U+FFFF 成为 BMP (Basic Multilingual Plane) **基本多文种平面**, 其已包含绝大部分常用字符。
 
-其余16号平面 `U+100000 - U+10FFFF` 称为 Supplementary Plane **补充平面**。
+其余16号平面 `U+10000 - U+10FFFF` 称为 Supplementary Plane **补充平面**。
 
 
 参考：
@@ -35,12 +35,12 @@ unicode的码位范围 `U+0000 - U+10FFFF`, 共17个平面 `0 - 0x10`，每个�
 
 ## 2. UCS
 
-UCS Universal Coded Character Set 是由 ISO 维护的，以 ISO/IEC 10646 标准发布， 和unicode保持同步，码位一一对应。
+UCS (Universal Coded Character Set) 是由 ISO 维护的，以 ISO/IEC 10646 标准发布， 和unicode保持同步，码位一一对应。
 
 
 UCS-2 和 UCS-4 是 UCS 的一种固定长度编码格式。
 
-UCS-2 用2个字节来表示一个字符，和 0 - 65535 码位的字符一样映射， 所以UCS-2能够表示 BMP 所有码位，但却无法表示操过BMP范围的字符。
+UCS-2 用2个字节来表示一个字符，和 0 - 65535 码位的字符一一映射， 所以UCS-2能够表示 BMP 所有码位，但却无法表示操过BMP范围的字符。
 
 UC2-4 用4个字节来表示一个字符(实际只有31位，最高位必须是0)编码。
 UCS-4根据最高位为0的最高字节分成2^7=128个group。
@@ -51,7 +51,7 @@ UCS-4中高两个字节为0的码位称为BMP;
 UCS-4的BMP去掉前面两个零字节就得到UCS-2; 
 UCS-2加上两个零字节就得到UCS-4中的BMP。
 
-理论上UCS-4编码范围能达到U+7FFFFFFF，但是因为unicode和iso达成共识，只会用17个平面内的字符，所以UTF-32是UCS-4的子集。但是UTF-16是定长的编码，和UCS-4无论实现和编码都是基本一样的。
+理论上UCS-4编码范围能达到U+7FFFFFFF，但是因为iso和unicode达成共识，只会用17个平面内的字符。UTF-32是定长的编码，和UCS-4无论实现和编码都是基本一样的，UTF-32是UCS-4的子集。
 
 当前，Unicode深入人心，且UTF-8大行其道，UCS编码基本被等同于UTF-16，UTF-32了，所以目前UCS基本谈出人们的视野中。（Windows NT用的就是UCS-2）
 
@@ -116,12 +116,12 @@ UTF-8 支持unicode所有码位的编码，按照UTF-8标准：
 
 具体的表格如下, 支持最多6字节，但最大的unicode码位也只需4字节： 
 ```
-1 bytes U+0000  - U+007F  : 0xxxxxxx 
-2 bytes U+0080  - U+07FF  : 110xxxxx 10xxxxxx 
-3 bytes U+0800  - U+FFFF  : 1110xxxx 10xxxxxx 10xxxxxx 
-4 bytes U+10000 - U+10FFFF: 11110xxx 10xxxxxx 10xxxxxx 10xxxxxx 
-5 bytes           NOT USED: 111110xx 10xxxxxx 10xxxxxx 10xxxxxx 10xxxxxx 
-6 bytes           NOT USED: 1111110x 10xxxxxx 10xxxxxx 10xxxxxx 10xxxxxx 10xxxxxx 
+1 bytes U+0000    - U+007F    : 0xxxxxxx 
+2 bytes U+0080    - U+07FF    : 110xxxxx 10xxxxxx 
+3 bytes U+0800    - U+FFFF    : 1110xxxx 10xxxxxx 10xxxxxx 
+4 bytes U+10000   - U+10FFFF  : 11110xxx 10xxxxxx 10xxxxxx 10xxxxxx 
+5 bytes U+200000  - U+3FFFFFF : 111110xx 10xxxxxx 10xxxxxx 10xxxxxx 10xxxxxx 
+6 bytes U+4000000 - U+7FFFFFFF: 1111110x 10xxxxxx 10xxxxxx 10xxxxxx 10xxxxxx 10xxxxxx 
 ```
 
 很明显，以11开头的，最左边的0左边有多少个1，那这个UTF-8的表示长度就有多少个字节.
