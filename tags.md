@@ -4,6 +4,7 @@
  [idea](/tag/idea)
  [story](/tag/story)
  [其他](/tag/其他)
+ [tree](/tag/tree)
  [algorithm](/tag/algorithm)
  [unicode](/tag/unicode)
  [charset](/tag/charset)
