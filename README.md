@@ -7,6 +7,8 @@
 
 ## Navigation
 [others](/others/)
+[2023](/2023/)
+[2022](/2022/)
 [2020](/2020/)
 [2019](/2019/)
 [2018](/2018/)
@@ -25,6 +27,8 @@
  [idea](/category/idea)
  [story](/category/story)
  [其他](/category/其他)
+ [日记](/category/日记)
+ [技术](/category/技术)
  [algriothm](/category/algriothm)
  [algorithm](/category/algorithm)
  [cs](/category/cs)
@@ -59,6 +63,8 @@
  [idea](/tag/idea)
  [story](/tag/story)
  [其他](/tag/其他)
+ [日记](/tag/日记)
+ [ocr](/tag/ocr)
  [tree](/tag/tree)
  [algorithm](/tag/algorithm)
  [unicode](/tag/unicode)

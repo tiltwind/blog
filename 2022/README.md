@@ -1,7 +1,7 @@
 # [望哥的博客](http://blog.sisopipo.com)
 
-## others
-* [我的伯母](/others/2019-my-aunt), wongoo, 2019-12-12
+## 2022
+* [安装PaddleOCR](/2022/2022-11-25-paddle-ocr), 斜风, 2022-11-25
 
 ## Navigation
 [others](/others/)

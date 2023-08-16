@@ -3,6 +3,8 @@
  [idea](/category/idea)
  [story](/category/story)
  [其他](/category/其他)
+ [日记](/category/日记)
+ [技术](/category/技术)
  [algriothm](/category/algriothm)
  [algorithm](/category/algorithm)
  [cs](/category/cs)

@@ -1,7 +1,7 @@
 # [望哥的博客](http://blog.sisopipo.com)
 
-## others
-* [我的伯母](/others/2019-my-aunt), wongoo, 2019-12-12
+## 2023
+* [2023-08 日记](/2023/2023-08-diary), 斜风, 2023-08-14
 
 ## Navigation
 [others](/others/)
