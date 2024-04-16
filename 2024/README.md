@@ -1,7 +1,7 @@
 # [望哥的博客](http://blog.sisopipo.com)
 
-## 2022
-* [安装PaddleOCR](/2022/2022-11-25-paddle-ocr), 斜风, 2022-11-25
+## 2024
+* [低代码 vs AI](/2024/2024-04-16-lowcode-vs-ai), 斜风, 2024-04-16
 
 ## Navigation
 [others](/others/)

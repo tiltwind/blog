@@ -4,6 +4,8 @@
  [idea](/tag/idea)
  [story](/tag/story)
  [其他](/tag/其他)
+ [低代码](/tag/低代码)
+ [ai](/tag/ai)
  [日记](/tag/日记)
  [ocr](/tag/ocr)
  [tree](/tag/tree)
