@@ -54,7 +54,6 @@ function GenPageId() {
 
 function NewGitalk() {
   return new Gitalk({
-    accessToken: gitalk_access_token,
     clientID: gitalk_client_id,
     clientSecret: gitalk_client_secret,
     repo: gitalk_repo,
